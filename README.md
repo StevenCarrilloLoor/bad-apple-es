@@ -55,7 +55,16 @@ La primera vez que abras el juego aparecerán solos unos archivos `.rpymc` dentr
 | Sigue en inglés y el juego no está en español | Menú `Language` → **Español** |
 | La carpeta quedó una dentro de otra (`BadAppleMod\BadAppleMod\es\`) | Sube `es` y `metadata_es.json` un nivel, como en el esquema |
 | El mod no aparece, o sale un aviso de que «no está instalado correctamente» | `metadata.json` tiene que estar en `game\mods\BadAppleMod\`, no una carpeta más adentro |
-| No sale la caja de diálogo y aparece el texto `Couldn't find file 'gui/textbox_long.webp'` | No es de este parche: pasa cuando el mod Age After Beauty está activado a la vez. Apágalo en el menú de mods mientras juegas Bad Apple |
+| No sale la caja de diálogo y aparece el texto `Couldn't find file 'gui/textbox_long.webp'` | No es de este parche: pasa cuando el mod Age After Beauty está activado a la vez. Tiene arreglo, explicado justo debajo de esta tabla |
+
+#### Age After Beauty y la caja de diálogo
+
+Mientras está activado, Age After Beauty (versión 1.1) cambia la caja de diálogo de todo el juego, y para las líneas con nombre de personaje busca una imagen, `game\gui\textbox_long.webp`, que Patch 14 no trae. Por eso la caja desaparece también en Bad Apple y en cualquier otro mod. Hay dos salidas:
+
+- **Añadir la imagen que falta.** Con el juego cerrado, entra en `game\gui\`, haz una copia de `textbox_long.png` y ponle a la copia el nombre `textbox_long.webp`. Si Windows no te enseña las extensiones (`.png`), actívalas antes en el Explorador: menú Ver, «Extensiones de nombre de archivo». No se cambia ningún archivo del juego ni de los mods, y se deshace borrando esa copia.
+- **Apagar Age After Beauty** en el menú de mods (casilla a su izquierda y **Recargar Mods**) mientras juegas Bad Apple.
+
+Lo primero está comprobado con Patch 14 para Windows y Age After Beauty 1.1: con la copia puesta, la caja vuelve a salir en Bad Apple y en el prólogo de Age After Beauty.
 
 ### Para quitarlo
 

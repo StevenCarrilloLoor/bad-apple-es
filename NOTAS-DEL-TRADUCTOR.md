@@ -60,7 +60,7 @@ Bad Apple es un mod de Team Starlight, basado en el fanfic de Umbruhh, para Snoo
 | après la pluie, le beau temps | después de la lluvia sale el sol |
 
 ## Si algo se ve mal
-- **No sale la caja de diálogo y aparece el texto `Couldn't find file 'gui/textbox_long.webp'.`** No es de Bad Apple ni de este parche: ocurre cuando el mod Age After Beauty 1.1 está activado a la vez. Desactívalo en el menú de mods (casilla a su izquierda y «Recargar Mods») mientras juegas otra cosa.
+- **No sale la caja de diálogo y aparece el texto `Couldn't find file 'gui/textbox_long.webp'.`** No es de Bad Apple ni de este parche: ocurre cuando el mod Age After Beauty 1.1 está activado a la vez, porque busca una imagen que Patch 14 no trae. Arreglo: con el juego cerrado, entra en `game\gui\`, haz una copia de `textbox_long.png` y ponle a la copia el nombre `textbox_long.webp` (se deshace borrando esa copia). O desactiva Age After Beauty en el menú de mods (casilla a su izquierda y «Recargar Mods») mientras juegas otra cosa.
 - **Todo sale en inglés:** comprueba que el idioma del juego sea Español y que la carpeta `es` esté dentro de `game\mods\BadAppleMod\`.
 
 ## Cómo está hecha
