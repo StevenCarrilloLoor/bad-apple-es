@@ -1,0 +1,32 @@
+# Bad Apple - traduccion al espanol latinoamericano (subtitulos de las imagenes con texto)
+# Version del parche: 1.0 (2026-11-22)
+# Para: Bad Apple (Team Starlight) sobre Snoot Game Patch 14 (Ren'Py 8.3.7.25031702)
+#
+# Capa de traduccion independiente: no modifica ningun archivo del mod ni del juego.
+# Archivo GENERADO por herramientas/construir.py. No lo edites a mano: la traduccion vive
+# en fuente/ y cada bloque de aqui abajo se refiere al guion original por archivo y linea.
+# Es un .rpym para que el cargador de mods del juego solo lo cargue con el mod activado.
+#
+# Bad Apple y Snoot Game pertenecen a sus autores. Esta es una traduccion de fans.
+
+init 600 python hide:
+
+    def ba_es_rotulo(nombre, archivo, texto, ypos):
+        ruta = BadAppleDir + archivo
+        subtitulo = Text(
+            texto,
+            font=gui.text_font, size=46, color="#ffffff",
+            outlines=[(4, "#000000", 0, 0)],
+            xalign=0.5, ypos=ypos, textalign=0.5)
+        renpy.image(nombre, ConditionSwitch(
+            "_preferences.language == 'es'", Fixed(Image(ruta), subtitulo, xysize=(1920, 1080)),
+            "True", Image(ruta),
+            predict_all=False))
+
+    ba_es_rotulo("badAppleChapter1", "assets/badapplechapter1title.png", "Capítulo I — Arco de La Torre", 860)
+    ba_es_rotulo("badAppleChapter2", "assets/badapplechapter2title.png", "Capítulo II — Arco de La Torre", 860)
+    ba_es_rotulo("badAppleChapter3", "assets/badapplechapter3title.png", "Capítulo III — Arco de La Torre", 860)
+    ba_es_rotulo("badAppleChapter4", "assets/badapplechapter4title.png", "Capítulo IV — Arco de Los Enamorados", 860)
+    ba_es_rotulo("badAppleChapter5", "assets/badapplechapter5title.png", "Capítulo V — Arco de Los Enamorados", 860)
+    ba_es_rotulo("badAppleChapter6", "assets/badapplechapter6title.png", "Capítulo VI — Arco de Los Enamorados", 860)
+    ba_es_rotulo("badAppleTBC", "BadAppleArcTeaser.png", "Continuará en el arco de La Fuerza...", 90)

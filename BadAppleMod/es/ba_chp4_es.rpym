@@ -1,0 +1,2950 @@
+# Bad Apple - traduccion al espanol latinoamericano (ba_chp4)
+# Version del parche: 1.0 (2026-11-22)
+# Para: Bad Apple (Team Starlight) sobre Snoot Game Patch 14 (Ren'Py 8.3.7.25031702)
+#
+# Capa de traduccion independiente: no modifica ningun archivo del mod ni del juego.
+# Archivo GENERADO por herramientas/construir.py. No lo edites a mano: la traduccion vive
+# en fuente/ y cada bloque de aqui abajo se refiere al guion original por archivo y linea.
+# Es un .rpym para que el cargador de mods del juego solo lo cargue con el mod activado.
+#
+# Bad Apple y Snoot Game pertenecen a sus autores. Esta es una traduccion de fans.
+
+# ba_chp4:5
+translate es badAppleChapter4_d7cab568:
+
+    St "{i}Solo quería decirte que fue genial volver a verte... D-de verdad significó mucho para mí que vinieras aquí conmigo. Gracias.{/i}"
+
+# ba_chp4:6
+translate es badAppleChapter4_38befb65:
+
+    "Las palabras de Stella al final de nuestra... salida de la semana pasada resuenan en mi cabeza mientras espero a que llegue."
+
+# ba_chp4:18
+translate es badAppleChapter4_0b758b26:
+
+    "Lo del sábado pasado en el Bubb Lee salió bastante bien. Esperaba que fuera difícil sin Rosa, porque es la única que sabe calmar a Stella cuando le da ansiedad."
+
+# ba_chp4:19
+translate es badAppleChapter4_63fca897:
+
+    "Pero me sorprendió verla bastante tranquila durante toda nuestra c—{w=0.25} reunión."
+
+# ba_chp4:20
+translate es badAppleChapter4_ca3c8810:
+
+    "Me atrevería a decir que hasta extrovertida."
+
+# ba_chp4:21
+translate es badAppleChapter4_2761fd7a:
+
+    "Quizás sea mi lado autista, pero por la forma en que la tímida estego me invitó a tomar té de burbujas con ella, Stella lo hizo sonar menos banal."
+
+# ba_chp4:24
+translate es badAppleChapter4_87b8bca1:
+
+    St "{i}¡Yo voy a pedir el de fresa! Pero como es tu primera vez, deberías pedir el de chocolate. ¡No te va a decepcionar!{/i}"
+
+# ba_chp4:26
+translate es badAppleChapter4_0b97c2ee:
+
+    "Bueno, al menos no me sugirió el de banana, pero no se equivocó en absoluto. No me decepcionó."
+
+# ba_chp4:27
+translate es badAppleChapter4_1b2951e2:
+
+    "El rato que pasamos juntos fue bastante tranquilo. Hablamos sobre todo de lo típico: anime, arte, videojuegos y, por supuesto, la charla que tuvimos sobre ‘las maravillas del boba’."
+
+# ba_chp4:28
+translate es badAppleChapter4_256fc07d:
+
+    "Y me di cuenta de otra cosa mientras estábamos sentados: lo distinto que era su lenguaje corporal comparado con las otras veces que la he visto."
+
+# ba_chp4:29
+translate es badAppleChapter4_478be4d0:
+
+    "En vez de estar asustadiza y reservada, parecía más bien... cálida, abierta y nerviosa. Pero no con el mismo nerviosismo que mostraba cuando le daba ansiedad."
+
+# ba_chp4:30
+translate es badAppleChapter4_37f71967:
+
+    "Es casi como si estuviera nerviosa en el buen sentido, lo que explicaría que se sonrojara."
+
+# ba_chp4:31
+translate es badAppleChapter4_c4d0a098:
+
+    "...Y mentiría si dijera que yo no me sonrojé también."
+
+# ba_chp4:34
+translate es badAppleChapter4_4bb18ce2:
+
+    "Antes de irnos, decidimos planear otra salida."
+
+# ba_chp4:35
+translate es badAppleChapter4_5c61e627:
+
+    "Ella propuso ir a ver el Centro Comercial Volcaldera, algo que me sorprendió, porque no parece llevarse bien con las multitudes. Pero no iba a decirle que no."
+
+# ba_chp4:36
+translate es badAppleChapter4_a9f3c561:
+
+    "De hecho, tenía bastantes ganas."
+
+# ba_chp4:58
+translate es badAppleChapter4_b60d2601:
+
+    "El repentino aleteo sobre mi cabeza me saca del recuerdo y me devuelve a donde estoy."
+
+# ba_chp4:59
+translate es badAppleChapter4_4cb6dfab:
+
+    "Sentado en una banca afuera del centro comercial, con las muletas a mi lado, siento la brisa fresca del final del otoño, que me recuerda que el frío siempre me va a encontrar, sin importar qué tan lejos vaya."
+
+# ba_chp4:60
+translate es badAppleChapter4_32c6b60b:
+
+    "Dios, ¿por qué tuve que sonar tan emo?"
+
+# ba_chp4:61
+translate es badAppleChapter4_cabfac5d:
+
+    "Bueno, igual no es tan brutal como el clima de Rock Bottom, donde empieza a nevar en pleno puto octubre."
+
+# ba_chp4:62
+translate es badAppleChapter4_9d97df4d:
+
+    "Por suerte, creo que en Volcaldera no nieva desde 2015."
+
+# ba_chp4:63
+translate es badAppleChapter4_3f3bfaf9:
+
+    "Aquí estoy, sentado solo en una banca, afuera de un centro comercial casi desierto, un jueves por la tarde."
+
+# ba_chp4:64
+translate es badAppleChapter4_bfc779df:
+
+    "Si no fuera por la pierna rota, me imagino que casi todos pensarían que soy un asesino en serie o un pedófilo, y más todavía en un centro comercial más de mierda."
+
+# ba_chp4:65
+translate es badAppleChapter4_c73ef23a:
+
+    "Por suerte, el Centro Comercial Volcaldera parece ser de los mejorcitos de esta ciudad, que es una mierda bañada en oro."
+
+# ba_chp4:66
+translate es badAppleChapter4_4d6f86d8:
+
+    "No es que conozca mucho la zona. Es la segunda vez que vengo a un centro comercial desde que me mudé, y no quise que nuestra salida fuera en el otro por razones obvias..."
+
+# ba_chp4:67
+translate es badAppleChapter4_3df12412:
+
+    "Mi única pierna sana empieza a moverse sola de arriba abajo, impaciente, casi por reflejo."
+
+# ba_chp4:68
+translate es badAppleChapter4_b82cb7bb:
+
+    "Lo que empezó como una espera de diez minutos de pronto parece una hora."
+
+# ba_chp4:69
+translate es badAppleChapter4_772456df:
+
+    "¿Debería mandarle un mensaje a Stella para preguntarle si todo está bien? Parecía tener muchas ganas de conocer este centro comercial después de nuestra salida de la semana pasada."
+
+# ba_chp4:70
+translate es badAppleChapter4_e8d5b327:
+
+    "En cierto modo, yo también tengo ganas."
+
+# ba_chp4:73
+translate es badAppleChapter4_7faa1097:
+
+    "Necesito algo que me distraiga de la abstinencia, que me ha estado jodiendo estos últimos días."
+
+# ba_chp4:74
+translate es badAppleChapter4_c3d9e52b:
+
+    "...Aunque eso no es todo. Yo..."
+
+# ba_chp4:75
+translate es badAppleChapter4_a20cefa7:
+
+    "..."
+
+# ba_chp4:78
+translate es badAppleChapter4_e98a1170:
+
+    "... Es que tengo ganas de volver a ver a Stella."
+
+# ba_chp4:79
+translate es badAppleChapter4_9ad0dd5a:
+
+    "Esa pequeña estego otaku y Rosa le devolvieron cierta luz a mi vida."
+
+# ba_chp4:80
+translate es badAppleChapter4_ec6cf4ea:
+
+    "Una luz que creía perdida hace mucho. Es difícil de describir, pero con ellas me siento..."
+
+# ba_chp4:81
+translate es badAppleChapter4_92e4846f:
+
+    "...vivo otra vez."
+
+# ba_chp4:88
+translate es badAppleChapter4_f9cb72c4:
+
+    unParam "¡Eyyyyy, qué onda, bro!" (who_color="#ED4C5B", who_outline=[(gui.name_text_thickness,"#421014")])
+
+# ba_chp4:92
+translate es badAppleChapter4_d64eb40e:
+
+    "Mierda..."
+
+# ba_chp4:93
+translate es badAppleChapter4_ff3b30b0:
+
+    "Me congelo en cuanto mi cerebro reconoce de quién es esa voz."
+
+# ba_chp4:102
+translate es badAppleChapter4_e1bad0c4:
+
+    "Giro despacio la cabeza hacia quien me saluda y mis ojos se topan con el raptor rosa que se tambalea hacia mí: su típica camiseta roja sin mangas cambiada por una sudadera verde rota y manchada, un termo en la mano y un bolso deportivo cruzado a la espalda."
+
+# ba_chp4:103
+translate es badAppleChapter4_f53acec8:
+
+    A "¿R-Reed?"
+
+# ba_chp4:107
+translate es badAppleChapter4_7bd619cf:
+
+    Re "Eeeeeeeyyyyyyyy..."
+
+# ba_chp4:109
+translate es badAppleChapter4_40039b51:
+
+    "Mi antiguo amigo camina hacia mí, haciendo un esfuerzo evidente por no perder el equilibrio."
+
+# ba_chp4:110
+translate es badAppleChapter4_5033e458:
+
+    "Mierda... ¿es real? ¿Qué hace aquí?"
+
+# ba_chp4:113
+translate es badAppleChapter4_52a12c66:
+
+    "Mis pensamientos se interrumpen cuando la sorpresa me golpea al ver mejor la expresión de su cara."
+
+# ba_chp4:114
+translate es badAppleChapter4_173b671c:
+
+    "¿Está... sonriendo?"
+
+# ba_chp4:116
+translate es badAppleChapter4_b82fcf10:
+
+    Re "¡¡Faaaannng!! ¿Có-c-cómo has estado, brooooo? ¡Hace siiiiiglos!"
+
+# ba_chp4:117
+translate es badAppleChapter4_0ad25b8b:
+
+    "¿Qué?"
+
+# ba_chp4:119
+translate es badAppleChapter4_eea13ca6:
+
+    "Miles de palabras se revuelven en mi cerebro mientras intento entender lo que Reed acaba de decir."
+
+# ba_chp4:120
+translate es badAppleChapter4_96fbfec2:
+
+    "Reed me mira expectante, con los ojos inyectados en sangre y una sonrisa caída, esperando una respuesta mientras sigue tambaleándose frente a mí."
+
+# ba_chp4:121
+translate es badAppleChapter4_3d45967e:
+
+    "¿Cree que soy Fang? ¿¿Cuánto carfe se habrá metido??"
+
+# ba_chp4:123
+translate es badAppleChapter4_e583866e:
+
+    A "Reed... Soy yo, Anon. Fang—{nw}"
+
+# ba_chp4:125
+translate es badAppleChapter4_136df252:
+
+    Re "Amiiiiigo, ¿quién es Alan? ¿Ff-fue Trish la que te metió en esto?"
+
+# ba_chp4:126
+translate es badAppleChapter4_776afd9d:
+
+    Re "Bruuuuuuhhhhh, te juro que por aquí no se iba a la clase del señor Carldelewski."
+
+# ba_chp4:127
+translate es badAppleChapter4_10c1790b:
+
+    Re "Se suponía que iba a ver a Fang para dejarle esas cuerdas de guitarra que necesitaba."
+
+# ba_chp4:129
+translate es badAppleChapter4_dba33827:
+
+    "¿De qué carajo estás hablando?"
+
+# ba_chp4:130
+translate es badAppleChapter4_8a09de9a:
+
+    "¡Nada de lo que dice tiene sentido!"
+
+# ba_chp4:131
+translate es badAppleChapter4_46823892:
+
+    "Siempre pareció medio ido, pero nunca lo había visto en este estado."
+
+# ba_chp4:134
+translate es badAppleChapter4_98cdddd9:
+
+    A "Fang está muerta, Reed..."
+
+# ba_chp4:135
+translate es badAppleChapter4_93d88ccf:
+
+    A "Murió hace meses..."
+
+# ba_chp4:136
+translate es badAppleChapter4_b887e0a3:
+
+    A "Tú... tú ya lo sabes..."
+
+# ba_chp4:137
+translate es badAppleChapter4_b4ba1c0f:
+
+    "Ahora soy yo el que mira cómo los engranajes del cerebro de Reed luchan por girar mientras descifra mis palabras."
+
+# ba_chp4:140
+translate es badAppleChapter4_6d9aee0e:
+
+    Re "....No. Naser, mi bro, ¡literalmente acabo de ver a Fang!"
+
+# ba_chp4:143
+translate es badAppleChapter4_967621a3:
+
+    "Reed se lleva al hocico el recipiente que sostiene y empieza a tragarse todo lo que tiene dentro."
+
+# ba_chp4:147
+translate es badAppleChapter4_afdf85b2:
+
+    "Voy a arriesgarme a adivinar que eso no es café."
+
+# ba_chp4:148
+translate es badAppleChapter4_43543535:
+
+    "Vuelven los segundos de silencio mientras miro a Reed, atónito, y él se empina... lo que carajo tenga en el termo, como si fuera agua."
+
+# ba_chp4:150
+translate es badAppleChapter4_45e5566f:
+
+    A "Oye, Reed, ¿qué hay, eh— qué hay en el termo?"
+
+# ba_chp4:153
+translate es badAppleChapter4_ba47d9ab:
+
+    Re "¡Es carfe, bro!"
+
+# ba_chp4:154
+translate es badAppleChapter4_8cb3a16f:
+
+    Re "¡Pero tipo, carfezilla subido al 11 haciendo una parada de manos encima de la Torre Eiffel!"
+
+# ba_chp4:155
+translate es badAppleChapter4_a037e227:
+
+    Re "...¡Además, lo mezclé con cosas más fuertes, tú me entiendes!"
+
+# ba_chp4:156
+translate es badAppleChapter4_e19e921c:
+
+    "Jesús Raptor... ¿Cómo sigue vivo? Cualquier persona normal probablemente se habría muerto con esa cantidad de drogas."
+
+# ba_chp4:157
+translate es badAppleChapter4_f70ed57d:
+
+    "Ahora que lo pienso, nunca lo había visto tan drogado ni empinándose el carfe con tantas ganas. ¿Acaso..."
+
+# ba_chp4:158
+translate es badAppleChapter4_28f90a64:
+
+    "...¿acaso empezó con esto por Fang? ¿Por mí?"
+
+# ba_chp4:160
+translate es badAppleChapter4_c34e12fd:
+
+    A "Bueno... eh... ¿Qué h-has hecho desde la graduación?"
+
+# ba_chp4:162
+translate es badAppleChapter4_a439c110:
+
+    Re "Bueno... ya sabes, hombreeeee, empecé mi propio asunto, y pegó fuerte estos últimos meses, ¡y-y-y ahora soy prácticamente el raaaptor más rico de la historia!"
+
+# ba_chp4:164
+translate es badAppleChapter4_ee061edb:
+
+    Re "¡Y aaaaademás, invertí un montoooooón en SnootCoin para que VeeVoorm Dramm por fin tenga el billete que necesitamos para arrancar de veeeeeerdad!"
+
+# ba_chp4:166
+translate es badAppleChapter4_702cbdf1:
+
+    "¿Qué demonios te has hecho, Reed?"
+
+# ba_chp4:169
+translate es badAppleChapter4_b2ad3f48:
+
+    A "Yo... me tengo que ir."
+
+# ba_chp4:170
+translate es badAppleChapter4_5e91de8d:
+
+    A "Lo siento, Reed..."
+
+# ba_chp4:175
+translate es badAppleChapter4_f3ab9549:
+
+    A "Tengo que... ir a una entrevista de trabajo."
+
+# ba_chp4:176
+translate es badAppleChapter4_413375ba:
+
+    "Reed se encoge de hombros con los ojos apenas abiertos."
+
+# ba_chp4:177
+translate es badAppleChapter4_4a5f0ffd:
+
+    Re "¡Tooodo bien, broski! ¡Nos veeeemos, Trish!"
+
+# ba_chp4:178
+translate es badAppleChapter4_124ddbe4:
+
+    Re "¡Avísame si puedeees decirle a Naomi que Rosa todavía me debe esas veinte coronas del otro día!"
+
+# ba_chp4:179
+translate es badAppleChapter4_005ed661:
+
+    "Lo siento tanto, Reed, carajo..."
+
+# ba_chp4:180
+translate es badAppleChapter4_081863a6:
+
+    "Me despido de él con la mano, incómodo, mientras el raptor ido se desploma en el suelo y me devuelve el saludo, aunque con una sonrisa floja."
+
+# ba_chp4:191
+translate es badAppleChapter4_a300ebf8:
+
+    "Mientras cojeo hacia la entrada del centro comercial, mi mente empieza a procesar del todo lo que acabo de ver."
+
+# ba_chp4:192
+translate es badAppleChapter4_f735aef8:
+
+    "Reed se destrozó por completo la puta cabeza..."
+
+# ba_chp4:193
+translate es badAppleChapter4_f91f835a:
+
+    "¿Cuánto tiempo lleva así?"
+
+# ba_chp4:194
+translate es badAppleChapter4_b68db757:
+
+    "Una parte de mí no puede culparlo. Carajo, no soy quién para juzgar, con tanto Adderall que me trago como si fueran Tic Tacs. Y ni hablar del jarabe para la tos que me tomo porque no puedo comprar alcohol: lo mezclas con Stoka Cola o 11-Up y funciona igual."
+
+# ba_chp4:195
+translate es badAppleChapter4_1d7970de:
+
+    "Aunque tampoco es que pueda conseguir ninguna de las dos cosas, porque casi todas las putas farmacias de la ciudad me odian."
+
+# ba_chp4:207
+translate es badAppleChapter4_c9ae5265:
+
+    "Empujo las puertas y, al entrar por fin al edificio, me golpea el cambio de temperatura."
+
+# ba_chp4:208
+translate es badAppleChapter4_489f6015:
+
+    "Frente a mí hay una fuente, con los chorros apuntando hacia dentro y formando un círculo de agua. El edificio tiene dos pisos, con tiendas y locales a cada lado, y ninguno está muy concurrido."
+
+# ba_chp4:209
+translate es badAppleChapter4_77e3292f:
+
+    "Tiene sentido, es jueves por la tarde—por eso los pasillos no están llenos de niños gritando."
+
+# ba_chp4:210
+translate es badAppleChapter4_5291f102:
+
+    "Aunque ojalá pudiera decir lo mismo de los niños llorando."
+
+# ba_chp4:211
+translate es badAppleChapter4_64b7803a:
+
+    "Oigo un llanto a mi derecha, y una parte de mí siente la necesidad de averiguar de dónde viene, porque me suena extrañamente familiar."
+
+# ba_chp4:217
+translate es badAppleChapter4_a2a91916:
+
+    "Al doblar la esquina, veo a una chica con una sudadera negra de mangas grises, encogida contra el ventanal, con la cara hundida entre los brazos mientras sigue llorando. Lo único que la distingue es una cola verde lima adornada con placas—"
+
+# ba_chp4:227
+translate es badAppleChapter4_e81efaa7:
+
+    "Espera..."
+
+# ba_chp4:231
+translate es badAppleChapter4_c906a831:
+
+    A "¿Stella? ¿Eres tú?"
+
+# ba_chp4:237
+translate es badAppleChapter4_3737b9ab:
+
+    "La chica de la capucha levanta la cabeza hacia mí y confirma mis sospechas."
+
+# ba_chp4:238
+translate es badAppleChapter4_c1e4441d:
+
+    St "¿A-Anon?"
+
+# ba_chp4:239
+translate es badAppleChapter4_6b642c2d:
+
+    St "Lo siento..."
+
+# ba_chp4:240
+translate es badAppleChapter4_afb1416d:
+
+    "¿Por qué se disculpa? No hizo nada malo."
+
+# ba_chp4:241
+translate es badAppleChapter4_9209e26b:
+
+    "Me intriga más por qué está llorando."
+
+# ba_chp4:242
+translate es badAppleChapter4_a487a7be:
+
+    "Verla tan angustiada, completamente sola, con los ojos llenos de tristeza... Siento que se me aprieta el corazón, y una inquietud se me extiende por el cuerpo como una ola."
+
+# ba_chp4:243
+translate es badAppleChapter4_7ed9c72d:
+
+    "Me duele verla así. ¿Cómo era que lo manejaba Rosa?"
+
+# ba_chp4:258
+translate es badAppleChapter4_527fedf1:
+
+    A "Oye, oye, oye, no tienes por qué disculparte."
+
+# ba_chp4:259
+translate es badAppleChapter4_aa366599:
+
+    A "Todo, eh... todo va a estar bien."
+
+# ba_chp4:261
+translate es badAppleChapter4_b30a1784:
+
+    A "¿Quieres hablar de lo que te pasa?"
+
+# ba_chp4:262
+translate es badAppleChapter4_8b7b7d5d:
+
+    St "I-i-intenté venir en autobús p-porque me preocupaba que mis papás no me dejaran venir sola."
+
+# ba_chp4:263
+translate es badAppleChapter4_6f236ac6:
+
+    St "Y cuando llegué no te encontraba, y-y había demasiado ruido, y yo—"
+
+# ba_chp4:267
+translate es badAppleChapter4_3f080258:
+
+    "La presa se rompe antes de que pueda decir otra palabra: hunde la cara entre los brazos y vuelve a sollozar."
+
+# ba_chp4:268
+translate es badAppleChapter4_d89ac0e2:
+
+    "No tengo... ni idea de qué hacer..."
+
+# ba_chp4:269
+translate es badAppleChapter4_79654a22:
+
+    "Estiro la mano para tomar la suya."
+
+# ba_chp4:270
+translate es badAppleChapter4_70ab2737:
+
+    "¿No es así como la gente se consuela cuando está triste?"
+
+# ba_chp4:271
+translate es badAppleChapter4_c43718ed:
+
+    "En cuanto mi mano toca sus escamas, deja de temblar y de llorar."
+
+# ba_chp4:277
+translate es badAppleChapter4_30c77e2e:
+
+    "¡MIERDA, ABORTAR ABORTAR ABORTAR!"
+
+# ba_chp4:278
+translate es badAppleChapter4_959cc140:
+
+    "Temo haber vuelto todo incómodo al tocarla, así que intento retirar la mano, pero antes de que pueda, Stella me la agarra rápido..."
+
+# ba_chp4:282
+translate es badAppleChapter4_c140a595:
+
+    St "Lo siento... Lo siento."
+
+# ba_chp4:285
+translate es badAppleChapter4_ff51342c:
+
+    "Me aprieta la mano con fuerza mientras se gira hacia mí, sin hacer caso de la sorpresa que crece en mi cara."
+
+# ba_chp4:286
+translate es badAppleChapter4_f7f99e74:
+
+    St "Ya... eh... creo que ya puedo con esto."
+
+# ba_chp4:291
+translate es badAppleChapter4_bb4380c7:
+
+    St "Me alegra verte, Anon."
+
+# ba_chp4:292
+translate es badAppleChapter4_3dd57699:
+
+    "¿Misión fallida con éxito...?"
+
+# ba_chp4:295
+translate es badAppleChapter4_5a1b406c:
+
+    "Casi se me traban las palabras cuando Stella se levanta del suelo y me obliga a cargar todo el peso en mi única pierna sana."
+
+# ba_chp4:297
+translate es badAppleChapter4_7f86bd34:
+
+    A "A-a mí también me alegra verte, Stella."
+
+# ba_chp4:298
+translate es badAppleChapter4_435ba1d3:
+
+    A "Entonces, eh... ¿quieres ir a ver algunas cosas por aquí?"
+
+# ba_chp4:300
+translate es badAppleChapter4_f1a3009b:
+
+    "Stella no responde a mi pregunta y se da la vuelta, dejándome con la duda de si dije algo malo."
+
+# ba_chp4:301
+translate es badAppleChapter4_7fd77f4a:
+
+    "Mierda, ¿fue insensible preguntar eso? Dios, ¿por qué soy tan puto idiota? ¿Por qué tengo que cagarla tanto, hasta el punto de que lo único bueno que me queda es—{nw}"
+
+# ba_chp4:303
+translate es badAppleChapter4_152351e1:
+
+    St "Sí, me gustaría mucho..."
+
+# ba_chp4:304
+translate es badAppleChapter4_eaa4deea:
+
+    "Ah... bueno, supongo que no."
+
+# ba_chp4:307
+translate es badAppleChapter4_b0e843e2:
+
+    A "¡Me parece bien!"
+
+# ba_chp4:308
+translate es badAppleChapter4_24317930:
+
+    A "¿A dónde quieres ir primero? Es mi primera vez aquí."
+
+# ba_chp4:309
+translate es badAppleChapter4_121f4af4:
+
+    "Stella se vuelve hacia mí mientras se frota la parte de abajo del hocico con la mano, frunciendo el ceño sobre sus ojos todavía hinchados."
+
+# ba_chp4:313
+translate es badAppleChapter4_c149932c:
+
+    St "Hmmm, este centro comercial tiene un montón de tiendas geniales."
+
+# ba_chp4:316
+translate es badAppleChapter4_088104f6:
+
+    St "¿Te parece si vamos primero a Hot Tropic?"
+
+# ba_chp4:317
+translate es badAppleChapter4_da274d94:
+
+    "¿Hot Tropic? ¿Esa no era la tienda para góticos y aspirantes a vampiro?"
+
+# ba_chp4:320
+translate es badAppleChapter4_81f2e83d:
+
+    St "En realidad también tienen muchas cosas de anime geniales. ¡Creo que va a ser divertido!"
+
+# ba_chp4:321
+translate es badAppleChapter4_fb8dab78:
+
+    "Jesucristo, Anon, qué tacto."
+
+# ba_chp4:324
+translate es badAppleChapter4_7398aeba:
+
+    A "¡S-sí, vamos a verla!"
+
+# ba_chp4:336
+translate es badAppleChapter4_888d9002:
+
+    A "Espera, ¿dónde está?"
+
+# ba_chp4:339
+translate es badAppleChapter4_d7d739a9:
+
+    St "¡Ah! Debería estar en el segundo piso, junto a GameRock. ¡También quiero ir a ver esa!"
+
+# ba_chp4:340
+translate es badAppleChapter4_0ce6ec81:
+
+    "El estrés y el miedo que atormentaban a Stella hace un momento se esfuman en cuanto lo dice."
+
+# ba_chp4:341
+translate es badAppleChapter4_765832ee:
+
+    "Casi demasiado rápido..."
+
+# ba_chp4:342
+translate es badAppleChapter4_32d22961:
+
+    "Bah, ya me preocuparé después."
+
+# ba_chp4:343
+translate es badAppleChapter4_4d21aa2e:
+
+    "Le levanto el pulgar mientras me apoyo con el brazo en la muleta."
+
+# ba_chp4:345
+translate es badAppleChapter4_b0e843e2_1:
+
+    A "¡Me parece bien!"
+
+# ba_chp4:347
+translate es badAppleChapter4_08c48cdf:
+
+    "Sin decir nada, Stella me hace señas con entusiasmo hacia el ascensor del centro comercial, teniendo en cuenta mi situación."
+
+# ba_chp4:349
+translate es badAppleChapter4_8f972e16:
+
+    "Con cuidado, vamos los dos hacia el ascensor, pasando junto a un puñado de gente, todos dinos, claro."
+
+# ba_chp4:359
+translate es badAppleChapter4_6a4ca683:
+
+    "Supongo que fue buena idea venir temprano, cuando los niños todavía están en clase."
+
+# ba_chp4:360
+translate es badAppleChapter4_77900fae:
+
+    "Me imagino que habría mucha más gente si hubiéramos venido un par de horas más tarde."
+
+# ba_chp4:369
+translate es badAppleChapter4_780681a4:
+
+    "Al llegar al ascensor, Stella aprieta el botón y las puertas se abren casi al instante. La estego se vuelve hacia mí con una sonrisa dulce y sostiene la puerta para dejarme pasar."
+
+# ba_chp4:379
+translate es badAppleChapter4_98bf3878:
+
+    "...Digo, ya sé que casi todas las puertas de ascensor tienen sensores para no cerrarse encima de la gente y aplastarla, pero igual no puedo evitar sonreír por el gesto."
+
+# ba_chp4:380
+translate es badAppleChapter4_de54c7a0:
+
+    "Al entrar los dos, Stella aprieta el botón marcado con el ‘2’ en el panel y, mientras se cierran las puertas, alcanzo a ver una figura apoyada en la esquina que me está mirando."
+
+# ba_chp4:395
+translate es badAppleChapter4_b636f56f:
+
+    "Sudadera amarilla con pantalones deportivos negros, piel morada y unos ojos llenos de desprecio. Una presencia que conozco demasiado bien."
+
+# ba_chp4:402
+translate es badAppleChapter4_166482a8:
+
+    "Mierda... ¡otra vez no!"
+
+# ba_chp4:403
+translate es badAppleChapter4_4b505a1e:
+
+    "¿¿Esta vez es real?? Si Reed estaba aquí de verdad, ¿quiere decir que ella también está aquí?"
+
+# ba_chp4:406
+translate es badAppleChapter4_e9ee69bb:
+
+    "No, estuvo en Dino Moes la semana pasada y no pasó nada. Es solo tu cabeza jodiéndote otra vez..."
+
+# ba_chp4:420
+translate es badAppleChapter4_9087e9ad:
+
+    St "A-Anon, ¿estás bien?"
+
+# ba_chp4:421
+translate es badAppleChapter4_a6478307:
+
+    "El roce de la mano de Stella en mi hombro me saca del shock."
+
+# ba_chp4:422
+translate es badAppleChapter4_2b6c06c0:
+
+    "No necesita saber que eres un esquizo, Anon, ya está bastante asustada. Si se lo dices, seguro se va a la primera oportunidad."
+
+# ba_chp4:424
+translate es badAppleChapter4_d9f7bba5:
+
+    A "Ah, perdón... Es que me da... claustrofobia en los ascensores. Estoy bien."
+
+# ba_chp4:425
+translate es badAppleChapter4_43fc5241:
+
+    "Miro a la estego preocupada y le suelto la mentira como si nada."
+
+# ba_chp4:427
+translate es badAppleChapter4_381440e2:
+
+    St "Ohh... está bien."
+
+# ba_chp4:428
+translate es badAppleChapter4_3d4b0009:
+
+    "Me da la impresión de que no se lo cree del todo, pero no necesita saber de las alucinaciones ni de las drogas..."
+
+# ba_chp4:450
+translate es badAppleChapter4_e537f2a6:
+
+    "La siguiente media hora se pasó bastante rápido, mientras Stella y yo recorríamos todas las tiendas que tenía el centro comercial."
+
+# ba_chp4:457
+translate es badAppleChapter4_c9973106:
+
+    "Para la dulce estego, cada tienda era más emocionante que la anterior; sus ojos siempre se iban hacia cualquier producto que le llamara la atención."
+
+# ba_chp4:463
+translate es badAppleChapter4_982a9ee6:
+
+    "Yo, en cambio, no puedo decir lo mismo, porque casi todos los locales tenían una selección bastante aburrida."
+
+# ba_chp4:469
+translate es badAppleChapter4_f05cfbcf:
+
+    "Casi todos los productos de anime son de la típica basura shōnen para normies, como Sword Art Online, Attack on Titan y, lo peor de todo, My Hero Academia."
+
+# ba_chp4:475
+translate es badAppleChapter4_771f077f:
+
+    "GameRock tampoco era mucho mejor, porque a estas alturas no es más que una tienda de figuras Dunko Pop con ínfulas que, de paso, también vende videojuegos."
+
+# ba_chp4:481
+translate es badAppleChapter4_94e7ca43:
+
+    "Aparte de esas dos, también fuimos a otras tiendas, como Sunset Records, Sponsor’s Gift y nuestro destino actual, Cinnabon."
+
+# ba_chp4:490
+translate es badAppleChapter4_dfa99260:
+
+    "A los dos nos estaba dando un poco de hambre, así que decidimos parar a disfrutar de una delicia que da diabetes. Además, estos rollos de canela glaseados deberían quitarme de la boca el sabor de tanta mierda consumista."
+
+# ba_chp4:491
+translate es badAppleChapter4_2e758cb1:
+
+    "Aunque, por más indiferente que me dejen las tiendas que visitamos, no me importa si eran buenas o no."
+
+# ba_chp4:493
+translate es badAppleChapter4_31b607ed:
+
+    "Simplemente me sentía feliz de estar con Stella."
+
+# ba_chp4:494
+translate es badAppleChapter4_afccefcc:
+
+    "Ver cómo vuelve a salir su lado alegre y burbujeante después de haber estado aplastado tanto tiempo es casi contagioso, y me llena de una calidez que derrite el hielo alrededor de mi corazón."
+
+# ba_chp4:495
+translate es badAppleChapter4_8b84278f:
+
+    "Su sonrisa, sus ojos amables, su precioso cabello verde..."
+
+# ba_chp4:500
+translate es badAppleChapter4_02e701f5:
+
+    "No merezco estar aquí con ella, no después de cómo la traté en el instituto."
+
+# ba_chp4:502
+translate es badAppleChapter4_03ae6eed:
+
+    "Salgo de mi trance y me acerco a la caja dando tumbos, con Stella a mi lado, listos para pedir."
+
+# ba_chp4:509
+translate es badAppleChapter4_58d0a427:
+
+    Cashier "¡Hola, bienvenidos a Cinnabon! ¿Qué les puedo servir hoy?"
+
+# ba_chp4:511
+translate es badAppleChapter4_641a333a:
+
+    "Hago mi pedido en la caja: un rollo de canela tamaño normal y un café helado de vainilla. Stella, por su parte, pide lo mismo, pero con un frappé doble chocolate."
+
+# ba_chp4:512
+translate es badAppleChapter4_e0caa827:
+
+    "¿Cómo puede comer tanta porquería así y no estar gorda? A menos que todo se le vaya a..."
+
+# ba_chp4:513
+translate es badAppleChapter4_9f2029a2:
+
+    "Jesucristo, Anon, ten la bragueta cerrada."
+
+# ba_chp4:514
+translate es badAppleChapter4_584accfc:
+
+    "Salimos de la tienda mientras llevo la bolsa de comida con la mano libre, intentando que no se me caiga ni caerme yo."
+
+# ba_chp4:517
+translate es badAppleChapter4_3ab30689:
+
+    St "¡Sentémonos junto a la fuente, se ve como un buen lugar!"
+
+# ba_chp4:532
+translate es badAppleChapter4_7fbd41c2:
+
+    "Stella me lleva hasta la fuente que hay a la derecha de la entrada de la tienda. Esta parece más una tina enorme que la cascada artificial que está frente a la entrada principal."
+
+# ba_chp4:542
+translate es badAppleChapter4_722b05b1:
+
+    "Dejo la bolsa en el borde que hace de banca y me siento despacio, mientras Stella deja su bebida y me pasa la mía."
+
+# ba_chp4:548
+translate es badAppleChapter4_b59fab1e:
+
+    St "Entonces, eh... ¿ya habías ido a un Cinnabon, Anon?"
+
+# ba_chp4:549
+translate es badAppleChapter4_dcf2b30e:
+
+    A "Creo que una vez. Aunque fue hace un par de años."
+
+# ba_chp4:552
+translate es badAppleChapter4_eb120ede:
+
+    A "Mis papás y yo íbamos a ver a mis abuelos por Navidad, y paramos en un centro comercial de camino porque se les había olvidado comprarle el regalo a mi tío o algo así."
+
+# ba_chp4:553
+translate es badAppleChapter4_3fa78ef4:
+
+    A "Mi papá me dio cinco dólares y me dijo que volviera al carro en quince minutos."
+
+# ba_chp4:554
+translate es badAppleChapter4_5802b656:
+
+    "Hago una pausa breve y le doy un sorbo a mi café helado; siento cómo la mezcla fría de café, crema y vainilla me baja por la garganta."
+
+# ba_chp4:555
+translate es badAppleChapter4_6e3faa2a:
+
+    "Maldita sea, qué bueno está. Me pregunto si podré hacerlo con el café instantáneo de mierda que tengo en casa."
+
+# ba_chp4:556
+translate es badAppleChapter4_f76d2c7a:
+
+    A "Y en el centro comercial donde paramos había uno, así que decidí probarlo."
+
+# ba_chp4:559
+translate es badAppleChapter4_28a67e2e:
+
+    A "Los mejores cinco dólares que he gastado en mi vida."
+
+# ba_chp4:564
+translate es badAppleChapter4_ad9b6593:
+
+    St "¡¿Verdad que sí?! ¡Es taaaaaan rico, todo: las bebidas, los snacks y, sobre todo, los rollos de canela!"
+
+# ba_chp4:565
+translate es badAppleChapter4_214a5c75:
+
+    "La estego sonriente irradia entusiasmo mientras mete la mano en la bolsa, saca dos cajitas de cartón y las deja a un lado."
+
+# ba_chp4:566
+translate es badAppleChapter4_14a2447a:
+
+    St "¡Sobre todo el glaseado que les ponen, es mejor que ver tu anime favorito por primera vez!"
+
+# ba_chp4:568
+translate es badAppleChapter4_dd1e5f8a:
+
+    "Una forma algo rara de decirlo, pero entiendo a qué se refiere."
+
+# ba_chp4:570
+translate es badAppleChapter4_194b27d7:
+
+    "Sin querer esperar más, Stella y yo tomamos nuestras cajas. Abro la mía y el olor a canela, crema y masa recién horneada me invade la nariz."
+
+# ba_chp4:571
+translate es badAppleChapter4_3c5769eb:
+
+    "Su aroma seduce mis sentidos y me llama a darles un gusto a mis papilas."
+
+# ba_chp4:572
+translate es badAppleChapter4_ad93fa48:
+
+    "...¿por qué carajo estoy pensando con tanto detalle en un rollo de canela?"
+
+# ba_chp4:573
+translate es badAppleChapter4_59a1b0d4:
+
+    "Sin perder un segundo más, agarro el pan y le doy una mordida moderada."
+
+# ba_chp4:574
+translate es badAppleChapter4_6adbebd0:
+
+    "Jesús Raptor... Ahora entiendo por qué la obesidad se volvió un problema tan grande en nuestro país. Absolutamente, vale la pena."
+
+# ba_chp4:577
+translate es badAppleChapter4_51f4dba2:
+
+    St "¡Ohhh, Anon! Sabes que nos dieron cuchillos y tenedores de plástico, ¿verdad?"
+
+# ba_chp4:579
+translate es badAppleChapter4_925b044d:
+
+    A "¿No se supone que esto se come con las manos, como una dona?"
+
+# ba_chp4:580
+translate es badAppleChapter4_6e7874a9:
+
+    "Miro hacia donde estaban las cajitas y veo un juego de cubiertos de plástico sin abrir."
+
+# ba_chp4:581
+translate es badAppleChapter4_bc7c2715:
+
+    "Ahhh..."
+
+# ba_chp4:584
+translate es badAppleChapter4_913e9657:
+
+    "Oigo a mi compañera estego intentando aguantarse la risa mientras me ve quedar como un imbécil."
+
+# ba_chp4:585
+translate es badAppleChapter4_c248ed27:
+
+    "Pero noto que se sonroja mientras me sonríe y desenvuelve sus cubiertos de plástico."
+
+# ba_chp4:587
+translate es badAppleChapter4_2fd8c3f1:
+
+    St "Eres un tontito, Anon..."
+
+# ba_chp4:590
+translate es badAppleChapter4_5a7cad96:
+
+    A "Eh, me lo quedo. Me han dicho cosas peores."
+
+# ba_chp4:593
+translate es badAppleChapter4_26a6ecda:
+
+    "Su sonrisa desaparece rápido y la reemplaza la preocupación."
+
+# ba_chp4:594
+translate es badAppleChapter4_f91d38a0:
+
+    St "¡Ay, nononono, perdón, Anon! No quería ser mala, ¡s-solo estaba bromeando!"
+
+# ba_chp4:597
+translate es badAppleChapter4_2ac37fd8:
+
+    "Mierda, ¿dije algo malo? ¿Puse una cara rara? Activar maniobras de recuperación."
+
+# ba_chp4:600
+translate es badAppleChapter4_b9abdc9b:
+
+    A "¿Qué? Sabía que bromeabas. Solo te estaba siguiendo el juego."
+
+# ba_chp4:602
+translate es badAppleChapter4_148e0639:
+
+    St "Ah... bueno, ¡culpa mía!"
+
+# ba_chp4:603
+translate es badAppleChapter4_3e903e9c:
+
+    "Stella respira hondo y se le relaja el cuerpo."
+
+# ba_chp4:604
+translate es badAppleChapter4_75195893:
+
+    St "Perdón, Anon, es que a veces me cuesta entender a la gente."
+
+# ba_chp4:605
+translate es badAppleChapter4_4c7a0cbd:
+
+    "Supongo que ya somos dos."
+
+# ba_chp4:606
+translate es badAppleChapter4_b4ee3705:
+
+    St "Sí... supongo que sí. ¡Me alegra no estar sola!"
+
+# ba_chp4:608
+translate es badAppleChapter4_c0ad51cb:
+
+    "...¿Por qué no puedo dejar de murmurar, maldita sea?"
+
+# ba_chp4:610
+translate es badAppleChapter4_96cfeb84:
+
+    "Vuelve su atención a la cajita de cartón que tiene en el regazo, la abre y huele encantada esa delicia dulce. Sin esperar ni un segundo más, la estego ansiosa corta un pedazo del rollo de canela y le da un mordisco."
+
+# ba_chp4:611
+translate es badAppleChapter4_c03061fe:
+
+    "Mientras mastica despacio el pan glaseado, Stella suelta un gemido de satisfacción; está claro que lo disfruta tanto como yo."
+
+# ba_chp4:613
+translate es badAppleChapter4_4fcc76eb:
+
+    St "Mmmmm, sugoi..."
+
+# ba_chp4:614
+translate es badAppleChapter4_1e960218:
+
+    "No creo que esa sea la palabra para la comi-{nw}"
+
+# ba_chp4:615
+translate es badAppleChapter4_d12d44ea:
+
+    St "¡Hace siglos que no comía algo así!"
+
+# ba_chp4:616
+translate es badAppleChapter4_973116ca:
+
+    A "Espera, ¿no pediste un tiramisú la semana pasada?"
+
+# ba_chp4:617
+translate es badAppleChapter4_37df26c7:
+
+    St "Bueno, sí. ¡Pero yo hablaba de rollos de canela!"
+
+# ba_chp4:618
+translate es badAppleChapter4_8200cff7:
+
+    St "Ahhh, a Sage le encantaría-{nw}"
+
+# ba_chp4:624
+translate es badAppleChapter4_845f4292:
+
+    "Espera, ¿quién es Sage? Pero antes de que pueda preguntarle, noto el cambio drástico en su actitud."
+
+# ba_chp4:625
+translate es badAppleChapter4_891b6f74:
+
+    "Hace un momento estaba muy alegre, y ahora su expresión se llena de una punzada de tristeza; se le llenan los ojos de lágrimas y el tenedor se le resbala y cae al suelo."
+
+# ba_chp4:631
+translate es badAppleChapter4_60ec2014:
+
+    A "¿S-Stella? ¿Qué te pasa?"
+
+# ba_chp4:632
+translate es badAppleChapter4_2082770e:
+
+    "Pero antes de que me responda, se echa a llorar y se da la vuelta, con la cara entre las manos."
+
+# ba_chp4:634
+translate es badAppleChapter4_c2bd57ff:
+
+    "Espera, ¿Sage no era esa raptor morada que a veces andaba con Stella en la escuela? No recuerdo haber visto su cuerpo entre la multitud, quizá... no, no es momento de preocuparse por detalles. Stella está sufriendo."
+
+# ba_chp4:635
+translate es badAppleChapter4_47516f27:
+
+    "Por una vez en tu vida, Anon, no seas retrasado."
+
+# ba_chp4:636
+translate es badAppleChapter4_70174365:
+
+    "Dejo mi rollo de canela, me acerco un poco a ella y le pongo el brazo derecho sobre el hombro, algo indeciso."
+
+# ba_chp4:639
+translate es badAppleChapter4_25af557e:
+
+    A "Oye, oye... está bien, ¿quieres hablar de eso?"
+
+# ba_chp4:640
+translate es badAppleChapter4_57de0240:
+
+    St "N-nooo..."
+
+# ba_chp4:641
+translate es badAppleChapter4_b7b9257a:
+
+    "Habla con la voz temblorosa, ahogada por sus manos."
+
+# ba_chp4:650
+translate es badAppleChapter4_7764063e:
+
+    "Mierda, esto está mal..."
+
+# ba_chp4:651
+translate es badAppleChapter4_5ede8fa2:
+
+    "Tengo las habilidades de apoyo emocional de un criminal de guerra; ninguno de esos foros bielorrusos de alfarería me enseñó a consolar a una chica que llora."
+
+# ba_chp4:652
+translate es badAppleChapter4_28b0f176:
+
+    "Piensa, Anon. ¿Qué haría Rosa?"
+
+# ba_chp4:662
+translate es badAppleChapter4_518651ce:
+
+    A "Aquí estoy para ti, Stella. Te lo prometo, no estás sola."
+
+# ba_chp4:663
+translate es badAppleChapter4_8783f8a0:
+
+    "Siento algo cálido contra la piel; sus escamas son suaves como la seda. Su mano se aferra con fuerza a la mía, aunque sigue llorando."
+
+# ba_chp4:664
+translate es badAppleChapter4_2d3a68dc:
+
+    "¿Y si intento... distraerla? ¿Este centro comercial no tiene un arcade en algún lado del primer piso? A lo mejor unos juegos la animan un poco."
+
+# ba_chp4:665
+translate es badAppleChapter4_8bf6d0ec:
+
+    A "Tengo una idea, ¿qué tal si vamos a-{nw}"
+
+# ba_chp4:668
+translate es badAppleChapter4_6d670e11:
+
+    St "S-sí, creo que eso sanaría mi espíritu."
+
+# ba_chp4:670
+translate es badAppleChapter4_920c6fa4:
+
+    "Sorbe por la nariz."
+
+# ba_chp4:671
+translate es badAppleChapter4_0ad25b8b_1:
+
+    "¿Qué?"
+
+# ba_chp4:672
+translate es badAppleChapter4_13b78b48:
+
+    A "Espera, ¿cómo sabías lo que iba a-"
+
+# ba_chp4:673
+translate es badAppleChapter4_745089a5:
+
+    A " ...ah, claro..."
+
+# ba_chp4:675
+translate es badAppleChapter4_701ab8db:
+
+    "El llanto de Stella se convierte en una risita mientras se vuelve hacia mí. Veo su cara, normalmente verde claro, con tonos rojizos y una línea negra que le cae de los ojos: las lágrimas le corrieron el maquillaje. Y a pesar de todo, no puedo evitar sentirme feliz al mirarla."
+
+# ba_chp4:677
+translate es badAppleChapter4_98d0d5a0:
+
+    "La sonrisa que le florece en los labios, aunque sea apenas. Y esos ojos azul celeste que irradian la bondad pura que habita en lo más hondo de su alma."
+
+# ba_chp4:678
+translate es badAppleChapter4_def098af:
+
+    "Cuando la miro, siento alegría. Hasta paz."
+
+# ba_chp4:679
+translate es badAppleChapter4_133d67b2:
+
+    "¿Acaso yo..."
+
+# ba_chp4:680
+translate es badAppleChapter4_5155b866:
+
+    St "Sí que murmuras bastante, Anon."
+
+# ba_chp4:681
+translate es badAppleChapter4_22e499a3:
+
+    "La dulce estego se burla de mi monólogo no tan interior."
+
+# ba_chp4:682
+translate es badAppleChapter4_600ae23e:
+
+    "Mierda, ¿cuánto escuchó?"
+
+# ba_chp4:683
+translate es badAppleChapter4_f85e3390:
+
+    St "Creo que es algo tierno..."
+
+# ba_chp4:684
+translate es badAppleChapter4_a439b59a:
+
+    "¿Eh?"
+
+# ba_chp4:685
+translate es badAppleChapter4_0cf1be64:
+
+    "¿¿EH???????"
+
+# ba_chp4:686
+translate es badAppleChapter4_b2899931:
+
+    "EMMM..."
+
+# ba_chp4:687
+translate es badAppleChapter4_b0f839c3:
+
+    St "¡Y sí, creo que ir al arcade es una idea genial!"
+
+# ba_chp4:688
+translate es badAppleChapter4_ff3ff881:
+
+    St "Me encantaba ir con mi papá cuando era más pequeña."
+
+# ba_chp4:689
+translate es badAppleChapter4_3296bc7c:
+
+    "Stella se levanta del borde y guarda su rollo de canela en la bolsa."
+
+# ba_chp4:690
+translate es badAppleChapter4_66a8d92f:
+
+    A "¡G-genial, vamos, eh... vamos a verlo!"
+
+# ba_chp4:691
+translate es badAppleChapter4_bb322a3a:
+
+    "Torpemente, yo también guardo mi pan en la bolsa y casi se me cae de los brazos temblorosos, lo que hace reír a Stella. Paso el peso a la pierna que no tengo rota y Stella y yo nos levantamos de la banca."
+
+# ba_chp4:696
+translate es badAppleChapter4_6c380794:
+
+    A "¡Guíame tú! Porque yo no tengo ni la menor idea de a dónde ir, carajo."
+
+# ba_chp4:697
+translate es badAppleChapter4_39c113e6:
+
+    "Me giro hacia ella, con cuidado de no perder el equilibrio en las muletas."
+
+# ba_chp4:698
+translate es badAppleChapter4_4897e698:
+
+    St "¡Las estrellas nos guiarán en el viaje que nos espera!"
+
+# ba_chp4:700
+translate es badAppleChapter4_47614fc9:
+
+    "Ahí está la Stella que conozco. La estego adorablemente nerd y amante de la astrología, saliendo a flote."
+
+# ba_chp4:712
+translate es badAppleChapter4_697b31f7:
+
+    "Sin decir más, los dos echamos a andar hacia el ascensor, pasando junto a todas las tiendas repartidas por el centro comercial: tiendas de ropa, de regalos, de comida."
+
+# ba_chp4:716
+translate es badAppleChapter4_a3d1d7e2:
+
+    "Ninguna destaca en especial, pero un reflejo que aparece en la vitrina a mi derecha casi me deja clavado en el sitio."
+
+# ba_chp4:734
+translate es badAppleChapter4_021bfec8:
+
+    "Fang, que me mira con malicia a través del vidrio, con sus ojos de espectro llenos de envidia y el ceño cada vez más fruncido."
+
+# ba_chp4:736
+translate es badAppleChapter4_b370a3a6:
+
+    "Pero su mirada no va dirigida a mí, sino a la figura que tengo al lado."
+
+# ba_chp4:739
+translate es badAppleChapter4_faeb70c9:
+
+    "No... no, no tengo tiempo para esto, hoy no. Me has perseguido los últimos cinco meses, solo quiero un día en el que pueda olvidarme de todo eso. ¿Es mucho pedir, carajo?"
+
+# ba_chp4:740
+translate es badAppleChapter4_4bfe4aa3:
+
+    "¿O sí?"
+
+# ba_chp4:741
+translate es badAppleChapter4_1888ca13:
+
+    "...¿de verdad merezco sentir tanto consuelo?"
+
+# ba_chp4:747
+translate es badAppleChapter4_34c72213:
+
+    St "¿Anon?"
+
+# ba_chp4:748
+translate es badAppleChapter4_00c9a07b:
+
+    "La voz de Stella me hace darme cuenta de que llevo un par de segundos parado sin moverme."
+
+# ba_chp4:750
+translate es badAppleChapter4_b213934b:
+
+    A "P-perdón, me distraje."
+
+# ba_chp4:751
+translate es badAppleChapter4_74ac69c2:
+
+    "Ya pasó por suficiente hoy, no necesita más cosas encima. Por una vez, contrólate, Anon."
+
+# ba_chp4:753
+translate es badAppleChapter4_e7b52515:
+
+    "Por ella..."
+
+# ba_chp4:760
+translate es badAppleChapter4_8e7b714d:
+
+    "Por suerte, el camino al arcade no fue muy largo: el ascensor ya estaba listo en cuanto apretamos el botón, y pasamos el rato charlando de cualquier cosa mientras íbamos."
+
+# ba_chp4:761
+translate es badAppleChapter4_dafa3fb3:
+
+    "Hablamos sobre todo de las tiendas por las que pasamos, de los recuerdos que mi c-{w=.25} amiga compró en el camino y de la dulce ambrosía de canela que Stella llevaba entre sus muchas bolsas."
+
+# ba_chp4:762
+translate es badAppleChapter4_8aa90a33:
+
+    St "Oye, Anon, ¿alguna vez comiste rollos de canela de otro lugar?"
+
+# ba_chp4:763
+translate es badAppleChapter4_71091060:
+
+    A "Hmm... esa sí es una buena pregunta."
+
+# ba_chp4:765
+translate es badAppleChapter4_0b8a9a4a:
+
+    A "Creo que no, aparte de esa vez que te conté."
+
+# ba_chp4:767
+translate es badAppleChapter4_74017738:
+
+    "Intento escarbar en lo más profundo de mi memoria, a ver si me viene a la mente alguna otra vez."
+
+# ba_chp4:768
+translate es badAppleChapter4_bd9159d3:
+
+    A "La verdad, siempre he sido más de donas."
+
+# ba_chp4:771
+translate es badAppleChapter4_3559e12f:
+
+    St "¡A mí también me encantaaan las donas! ¿Has probado esa tienda de aquí de la ciudad? ¿Glory Hole Donuts? ¡Hacen las mejores de todas!"
+
+# ba_chp4:773
+translate es badAppleChapter4_21736d18:
+
+    "...¿Glory Hole Donuts?"
+
+# ba_chp4:774
+translate es badAppleChapter4_218a1996:
+
+    "¿Qué puto nombre es ese para una tienda de donas? ¿En esta ciudad? Es el tipo de mierda que esperarías ver en una tienda de Canadá."
+
+# ba_chp4:776
+translate es badAppleChapter4_c15f2706:
+
+    St "¡B-bueno, sí! ¡Porque las donas tienen un agujero y saben gloriosas! ¿Verdad?"
+
+# ba_chp4:778
+translate es badAppleChapter4_ab199458:
+
+    "No tiene ni idea... ¿verdad?"
+
+# ba_chp4:780
+translate es badAppleChapter4_bf3a4130:
+
+    "El letrero LED brillante y los colores estrafalarios que salen de la entrada me dan un respiro: no voy a tener que explicarle a Stella qué significa ese nombre ni destruir su inocencia."
+
+# ba_chp4:781
+translate es badAppleChapter4_35d83857:
+
+    A "¡Oye, mira, ya llegamos!"
+
+# ba_chp4:783
+translate es badAppleChapter4_e0f5365e:
+
+    "Lo suelto de golpe y tomo a Stella por sorpresa antes de que pueda decir algo."
+
+# ba_chp4:786
+translate es badAppleChapter4_f4e934c1:
+
+    "Al acercarnos a la entrada, vuelvo a mirar el letrero del local, que brilla en un rosa vibrante, con una especie de flor alrededor de las letras."
+
+# ba_chp4:791
+translate es badAppleChapter4_b5df97ee:
+
+    A "Lotus Land Arcade. Interesante nombre para el arcade de un centro comercial, aunque suena un poco... ¿oriental?"
+
+# ba_chp4:795
+translate es badAppleChapter4_f4fe1d2e:
+
+    St "Bueno... sí tienen muchas máquinas geniales importadas de Japón. ¡Además, a mí me gusta el nombre!"
+
+# ba_chp4:796
+translate es badAppleChapter4_df573c0d:
+
+    "Supongo que tiene sentido... Está claro que tienen toda una temática, y entiendo por qué Stella tenía tantas ganas de venir."
+
+# ba_chp4:797
+translate es badAppleChapter4_3b5c513e:
+
+    St "Entonces... ¿es tu primera vez, Anon?"
+
+# ba_chp4:798
+translate es badAppleChapter4_90f28310:
+
+    A "A-ah, sí. La verdad, hace siglos que no voy a ningún arcade."
+
+# ba_chp4:804
+translate es badAppleChapter4_eda848d8:
+
+    "Al cruzar la entrada, la luz artificial nos baña a los dos."
+
+# ba_chp4:805
+translate es badAppleChapter4_8bda1aca:
+
+    A "El único arcade de Rock Bottom no tenía juegos divertidos, así que me quedaba con mi Xrox."
+
+# ba_chp4:806
+translate es badAppleChapter4_2d5faba7:
+
+    St "Ya veo, supongo que tiene sentido."
+
+# ba_chp4:811
+translate es badAppleChapter4_6f07a47a:
+
+    St "¡Quizás el destino te hizo esperar hasta este momento para que tu primer arcade de verdad fuera una experiencia maravillosa!"
+
+# ba_chp4:812
+translate es badAppleChapter4_9c2073e9:
+
+    A "Carajo. ¿Tan bueno es?"
+
+# ba_chp4:813
+translate es badAppleChapter4_5998f54d:
+
+    St "¡Oh, sí, te va a encantar!"
+
+# ba_chp4:815
+translate es badAppleChapter4_e40d1116:
+
+    "Por ahora, venir al arcade ya consiguió levantarle el ánimo a mi c-{w=0.25} amiga estego."
+
+# ba_chp4:816
+translate es badAppleChapter4_90d1c9d4:
+
+    "Mi amiga estego, con la que ya he pasado tiempo a solas dos veces. Mi amiga estego, a la que yo..."
+
+# ba_chp4:817
+translate es badAppleChapter4_8d3b075c:
+
+    "Olvídalo, ya te preocuparás después, Anon."
+
+# ba_chp4:824
+translate es badAppleChapter4_9d83d3a8:
+
+    "Cuando vuelvo a la realidad, veo que Stella nos ha llevado hasta el mostrador, donde un parasaurio de nuestra edad nos espera con una sonrisa llena de dientes."
+
+# ba_chp4:832
+translate es badAppleChapter4_0411fbc2:
+
+    Clerk "¡Hola, chicos! ¿En qué los puedo ayudar hoy?"
+
+# ba_chp4:834
+translate es badAppleChapter4_fce35e09:
+
+    A "Eh, sí... Es mi primera vez aquí, solo quería preguntar qué tenemos que hacer para empezar."
+
+# ba_chp4:835
+translate es badAppleChapter4_967b5ac8:
+
+    Clerk "¿Ah, sí? ¡Genial! Básicamente, les damos una tarjeta que pueden cargar con fichas digitales, ¡y con ellas pueden jugar en cualquiera de nuestras máquinas!"
+
+# ba_chp4:837
+translate es badAppleChapter4_0b044d0c:
+
+    "¿Eso incluye las putas máquinas de apilar bloques que siempre te estafan haciéndote creer que de verdad puedes ganarte un iStone?"
+
+# ba_chp4:838
+translate es badAppleChapter4_5432adb7:
+
+    Clerk "Ja, ja, ja, sí, también funcionan en esas máquinas."
+
+# ba_chp4:839
+translate es badAppleChapter4_4ef74291:
+
+    "Su respuesta suena un poco incómoda..."
+
+# ba_chp4:841
+translate es badAppleChapter4_87c99e0e:
+
+    "Maldita manía de murmurar."
+
+# ba_chp4:844
+translate es badAppleChapter4_e4631aa3:
+
+    St "Anon..."
+
+# ba_chp4:846
+translate es badAppleChapter4_09f8815d:
+
+    A "Ah, perdón. Entonces, ¿qué tenemos que hacer?"
+
+# ba_chp4:850
+translate es badAppleChapter4_54d98eb6:
+
+    Clerk "¡No hay problema! Solo necesito sus nombres y apellidos para registrarlos en el sistema y dejarlos listos."
+
+# ba_chp4:851
+translate es badAppleChapter4_1c35fb57:
+
+    "¿Para qué necesita nuestros apellidos?"
+
+# ba_chp4:852
+translate es badAppleChapter4_506aaf33:
+
+    A "Entendido, me llamo Anon Y. Mous."
+
+# ba_chp4:853
+translate es badAppleChapter4_b066ea25:
+
+    "Se lo digo y ya, porque no quiero quedar todavía más como un idiota delante de Stella."
+
+# ba_chp4:854
+translate es badAppleChapter4_948d08a6:
+
+    Clerk "Excelente, ¿y su nombre?"
+
+# ba_chp4:856
+translate es badAppleChapter4_179ca7eb:
+
+    "El parasaurio desvía la mirada hacia Stella, que mira al suelo, incómoda."
+
+# ba_chp4:858
+translate es badAppleChapter4_2e918e15:
+
+    St "..ella ..elaire"
+
+# ba_chp4:861
+translate es badAppleChapter4_655280f6:
+
+    Clerk "Perdón, ¿podría repetirlo?"
+
+# ba_chp4:864
+translate es badAppleChapter4_e42a5981:
+
+    St "S-Stella Baudelaire."
+
+# ba_chp4:865
+translate es badAppleChapter4_de316839:
+
+    "¿Se apellida Baudelaire? No sé si bromear sobre lo elegante o lo francés que suena."
+
+# ba_chp4:870
+translate es badAppleChapter4_651b6bce:
+
+    St "Vaya. ¡Muy bien, señor Mouse!"
+
+# ba_chp4:871
+translate es badAppleChapter4_63a732b2:
+
+    "Ni siquiera se pronuncia...{w} ¿Sabes qué? Me lo merezco."
+
+# ba_chp4:874
+translate es badAppleChapter4_bf4b2e93:
+
+    "El empleado del arcade se pone a teclear en la computadora, metiendo los datos para preparar nuestras tarjetas."
+
+# ba_chp4:875
+translate es badAppleChapter4_6619261a:
+
+    Clerk "¡Listo! Parece que ya está todo. Pueden recoger sus tarjetas al final de la mesa, ¡y cargarlas en cualquiera de nuestras terminales!"
+
+# ba_chp4:876
+translate es badAppleChapter4_0c370007:
+
+    A "Genial, gracias."
+
+# ba_chp4:877
+translate es badAppleChapter4_f98d7b32:
+
+    "Me despido de él con la mano (o al menos lo intento, mientras hago equilibrio en las muletas) y voy con Stella a recoger nuestras tarjetas."
+
+# ba_chp4:881
+translate es badAppleChapter4_e899034b:
+
+    St "¡Bueno, Anon! ¿A qué juego quieres jugar primero?"
+
+# ba_chp4:882
+translate es badAppleChapter4_54063281:
+
+    A "Como te dije, este lugar es un misterio para mí, ¡así que tú guías!"
+
+# ba_chp4:883
+translate es badAppleChapter4_93e91795:
+
+    "Stella mira a su alrededor por el arcade, sopesando todas las opciones, hasta que me mira con cara de emoción."
+
+# ba_chp4:884
+translate es badAppleChapter4_a3e0410a:
+
+    St "¡Ya sé cuál! ¡Sígueme!"
+
+# ba_chp4:887
+translate es badAppleChapter4_ae5377ea:
+
+    "Casi por reflejo, Stella va a tomarme de la mano, pero se detiene a medio camino al darse cuenta de que, si suelto la muleta, mis probabilidades de caerme de culo se multiplican por diez."
+
+# ba_chp4:890
+translate es badAppleChapter4_7f7fb5e5:
+
+    St "Ay, p-perdón."
+
+# ba_chp4:891
+translate es badAppleChapter4_f134f023:
+
+    A "Nah, todo bien. Vamos a ver los juegos"
+
+# ba_chp4:896
+translate es badAppleChapter4_581cec56:
+
+    "La cara de disculpa de la estego se convierte en entusiasmo mientras se da la vuelta y empieza a caminar hacia el centro del arcade."
+
+# ba_chp4:904
+translate es badAppleChapter4_fa1b68a0:
+
+    "Aferrado a las muletas, la sigo con todo el cuidado que puedo."
+
+# ba_chp4:905
+translate es badAppleChapter4_fa366478:
+
+    "Cargar las tarjetas fue bastante fácil y no tardamos mucho, pero intentar no chocar con ninguna máquina ni con los demás clientes que deambulan por el arcade fue otra historia."
+
+# ba_chp4:908
+translate es badAppleChapter4_b8530de3:
+
+    "Empiezo a preguntarme si no deberíamos haber venido aquí primero, por todos los mocosos que se han desperdigado por el arcade para desahogarse después de clases."
+
+# ba_chp4:912
+translate es badAppleChapter4_b04748bc:
+
+    "Delante de mí, Stella se detiene frente a una máquina de aspecto bastante excéntrico. La estego verde se vuelve hacia mí y me saluda con la mano."
+
+# ba_chp4:917
+translate es badAppleChapter4_c540043a:
+
+    St "¡Por aquí, Anon!"
+
+# ba_chp4:919
+translate es badAppleChapter4_9833660b:
+
+    "A medida que me acerco a la máquina, los detalles se vuelven cada vez más claros."
+
+# ba_chp4:926
+translate es badAppleChapter4_b1184c1a:
+
+    "En la máquina hay un póster con un dino de pelo blanco, con lentes y una chaqueta deportiva gris. Juraría que alguna vez vi a alguien así en mi escuela."
+
+# ba_chp4:928
+translate es badAppleChapter4_fcf4b9ed:
+
+    "Un mal presentimiento me envuelve al ver la carta de tarot en su mano, el monstruo con armadura y gabardina detrás de él y la tipografía colorida pero elegante que revela el título."
+
+# ba_chp4:929
+translate es badAppleChapter4_9166f718:
+
+    "Parasaurna 4 Arena Ultimate."
+
+# ba_chp4:931
+translate es badAppleChapter4_b6d110ac:
+
+    "¿Sabes qué? Ni siquiera puedo enojarme, ya me esperaba que Stella eligiera un juego así."
+
+# ba_chp4:933
+translate es badAppleChapter4_3f611830:
+
+    St "¡Muy bien, Anon! ¿Estás listo?"
+
+# ba_chp4:934
+translate es badAppleChapter4_84dabbaa:
+
+    A "Sí, hagámoslo."
+
+# ba_chp4:941
+translate es badAppleChapter4_d1dcfe11:
+
+    A "¡MIERDA!"
+
+# ba_chp4:943
+translate es badAppleChapter4_803cf960:
+
+    St "¡Esa boca, Anon! ¡Hay niños aquí!"
+
+# ba_chp4:944
+translate es badAppleChapter4_205e251c:
+
+    A "Perdón, eh... ¡rayos!"
+
+# ba_chp4:945
+translate es badAppleChapter4_4bad228f:
+
+    St "¡Así está mejor!"
+
+# ba_chp4:946
+translate es badAppleChapter4_34e87358:
+
+    "Stella se vuelve hacia mí y me saca la lengua, con una cara de pura suficiencia y picardía. No me esperaba que esta otaku me pateara el culo así en este juego."
+
+# ba_chp4:948
+translate es badAppleChapter4_4ddd9a8e:
+
+    "Solo puedo mirar con horror cómo el osito de peluche gigante de la esquina izquierda recibe una paliza sin piedad de una ascensorista invocadora de demonios armada con brujerías cósmicas de mierda."
+
+# ba_chp4:949
+translate es badAppleChapter4_e5f96530:
+
+    "Solo puedo suponer que Stella ha estado compitiendo en torneos de juegos de pelea en secreto, sin que nadie lo sepa. Lo que ya de por sí cuesta creer, porque huele demasiado bien para ser buena en juegos de pelea."
+
+# ba_chp4:951
+translate es badAppleChapter4_03c59965:
+
+    Announcer "KO!"
+
+# ba_chp4:952
+translate es badAppleChapter4_5ba123fb:
+
+    Announcer "ELIZA, WINS!"
+
+# ba_chp4:965
+translate es badAppleChapter4_5690e214:
+
+    St "¡Yupi! ¡Gané!"
+
+# ba_chp4:966
+translate es badAppleChapter4_3ee4507d:
+
+    "Stella sonríe radiante de orgullo antes de volverse hacia mí. La verdad, no puedo amargarme por perder: su alegría burbujeante es demasiado contagiosa como para sentirme así."
+
+# ba_chp4:969
+translate es badAppleChapter4_35fecaff:
+
+    St "¿Jugamos otra ronda antes de ir a ver los otros juegos?"
+
+# ba_chp4:971
+translate es badAppleChapter4_7718ef42:
+
+    A "¡Me parece bien!"
+
+# ba_chp4:973
+translate es badAppleChapter4_47070f81:
+
+    St "¡¡Yupi!!"
+
+# ba_chp4:974
+translate es badAppleChapter4_74a9dc93:
+
+    "Stella celebra mientras vuelve a concentrarse en la pantalla de la máquina, con las manos sobre los botones mientras navega por los menús. Hago lo mismo mientras carga la selección de personajes"
+
+# ba_chp4:976
+translate es badAppleChapter4_39233b5f:
+
+    "Los dos terminamos eligiendo los mismos personajes; supongo que ese es el main de Stella, lo cual tiene sentido. La verdad, no sé a quién más elegir, pero me gusta la idea de intentar darle una paliza a la gente siendo un oso de peluche."
+
+# ba_chp4:977
+translate es badAppleChapter4_94ad06d4:
+
+    "Pero ya sé que me va a volver a dar una paliza. Nunca me habría imaginado que fuera TAN buena en los videojuegos."
+
+# ba_chp4:978
+translate es badAppleChapter4_9b240c4f:
+
+    "Pero a pesar de todo, no estoy pensando en mi derrota inevitable. Normalmente soy bastante competitivo y me concentro mucho cuando se trata de vidya, pero ¿con Stella?"
+
+# ba_chp4:979
+translate es badAppleChapter4_a596c48f:
+
+    "Mi mente solo puede pensar en el tiempo que he pasado con Stella y en cuánto lo he disfrutado. Aunque haya habido algunos baches en el camino, lo bueno eclipsa lo malo."
+
+# ba_chp4:980
+translate es badAppleChapter4_0ca1e2ce:
+
+    "Me imagino cuánto dolor ha tenido que aguantar estos últimos meses, lo sola que debe de haberse sentido; Jesús Raptor sabe que yo también. Esa sensación de que te estás ahogando y no puedes llegar a la superficie por más que intentes nadar hacia arriba."
+
+# ba_chp4:982
+translate es badAppleChapter4_790b4547:
+
+    "Pero verla feliz, poder ver cómo se quita de encima ese lado suyo para volver a ser la de antes, la verdadera Stella."
+
+# ba_chp4:983
+translate es badAppleChapter4_54db1c5f:
+
+    "{cps=*.25}Yo...{/cps}{w=0.25} lo atesoro."
+
+# ba_chp4:993
+translate es badAppleChapter4_42802449:
+
+    unParam "¡VETE A LA MIERDA, KYLE! ¡QUIERO JUGAR MÁS TIME CRISIS Y DISPARARLES EN LA CARA A UNOS SKINNIES!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp4:994
+translate es badAppleChapter4_d52f3829:
+
+    "Una voz aguda y chillona me arranca la atención."
+
+# ba_chp4:995
+translate es badAppleChapter4_f608209a:
+
+    "Uf... más mocosos de secundaria."
+
+# ba_chp4:997
+translate es badAppleChapter4_0ce744d3:
+
+    "Giro la cabeza para ver de dónde viene el ruido y alcanzo a ver a dos niños dino peleándose entre ellos; ninguno parece tener más de 12 años."
+
+# ba_chp4:999
+translate es badAppleChapter4_cb69af8f:
+
+    unParam "¡BRO, YA TE DIJE QUE ME QUEDÉ SIN FICHAS, MI MAMÁ SOLO ME DIO $20 Y EL RESTO ME LO QUIERO GASTAR EN MÁS V-BUCKS!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp4:1000
+translate es badAppleChapter4_b90d67cb:
+
+    unParam "¡HOMBRE, ERES UN PUTO MUERTO DE HAMBRE!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp4:1001
+translate es badAppleChapter4_429352c7:
+
+    "El triggita más alto suelta a gritos una respuesta igual de insoportable mientras los dos perturban la poca paz que tiene el arcade"
+
+# ba_chp4:1002
+translate es badAppleChapter4_8b9c2f31:
+
+    unParam "¡¿POR QUÉ NO JUEGAS CON ESA PISTOLA DE FULMINANTES DE MIERDA QUE TE COMPRASTE EN LA TIENDA DE TODO A UN DÓLAR?!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp4:1003
+translate es badAppleChapter4_43697b09:
+
+    "¡Con ustedes, la típica juventud estadounidense!"
+
+# ba_chp4:1005
+translate es badAppleChapter4_0462c950:
+
+    "...Nuestra generación está bien jodida."
+
+# ba_chp4:1009
+translate es badAppleChapter4_1a22d3b9:
+
+    "Al volverme hacia la máquina, alcanzo a ver la cara de Stella, cada vez más incómoda y con una mueca de vergüenza ajena. Con lo fuerte que gritan esos putos enanos desde la otra punta del arcade, no la culpo."
+
+# ba_chp4:1017
+translate es badAppleChapter4_73cba74e:
+
+    Announcer "ROUND ONE. FIGHT!"
+
+# ba_chp4:1018
+translate es badAppleChapter4_10b64ebc:
+
+    "Los altavoces nos revientan los oídos y empieza mi batalla desigual contra mi compañera estego, que no pierde ni un segundo: cruza la pantalla con un dash aéreo y le planta al oso un golpe certero en la cara."
+
+# ba_chp4:1019
+translate es badAppleChapter4_47f5f2ee:
+
+    A "{i}Rayosrayosrayosrayosrayos.{/i}"
+
+# ba_chp4:1020
+translate es badAppleChapter4_0f53b5b5:
+
+    "El pánico me invade y empiezo a aporrear todos los botones como loco y a sacudir la palanca hasta que parece que a mi muñeca le está dando una convulsión."
+
+# ba_chp4:1021
+translate es badAppleChapter4_a0a412cc:
+
+    "Stella suelta una risita ante mi patética situación..."
+
+# ba_chp4:1022
+translate es badAppleChapter4_48343e1c:
+
+    "Maldita sea, es tierna cuando hace eso."
+
+# ba_chp4:1024
+translate es badAppleChapter4_64c19006:
+
+    unParam "¡APUESTO A QUE CONSIGO MÁS QUE TÚ, CAGÓN!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp4:1025
+translate es badAppleChapter4_99a018f5:
+
+    unParam "¡HECHO, PERDEDOR!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp4:1026
+translate es badAppleChapter4_50211eeb:
+
+    "Mientras escucho los gritos de los dos preadolescentes, se me ocurre algo."
+
+# ba_chp4:1027
+translate es badAppleChapter4_f4b44269:
+
+    "¿Será muy tarde para sugerir un aborto después de 12 años?"
+
+# ba_chp4:1028
+translate es badAppleChapter4_39826eea:
+
+    "Mientras intento concentrarme en el juego, me distrae un extraño chasquido que resuena por todo el arcade. Alguna de las máquinas debe de estar rota."
+
+# ba_chp4:1029
+translate es badAppleChapter4_34c72213_1:
+
+    St "¿Anon?"
+
+# ba_chp4:1039
+translate es badAppleChapter4_1ade94fb:
+
+    "Las palabras de Stella me sacan de mis pensamientos."
+
+# ba_chp4:1040
+translate es badAppleChapter4_d54b2d4a:
+
+    St "¿Estás bien? Parecía que estabas murmurando algo."
+
+# ba_chp4:1041
+translate es badAppleChapter4_3811a23b:
+
+    "Claro que sí. Haga lo que haga, no consigo...Un momento."
+
+# ba_chp4:1042
+translate es badAppleChapter4_1502ca89:
+
+    A "Espera, ¿me oyes murmurar? ¿Cómo? ¡En este arcade hay tanto ruido que dejaría sordo a cualquiera!"
+
+# ba_chp4:1043
+translate es badAppleChapter4_3fe71f64:
+
+    St "Bueno... vi que movías los labios y pude entender un poco de lo que esta-{nw}"
+
+# ba_chp4:1065
+translate es badAppleChapter4_15e159e4:
+
+    unParam "¡BANG! ¡JA, JA, JA, LES DI!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp4:1066
+translate es badAppleChapter4_0cc1c37a:
+
+    "Giro la cabeza de golpe a la izquierda y veo al niño triceratops de antes apuntándonos con una pistola de fulminantes de mierda de la tienda de todo a un dólar, con la punta naranja y todo."
+
+# ba_chp4:1070
+translate es badAppleChapter4_34980219:
+
+    "Putos triggas..."
+
+# ba_chp4:1073
+translate es badAppleChapter4_70d2c868:
+
+    "Le lanzo al niño una mirada de fastidio y vuelvo a la pantalla; tomo los controles y mi personaje empieza a moverse por la pantalla."
+
+# ba_chp4:1076
+translate es badAppleChapter4_4d1c1317:
+
+    "Pero mientras mi personaje se mueve y ataca, mi elegante rival se queda quieta, sin darse cuenta del osito de peluche gigante que se le viene encima."
+
+# ba_chp4:1087
+translate es badAppleChapter4_d5e252ff:
+
+    A "Eh... Stella, ¿estás lista?"
+
+# ba_chp4:1088
+translate es badAppleChapter4_5d70b468:
+
+    "Se lo pregunto, pero solo recibo silencio."
+
+# ba_chp4:1097
+translate es badAppleChapter4_445f12c3:
+
+    "Miro a mi izquierda y veo a Stella mirando el suelo sin moverse, con una expresión de horror pintada en la cara y el cuerpo temblando de terror."
+
+# ba_chp4:1098
+translate es badAppleChapter4_443270f4:
+
+    "Mierda, esto no está bien..."
+
+# ba_chp4:1101
+translate es badAppleChapter4_8a2a284e:
+
+    "Suelto la palanca y busco su mano."
+
+# ba_chp4:1104
+translate es badAppleChapter4_c16e196b:
+
+    A "O-oye, ¿estás-"
+
+# ba_chp4:1105
+translate es badAppleChapter4_d50c5fa2:
+
+    "Pero antes de que pueda tocarla o recibir una respuesta, {nw}"
+
+# ba_chp4:1108
+translate es badAppleChapter4_1278d5e5:
+
+    extend "se da la vuelta y corre llorando hacia la salida..."
+
+# ba_chp4:1110
+translate es badAppleChapter4_c3649804:
+
+    "Carajo... otra vez no."
+
+# ba_chp4:1116
+translate es badAppleChapter4_e2e878f4:
+
+    "Mientras salgo tras ella, abandonando el juego, me vuelvo hacia el niño, que se me queda mirando, pasmado."
+
+# ba_chp4:1118
+translate es badAppleChapter4_92720ecc:
+
+    A "Puto estúpido. Baboso. ¡RETRASADO ESQUIVADOR DE METEOROS!"
+
+# ba_chp4:1120
+translate es badAppleChapter4_2812b828:
+
+    "Alcanzo a ver cómo su cara pasa de naranja a roja mientras me giro hacia la salida, más pendiente de mi amiga, que acaba de huir del arcade llorando."
+
+# ba_chp4:1126
+translate es badAppleChapter4_9784994b:
+
+    "Lo más rápido que puedo sin tropezarme, salgo renqueando del arcade para intentar averiguar a dónde se fue Stella."
+
+# ba_chp4:1129
+translate es badAppleChapter4_88ec1be7:
+
+    "Aunque siento que ya le estoy agarrando el truco a estas muletas, dudo que estas extremidades improvisadas me dejen alcanzarla a esta velocidad."
+
+# ba_chp4:1143
+translate es badAppleChapter4_44fd5b84:
+
+    "Al salir del local bañado en neón, veo a otro triceratops que me mira con malicia desde la izquierda, pero este me resulta mucho más familiar..."
+
+# ba_chp4:1152
+translate es badAppleChapter4_3e309290:
+
+    A "¡Vete a la mierda!"
+
+# ba_chp4:1153
+translate es badAppleChapter4_3ee51922:
+
+    "Le grito al simulacro de Trish, pero no sirve de nada para frenar el odio venenoso que emana de su ceño fruncido. No tengo tiempo para esto..."
+
+# ba_chp4:1161
+translate es badAppleChapter4_522d5695:
+
+    "Bueno... si yo fuera una chica estegosaurio emocionalmente traumada, ¿dónde estaría?"
+
+# ba_chp4:1162
+translate es badAppleChapter4_d146b0f3:
+
+    "Veamos..."
+
+# ba_chp4:1164
+translate es badAppleChapter4_79018dd9:
+
+    "Cuando fuimos todos a Dino Moes la otra semana, Stella salió conmigo porque la gente la estaba agobiando, así que..."
+
+# ba_chp4:1166
+translate es badAppleChapter4_03cf2685:
+
+    "¿Dónde está la salida más cercana?"
+
+# ba_chp4:1170
+translate es badAppleChapter4_9e4a4c5c:
+
+    "Echo un vistazo a mi alrededor y, entre tanta tienda de ropa genérica y tanta gente que pasa, alcanzo a distinguir el letrero de una salida metida entre dos tiendas de ropa. Parece un lugar raro para una salida, pero no es momento de preocuparse por eso."
+
+# ba_chp4:1176
+translate es badAppleChapter4_23105ca4:
+
+    "Sin perder tiempo, sigo cojeando hacia la salida mientras la luz artificial del centro comercial empieza a dar paso a una luz más natural que llega desde afuera."
+
+# ba_chp4:1187
+translate es badAppleChapter4_a39417f8:
+
+    "Cuando mis ojos se acostumbran a la luz, encuentro a quien busco: una chica de pelo verde sola, con sudadera, la cola con placas enroscada alrededor de las piernas y el cuerpo agitado mientras hiperventila en la banca."
+
+# ba_chp4:1190
+translate es badAppleChapter4_a49dab3f:
+
+    "Mierda, esto no está bien. Ese puto niño debió de alterarla DE VERDAD. Bueno, piensa, Anon. ¿Cómo debería encarar esto?"
+
+# ba_chp4:1191
+translate es badAppleChapter4_b90cdc32:
+
+    "Aprieto el botón automático a la izquierda de la puerta y el viento fresco me besa la cara."
+
+# ba_chp4:1199
+translate es badAppleChapter4_d6e9563a:
+
+    A "¿Stella? ¿Estás bien?"
+
+# ba_chp4:1200
+translate es badAppleChapter4_6875b698:
+
+    "La llamo, pero lo único que responde a mis palabras es el sonido de su respiración agitada."
+
+# ba_chp4:1204
+translate es badAppleChapter4_baf986dc:
+
+    "A ver... ¿y si le pregunto por su arte? Eso podría ayudarla a distraerse."
+
+# ba_chp4:1206
+translate es badAppleChapter4_95af54f4:
+
+    A "Tranquila, Stella. Todo va a estar bien..."
+
+# ba_chp4:1211
+translate es badAppleChapter4_f4a22276:
+
+    A "¿Por qué no me cuentas de esa obra nueva en la que estabas trabajando?"
+
+# ba_chp4:1212
+translate es badAppleChapter4_9ef0c0a4:
+
+    "Sin apartar los ojos del suelo de concreto a sus pies, se aclara la garganta."
+
+# ba_chp4:1213
+translate es badAppleChapter4_21bc691d:
+
+    St "Va...{w=.5} bien, q-quería...{w=.5} vi una cosa...{w=.5}"
+
+# ba_chp4:1214
+translate es badAppleChapter4_3a1a78f0:
+
+    "La abatida estego lucha por encontrar las palabras mientras le tiembla el cuerpo."
+
+# ba_chp4:1216
+translate es badAppleChapter4_135ab97c:
+
+    "Bravo, Anon."
+
+# ba_chp4:1217
+translate es badAppleChapter4_d97cc265:
+
+    St "{cps=*.33}Lo...{w=.5} siento, Anon.{/cps}"
+
+# ba_chp4:1219
+translate es badAppleChapter4_2f0b07ab:
+
+    "Stella se vuelve hacia mí, y todavía veo las lágrimas frescas que le caen de los ojos rojos e hinchados, aunque su cuerpo parece haberse calmado un poco."
+
+# ba_chp4:1220
+translate es badAppleChapter4_27346f83:
+
+    St "Lo siento... lo siento muchísimo, Anon. No has sido más que bueno conmigo en nuestra cita, y yo lo arruiné todo por ponerme a llorar otra vez..."
+
+# ba_chp4:1222
+translate es badAppleChapter4_a0b8d5b9:
+
+    "Espera... ¿acaba de decir?-{w=.25} Ahora no, Anon."
+
+# ba_chp4:1223
+translate es badAppleChapter4_ea54486e:
+
+    St "Solo quería pasarla bien contigo hoy."
+
+# ba_chp4:1226
+translate es badAppleChapter4_b582222e:
+
+    St "¡Odio ser tan débil y haberme convertido en semejante carga!"
+
+# ba_chp4:1228
+translate es badAppleChapter4_ddd7e107:
+
+    "Conozco esa sensación demasiado bien. Esa sensación que te carcome y te recuerda cada error que has cometido y cuánto les dolió a los que querías, hasta que empiezas a odiarte por ellos. Es una sensación asfixiante, pero me la merezco."
+
+# ba_chp4:1230
+translate es badAppleChapter4_12182a10:
+
+    "Pero me duele ver a Stella hablar así de sí misma; es de las últimas personas que merecen sufrir tanto."
+
+# ba_chp4:1233
+translate es badAppleChapter4_3b9963f0:
+
+    A "No eres una carga para mí, Stella. Para nada."
+
+# ba_chp4:1235
+translate es badAppleChapter4_f1163b83:
+
+    "Se lo aseguro mirándola a los ojos."
+
+# ba_chp4:1236
+translate es badAppleChapter4_628079f9:
+
+    A "Llevo tanto tiempo hundido... Casi todos los días de estos últimos cinco meses han sido un infierno para mí. Pero cuando volví a encontrarlas, a ti y a Rosa, regresó una parte de mí que creía muerta hace mucho."
+
+# ba_chp4:1237
+translate es badAppleChapter4_fce59b7f:
+
+    "Igual que antes, mi mano derecha encuentra el camino para tomar con suavidad la de Stella."
+
+# ba_chp4:1239
+translate es badAppleChapter4_3aeff366:
+
+    A "Y poder pasar este día contigo... hacía mucho que no era tan feliz."
+
+# ba_chp4:1240
+translate es badAppleChapter4_3a8c8617:
+
+    "Mientras las palabras salen de mis labios, veo cómo la tristeza se borra de la cara de Stella y empieza a florecerle una sonrisa, antes de sorberse la nariz."
+
+# ba_chp4:1243
+translate es badAppleChapter4_00e220ee:
+
+    St "Yo siento lo mismo, Anon."
+
+# ba_chp4:1266
+translate es badAppleChapter4_4d178a2a:
+
+    "Y antes de que pueda decir algo más, Stella me atrae hacia ella en un abrazo fuerte; sus brazos me rodean el torso con fuerza y su cola se enrosca en mi espalda, una sensación que por desgracia conozco, pero aun así hago lo mismo."
+
+# ba_chp4:1267
+translate es badAppleChapter4_fbe94ef7:
+
+    St "Gracias por estar aquí... gracias."
+
+# ba_chp4:1268
+translate es badAppleChapter4_cd605fce:
+
+    "Su voz sale ahogada mientras hunde el hocico en mi pecho."
+
+# ba_chp4:1270
+translate es badAppleChapter4_48508702:
+
+    "Sintiendo su abrazo, podría perderme en este momento. Pero, por desgracia, termina cuando Stella se aparta de mí y, al mismo tiempo, desenrosca la cola de mi cuerpo."
+
+# ba_chp4:1278
+translate es badAppleChapter4_4a0f7bf0:
+
+    St "Cuando estoy contigo, Anon, ya no me siento tan sola."
+
+# ba_chp4:1279
+translate es badAppleChapter4_2657a5ff:
+
+    St "Me haces sentir tranquila, me siento segura cuando estoy contigo..."
+
+# ba_chp4:1282
+translate es badAppleChapter4_1adb56b0:
+
+    A "¿No te sientes segura con Rosa?"
+
+# ba_chp4:1287
+translate es badAppleChapter4_9763c641:
+
+    St "¡Ay, no, claro que me siento segura con Rosa! Es como una hermana para mí."
+
+# ba_chp4:1288
+translate es badAppleChapter4_bb92eead:
+
+    St "Pero aun así tenemos nuestras diferencias, y siento que hay partes de mí que ella no termina de entender."
+
+# ba_chp4:1289
+translate es badAppleChapter4_8c0446bd:
+
+    St "Pero contigo siento que pertenezco, como si no estuviera sola, como si no tuviera miedo de mostrarte quién soy."
+
+# ba_chp4:1291
+translate es badAppleChapter4_835f7f63:
+
+    "Sus palabras me llegan al alma. Durante muchísimo tiempo he levantado esta barrera frente a mí, con tanto miedo de dejar entrar a alguien por temor al rechazo y a la burla."
+
+# ba_chp4:1292
+translate es badAppleChapter4_ed43e8f0:
+
+    "Por eso me porté como me porté con tanta gente que intentó acercarse y conocer cómo soy de verdad."
+
+# ba_chp4:1293
+translate es badAppleChapter4_89f71971:
+
+    "Naser, Reed, Rosa, Stella..."
+
+# ba_chp4:1294
+translate es badAppleChapter4_766f37a7:
+
+    "Fang..."
+
+# ba_chp4:1295
+translate es badAppleChapter4_05a59df6:
+
+    "Pero ahora, con Stella, siento que ya no necesito esta barrera, y no tengo miedo de dejar que se acerque, porque veo una parte de mí en ella."
+
+# ba_chp4:1297
+translate es badAppleChapter4_c9051e50:
+
+    A "Yo también, Stella... Yo también..."
+
+# ba_chp4:1298
+translate es badAppleChapter4_865526d5:
+
+    "La sonrisa de Stella se hace más grande en el silencio que sigue a mis palabras. Siento un cosquilleo cálido en el pecho mientras nuestras manos siguen entrelazadas."
+
+# ba_chp4:1303
+translate es badAppleChapter4_e93d7bd6:
+
+    "Mientras su expresión se suaviza, Stella se inclina apenas un poco hacia mí, y mi instinto me empuja a imitarla. Parece una eternidad mientras acortamos la distancia, con sus labios casi rozando los míos."
+
+# ba_chp4:1308
+translate es badAppleChapter4_3123a975:
+
+    "Solo que ese momento nunca llega, porque siento un golpe seco y fuerte en un lado de la cabeza que me tira contra el concreto, y encima caigo sobre la pierna lisiada. Grito cuando un dolor explosivo me envuelve la pierna. Eclipsa por completo el dolor de la mejilla."
+
+# ba_chp4:1309
+translate es badAppleChapter4_12c6bba5:
+
+    St "¡¡NO, ANON!!"
+
+# ba_chp4:1310
+translate es badAppleChapter4_53ac6af1:
+
+    "Dios... MIERDA... ¿Quién?...."
+
+# ba_chp4:1311
+translate es badAppleChapter4_5929b41b:
+
+    "Stella dice una sola palabra, pero el zumbido en mis oídos la ahoga y no consigo entenderla."
+
+# ba_chp4:1331
+translate es badAppleChapter4_098423fd:
+
+    "Me tomo un momento para ubicarme, todavía algo desorientado por el misterioso ataque. Al levantar la vista, veo a Stella de pie frente a mí, con el cuerpo lleno de miedo, mirando a..."
+
+# ba_chp4:1343
+translate es badAppleChapter4_7b500b3a:
+
+    "Espera... ¿Trish?"
+
+# ba_chp4:1344
+translate es badAppleChapter4_896473ee:
+
+    "No... ¿Cómo es posible?"
+
+# ba_chp4:1345
+translate es badAppleChapter4_18b87161:
+
+    A "¿C-cómo es que tú...? Ni siquiera eres real..."
+
+# ba_chp4:1346
+translate es badAppleChapter4_4ed97ecf:
+
+    "Mi voz se dirige al recuerdo hecho carne de mi némesis, y mi acusación hace que apriete los dientes con rabia."
+
+# ba_chp4:1348
+translate es badAppleChapter4_1fccee6b:
+
+    ghostTrish "Oh, ya te voy a enseñar qué tan real soy, puto skinnie..."
+
+# ba_chp4:1349
+translate es badAppleChapter4_bf489fa2:
+
+    St "¡¿Por qué haces esto?! ¡Anon no hizo nada malo!"
+
+# ba_chp4:1350
+translate es badAppleChapter4_d541441a:
+
+    "Espera, Stella acaba de... entonces eso quiere decir... ¿que es real de verdad?"
+
+# ba_chp4:1351
+translate es badAppleChapter4_a91457a9:
+
+    St "¡Tranquilo, agárrate!"
+
+# ba_chp4:1355
+translate es badAppleChapter4_af38a47b:
+
+    "Stella se da la vuelta y me tiende la mano para ayudarme a levantarme del suelo."
+
+# ba_chp4:1361
+translate es badAppleChapter4_c6308aea:
+
+    "Es difícil y torpe: ella usa toda su fuerza para levantarme mientras yo cargo todo el peso en la pierna derecha."
+
+# ba_chp4:1363
+translate es badAppleChapter4_ba8f62f6:
+
+    "Agarro las muletas de la banca y consigo afirmarme, mirando a los ojos a mi agresora de igual a igual, mientras la triceratops violeta que tengo enfrente resopla de odio."
+
+# ba_chp4:1365
+translate es badAppleChapter4_504ade09:
+
+    T "'¡¿Que no hizo nada malo?!' ¡¿ES UNA PUTA BROMA?!"
+
+# ba_chp4:1368
+translate es badAppleChapter4_c76a803e:
+
+    T "¡ESTE MONO MERECE MORIR POR LO QUE HIZO!"
+
+# ba_chp4:1372
+translate es badAppleChapter4_64fe7b51:
+
+    "Sé exactamente por qué me quiere muerto. Incluso ahora, mirándola, me pasa por la cabeza la imagen de ella sujetada por los profesores mientras me gritaba cuando pasó todo, un recuerdo prácticamente grabado a fuego en mi mente, entre otras cosas. Pero eso no es lo que quiero preguntar."
+
+# ba_chp4:1373
+translate es badAppleChapter4_93103c5b:
+
+    A "Así que eras tú en Dino Moes la semana pasada... ¿Por qué no terminaste el trabajo entonces?"
+
+# ba_chp4:1374
+translate es badAppleChapter4_99b132d8:
+
+    T "Moe se metió en medio, como siempre..."
+
+# ba_chp4:1375
+translate es badAppleChapter4_61a5d54e:
+
+    T "Si fuera por mí, te rompería la otra pierna también, justo antes de romperte el puto cuello."
+
+# ba_chp4:1378
+translate es badAppleChapter4_dbaabf2c:
+
+    "La confesión de Trish me descoloca, pero no me sorprende ni por un segundo. Si alguien tiene algo en mi contra, es ella."
+
+# ba_chp4:1379
+translate es badAppleChapter4_77151610:
+
+    A "Sospechaba que eras tú la que me rompió la pierna... No puedo decir que te culpe, no pasa un segundo sin que yo-"
+
+# ba_chp4:1380
+translate es badAppleChapter4_b85dab96:
+
+    St "¡¿Fuiste tú?! ¡¿Por qué harías algo tan horrible, Trish?!"
+
+# ba_chp4:1381
+translate es badAppleChapter4_61815d51:
+
+    "Stella le alza la voz a nuestra adversaria morada y corta en seco lo que me quedaba por decir."
+
+# ba_chp4:1383
+translate es badAppleChapter4_65c4b871:
+
+    "Trish tiembla de pies a cabeza mientras su ira crece como un incendio."
+
+# ba_chp4:1384
+translate es badAppleChapter4_ff53daf6:
+
+    T "¿No lo entiendes, puta autista?"
+
+# ba_chp4:1387
+translate es badAppleChapter4_3bd4ff3c:
+
+    T "ME QUITÓ A LA ÚNICA PERSONA QUE AMÉ EN MI VIDA."
+
+# ba_chp4:1388
+translate es badAppleChapter4_21f4a48b:
+
+    "Trish me ha atacado, me ha doxeado, me ha acosado y hasta me ha amenazado de muerte. Pero de todo lo que ha dicho y hecho, las palabras que acaban de salir de su boca son las que más me sorprenden."
+
+# ba_chp4:1391
+translate es badAppleChapter4_5afc275b:
+
+    T "Tú me quitaste a elle. Le ayudé a descubrir quién quería ser. Estuve ahí para elle, dispuesta a enfrentarme al mundo entero a su lado..."
+
+# ba_chp4:1392
+translate es badAppleChapter4_cace418e:
+
+    "Trish baja la mirada al suelo y se le quiebra la voz; la tristeza se le escapa entre las palabras."
+
+# ba_chp4:1394
+translate es badAppleChapter4_ba375531:
+
+    T "Le amaba... más que a nada en este mundo de mierda."
+
+# ba_chp4:1396
+translate es badAppleChapter4_b39a54f5:
+
+    "El veneno vuelve a la triceratops cuando su mirada maliciosa vuelve a posarse en mí."
+
+# ba_chp4:1397
+translate es badAppleChapter4_4bd379ce:
+
+    T "Pero por tu culpa... arruinaste mi vida, la banda, nuestra amistad, {nw}"
+
+# ba_chp4:1400
+translate es badAppleChapter4_6d898af4:
+
+    extend "¡TODO!"
+
+# ba_chp4:1403
+translate es badAppleChapter4_b7766281:
+
+    T "¡TÚ MATASTE A FANG!"
+
+# ba_chp4:1406
+translate es badAppleChapter4_b4bc31c4:
+
+    "A pesar del miedo, Stella da un paso adelante y se aparta un poco de mí."
+
+# ba_chp4:1410
+translate es badAppleChapter4_29872eb0:
+
+    St "¡Déjalo en paz! ¡Anon no pidió este destino!"
+
+# ba_chp4:1412
+translate es badAppleChapter4_357e1f9e:
+
+    St "F-Fang también lastimó a gente, ella mató-{nw}"
+
+# ba_chp4:1415
+translate es badAppleChapter4_2aae9173:
+
+    T "¡Es {i} ELLE {/i}, RETRASADA DE MIERDA! ¡Y ANON LE EMPUJÓ A HACERLO!" with hpunch
+
+# ba_chp4:1419
+translate es badAppleChapter4_96265ae5:
+
+    T "¡¿Y tú qué carajo sabes de eso?!"
+
+# ba_chp4:1421
+translate es badAppleChapter4_5c45b2ff:
+
+    "La incomodidad en la cara de Stella se hace más evidente mientras la vengativa Trish sigue con su ataque verbal."
+
+# ba_chp4:1422
+translate es badAppleChapter4_2d64318a:
+
+    T "Seguro solo defiendes a este maldito skinnie porque es un perdedor obsesionado con el anime como tú. Dios los cría y ellos se juntan, ¿no?"
+
+# ba_chp4:1426
+translate es badAppleChapter4_996bb984:
+
+    T "Ya desde entonces no eras más que una pobre aspie que a NADIE le caía bien. Todos pensábamos que eras un puto chiste, ¡y seguro Rosa también lo piensa!"
+
+# ba_chp4:1429
+translate es badAppleChapter4_20a12534:
+
+    "Algo nuevo empieza a desplegarse ante mis ojos: veo cómo la incomodidad de Stella se convierte en ira, cómo cierra la mano en un puño y aprieta los dientes."
+
+# ba_chp4:1430
+translate es badAppleChapter4_f1a7a625:
+
+    T "Si te hubieras muerto ese día, nadie habría extrañado a una retra-{nw}"
+
+# ba_chp4:1443
+translate es badAppleChapter4_fb545c25:
+
+    "Pero antes de que Trish pueda terminar su comentario cruel, un borrón verde y morado pasa como un rayo frente a mis ojos."
+
+# ba_chp4:1444
+translate es badAppleChapter4_d01e6625:
+
+    "Miro sin poder creerlo cómo el puño de Stella sale disparado hacia la cara de Trish; el golpe la tira al suelo y la dino color lavanda grita de dolor."
+
+# ba_chp4:1446
+translate es badAppleChapter4_fb11142d:
+
+    St "¡¡DIJE QUE NOS DEJES EN PAZ, PUTA TRIGGA DE MIERDA!!"
+
+# ba_chp4:1456
+translate es badAppleChapter4_ebd564d4:
+
+    "Stella grita con una rabia de la que ni siquiera sabía que era capaz."
+
+# ba_chp4:1457
+translate es badAppleChapter4_744d8109:
+
+    St "TU N'ES RIEN D'AUTRE QU'UNE PUTAIN DE BRUTE!"
+
+# ba_chp4:1459
+translate es badAppleChapter4_565e5145:
+
+    "Me llama la atención que Stella hable en francés. Pero enseguida me distraigo al ver cómo la cara de Trish estalla en una furia primitiva que eclipsa por completo la de Stella, y se lanza desde el suelo hacia la estego."
+
+# ba_chp4:1462
+translate es badAppleChapter4_27b1f350:
+
+    T "¡TE VOY A MATAR!"
+
+# ba_chp4:1465
+translate es badAppleChapter4_425b16ec:
+
+    A "¡DÉJALA FUERA DE ESTO!"
+
+# ba_chp4:1472
+translate es badAppleChapter4_85e477c1:
+
+    "Intento meterme entre las dos, sin hacer ningún caso del dolor ardiente de mi pierna rota, mientras las muletas caen al suelo."
+
+# ba_chp4:1473
+translate es badAppleChapter4_8c56f486:
+
+    "¡Es a mí a quien quiere! ¡No voy a dejar que nadie más salga lastimado por mis propios errores!"
+
+# ba_chp4:1478
+translate es badAppleChapter4_219f87ec:
+
+    "El impacto de la diminuta dino nos manda a los dos contra el pavimento. Trish se recupera más rápido que yo y me inmoviliza contra el suelo."
+
+# ba_chp4:1479
+translate es badAppleChapter4_0a609679:
+
+    "El dolor de la pierna se dispara todavía más, pero antes de que pueda reaccionar, mientras intento ubicarme, siento que algo me aprieta y me estrangula el cuello."
+
+# ba_chp4:1499
+translate es badAppleChapter4_ebaef132:
+
+    T "TÚ..."
+
+# ba_chp4:1500
+translate es badAppleChapter4_6ac3c881:
+
+    "Ahí es cuando noto las manitas de Trish rodeándome la garganta mientras me exprime el aire. Para ser tan bajita, es sorprendentemente fuerte."
+
+# ba_chp4:1503
+translate es badAppleChapter4_dd1a31f9:
+
+    "No puedo quitármela de encima con todo su peso sobre mí; solo puedo ver cómo sus ojos se llenan de intenciones asesinas mientras empieza a aplastarme la tráquea."
+
+# ba_chp4:1506
+translate es badAppleChapter4_f066bc92:
+
+    St "¡Basta! ¡Por favor!"
+
+# ba_chp4:1507
+translate es badAppleChapter4_fbb200ef:
+
+    "Stella grita detrás de nosotros, y la vista me empieza a dar vueltas a medida que me falta cada vez más el oxígeno."
+
+# ba_chp4:1512
+translate es badAppleChapter4_4e7416b6:
+
+    "Todo empieza a sentirse ligero mientras siento que la conciencia se me escapa, cada vez más lejos. Así que así termina, ¿eh?"
+
+# ba_chp4:1515
+translate es badAppleChapter4_fd8771f4:
+
+    "Pierdo las ganas de defenderme mientras mi vida se apaga ante mis ojos, y acepto este destino como mi penitencia. Pero, aun con el oído casi perdido, alcanzo a distinguir una voz cercana."
+
+# ba_chp4:1521
+translate es badAppleChapter4_099fb5cc:
+
+    unParam "¡DEJA QUE SE VAYA!" (who_color="#FE712B", who_outline=[(gui.name_text_thickness,"#54230F")])
+
+# ba_chp4:1522
+translate es badAppleChapter4_0ccb4cc1:
+
+    "¿Rosa?"
+
+# ba_chp4:1523
+translate es badAppleChapter4_56e5e39a:
+
+    "De pronto, una fuerza misteriosa aparta de mí a mi casi asesina y me libera; el aire vuelve a mis pulmones."
+
+# ba_chp4:1541
+translate es badAppleChapter4_4d46ee2b:
+
+    T "¡NGRGH! ¡SUÉLTENME, PUTOS CERDOS!"
+
+# ba_chp4:1548
+translate es badAppleChapter4_f534c423:
+
+    "La triceratops enfurecida grita mientras dos guardias de seguridad la inmovilizan y ella se sacude como loca intentando soltarse."
+
+# ba_chp4:1551
+translate es badAppleChapter4_6e1783d4:
+
+    "Mierda... Pensé que me iba a morir ahí..."
+
+# ba_chp4:1552
+translate es badAppleChapter4_6f0e0086:
+
+    St "¡¡Anon!!"
+
+# ba_chp4:1555
+translate es badAppleChapter4_48291057:
+
+    "Stella se agacha hasta el suelo y, con la voz temblorosa, me pone una mano en el hombro."
+
+# ba_chp4:1556
+translate es badAppleChapter4_2f27b58b:
+
+    St "Tú... Me salvaste, aunque tú..."
+
+# ba_chp4:1559
+translate es badAppleChapter4_3cff99a8:
+
+    Ro "¡¿Están bien los dos?!"
+
+# ba_chp4:1560
+translate es badAppleChapter4_b67dc08a:
+
+    "Esa voz conocida nos hace girar la cabeza y vemos a Rosa de pie frente a nosotros, con el miedo y la preocupación pintados en la cara."
+
+# ba_chp4:1561
+translate es badAppleChapter4_3e14ed38:
+
+    St "E-e-ella iba a, yo..."
+
+# ba_chp4:1562
+translate es badAppleChapter4_5e6704a3:
+
+    "Stella apenas termina de hablar y ya parece a punto de llorar."
+
+# ba_chp4:1563
+translate es badAppleChapter4_87fe7001:
+
+    Ro "Oye, shh shh, está bien, está bien."
+
+# ba_chp4:1564
+translate es badAppleChapter4_9590199e:
+
+    "Rosa se arrodilla junto a los dos, nos pone una mano en el hombro a cada uno y se dirige a mí."
+
+# ba_chp4:1565
+translate es badAppleChapter4_714ecc7d:
+
+    Ro "¿Y tú, An-on? ¿Puedes caminar?"
+
+# ba_chp4:1566
+translate es badAppleChapter4_711d8f43:
+
+    A "S-sí, creo que sí."
+
+# ba_chp4:1567
+translate es badAppleChapter4_712e890c:
+
+    "Intentar hablar con la garganta tan ronca me provoca un ataque de tos."
+
+# ba_chp4:1568
+translate es badAppleChapter4_e7aace35:
+
+    Ro "Guarda tus fuerzas, Niño, vamos a sacarlos a los dos de aquí."
+
+# ba_chp4:1569
+translate es badAppleChapter4_9c7a223b:
+
+    Ro "Stella, ¿puedes traerle las muletas?"
+
+# ba_chp4:1570
+translate es badAppleChapter4_6098b731:
+
+    St "Yo...yo...s-sí."
+
+# ba_chp4:1571
+translate es badAppleChapter4_382b7dc6:
+
+    "La estego, todavía alterada, asiente, se levanta del suelo y recoge las muletas a pesar del shock."
+
+# ba_chp4:1576
+translate es badAppleChapter4_b36a2378:
+
+    "Rosa me toma de la mano y me levanta del suelo mientras paso el peso a mi pierna derecha, que más o menos funciona; a estas alturas el movimiento ya es casi rutina."
+
+# ba_chp4:1577
+translate es badAppleChapter4_df07017d:
+
+    T "¡¡¡¡N-NO!!!! ¡¡SUÉLTENME!! ¡LO VOY A MATAR! ¡¡VÁYANSE A LA MIERDA!!"
+
+# ba_chp4:1578
+translate es badAppleChapter4_9625dfc4:
+
+    "Mientras Stella me pone las muletas bajo los brazos, veo que Trish nos está gritando mientras los guardias la sujetan."
+
+# ba_chp4:1579
+translate es badAppleChapter4_7fac69df:
+
+    T "¡TE VAS A MORIR, ANON! ¡¡TÚ Y LA PUTA RETRASADA DE TU NOVIA!!"
+
+# ba_chp4:1580
+translate es badAppleChapter4_c96716bf:
+
+    "Trish chilla hasta que sus palabras se vuelven totalmente incomprensibles."
+
+# ba_chp4:1581
+translate es badAppleChapter4_d9f6a064:
+
+    SecurityGuard "Nosotros nos encargamos. Ustedes tres, váyanse de aquí, ¿está bien?"
+
+# ba_chp4:1582
+translate es badAppleChapter4_7f48a8ab:
+
+    "El guardia saurio saca unas esposas mientras los tres nos vamos hacia el estacionamiento."
+
+# ba_chp4:1608
+translate es badAppleChapter4_5a3a54b1:
+
+    St "Rosa... ¿C-cómo nos encontraste?"
+
+# ba_chp4:1609
+translate es badAppleChapter4_36a345a7:
+
+    Ro "Tuve suerte. Vamos, te llevo a casa, mi carro no está muy lejos."
+
+# ba_chp4:1610
+translate es badAppleChapter4_b93f7d81:
+
+    "Decir suerte es quedarse corto, si es que de verdad fue la suerte lo que hizo que nos encontrara."
+
+# ba_chp4:1612
+translate es badAppleChapter4_69d65519:
+
+    Ro "Tú también vienes, An-on. Me temo que ahora mismo no es seguro para ti andar por ahí."
+
+# ba_chp4:1613
+translate es badAppleChapter4_f33b1f3f:
+
+    "A pesar del miedo indomable en su cara, Stella asiente."
+
+# ba_chp4:1614
+translate es badAppleChapter4_63fee5e8:
+
+    "¿Quieren que vaya con ellas a casa de Stella? Digo... supongo que tienen razón. No creo que Trish nos haya encontrado por pura casualidad. Aunque, pensándolo bien, ¿y Rosa cómo nos encontró?"
+
+# ba_chp4:1615
+translate es badAppleChapter4_48112e4e:
+
+    A "G-gracias. Seguro tienen razón. Además, ella fue la que me rompió la pierna cuando ustedes dos me encontraron."
+
+# ba_chp4:1616
+translate es badAppleChapter4_a4d4950d:
+
+    Ro "Esa maldita perra..."
+
+# ba_chp4:1618
+translate es badAppleChapter4_aa15643e:
+
+    "Mi revelación hace que en la cara de Rosa crezca una mezcla de sorpresa y rabia mientras maldice en español, mirando a la culpable en cuestión, que se retuerce como loca mientras la seguridad del centro comercial se la lleva."
+
+# ba_chp4:1619
+translate es badAppleChapter4_f386dd5a:
+
+    Ro "Todo va a salir bien, chicos. Hablamos en el carro."
+
+# ba_chp4:1621
+translate es badAppleChapter4_6f7e9dce:
+
+    "Rosa toma de la mano a Stella, que sigue claramente en shock por lo cerca que estuve de morir, y los tres empezamos a caminar en silencio hacia el estacionamiento."
+
+# ba_chp4:1622
+translate es badAppleChapter4_b8878204:
+
+    "Jesús Raptor... Casi me muero... Si hubiera tardado un segundo más, esa podría haber sido Stella."
+
+# ba_chp4:1623
+translate es badAppleChapter4_a685ec78:
+
+    "No puedo... No voy a dejar que nadie más salga lastimado por mi culpa..."

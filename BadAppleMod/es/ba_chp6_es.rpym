@@ -1,0 +1,2940 @@
+# Bad Apple - traduccion al espanol latinoamericano (ba_chp6)
+# Version del parche: 1.0 (2026-11-22)
+# Para: Bad Apple (Team Starlight) sobre Snoot Game Patch 14 (Ren'Py 8.3.7.25031702)
+#
+# Capa de traduccion independiente: no modifica ningun archivo del mod ni del juego.
+# Archivo GENERADO por herramientas/construir.py. No lo edites a mano: la traduccion vive
+# en fuente/ y cada bloque de aqui abajo se refiere al guion original por archivo y linea.
+# Es un .rpym para que el cargador de mods del juego solo lo cargue con el mod activado.
+#
+# Bad Apple y Snoot Game pertenecen a sus autores. Esta es una traduccion de fans.
+
+# ba_chp6:22
+translate es badAppleChapter6_30907202:
+
+    "6 de noviembre de 2017"
+
+# ba_chp6:30
+translate es badAppleChapter6_a0e131d6:
+
+    "Tú puedes, Stella… No seas tímida… esta vez no se van a reír de ti. ¡Lo vas a lograr!"
+
+# ba_chp6:32
+translate es badAppleChapter6_59cde802:
+
+    "Repito las palabras en mi cabeza como un mantra, pero no sirven de nada para calmar mis nervios."
+
+# ba_chp6:34
+translate es badAppleChapter6_fd6f5a8b:
+
+    "Sobre todo porque casi no oigo mis propios pensamientos entre el parloteo de mis compañeros, que hablan todos a la vez."
+
+# ba_chp6:40
+translate es badAppleChapter6_2c2e53eb:
+
+    "La profesora Prockling nos encargó una presentación sobre cualquier forma de entretenimiento de otra cultura. Me pareció la oportunidad perfecta para mostrar por fin mi pasión y mi amor por el anime."
+
+# ba_chp6:42
+translate es badAppleChapter6_70e0aa5e:
+
+    "Aunque ni siquiera estaba segura de que fuera buena idea… sobre todo por todas las veces que la gente se rio de mí, me puso apodos y me trató horrible por eso."
+
+# ba_chp6:44
+translate es badAppleChapter6_75ade618:
+
+    "{i}Otaku{w}, rara{w}, nerd.{/i}"
+
+# ba_chp6:46
+translate es badAppleChapter6_f28a48cb:
+
+    "Cada insulto duele tanto como el anterior…"
+
+# ba_chp6:48
+translate es badAppleChapter6_669dba89:
+
+    Sage "{i}{color=#d1d1d1}¡Lo que no te mata te hace más fuerte!{/i}{/color}"
+
+# ba_chp6:50
+translate es badAppleChapter6_3118075d:
+
+    "Eso es lo que siempre me decía Sage, y tiene razón. Esta vez va a ser diferente. ¡Sé que sí!"
+
+# ba_chp6:52
+translate es badAppleChapter6_3c15a2d2:
+
+    "…¿Será?"
+
+# ba_chp6:56
+translate es badAppleChapter6_3a616808:
+
+    unParam "¡Muy bien, escuchen!" (color="#4e024a", who_outlines=[(gui.name_text_thickness, '#270125')])
+
+# ba_chp6:62
+translate es badAppleChapter6_fa933a4c:
+
+    "La atención de la clase se va hacia una voz que entra de golpe por la puerta al abrirse: es nada menos que nuestra profesora titular, que camina hacia el escritorio que domina el aula llena de adolescentes distraídos."
+
+# ba_chp6:64
+translate es badAppleChapter6_9eb7c8d7:
+
+    "La mujer coelophysis se dirige a la clase con un cansancio que apenas disimula."
+
+# ba_chp6:66
+translate es badAppleChapter6_2401bbac:
+
+    Prock "Supongo que todos recuerdan cómo funciona esto."
+
+# ba_chp6:68
+translate es badAppleChapter6_b594c956:
+
+    Prock "Los que se ofrecieron para ir primero presentan hoy, y el resto, mañana."
+
+# ba_chp6:70
+translate es badAppleChapter6_15845c35:
+
+    "Practiqué todo el fin de semana, pero aun así no puedo evitar sentir terror. Esa sensación de que el mundo a mi alrededor se vuelve enorme mientras yo me encojo."
+
+# ba_chp6:72
+translate es badAppleChapter6_dec4c360:
+
+    "¿Y si me equivoco? ¿Y si todos se vuelven a reír de mí?"
+
+# ba_chp6:74
+translate es badAppleChapter6_ca81f719:
+
+    "…No. No se van a reír."
+
+# ba_chp6:76
+translate es badAppleChapter6_ee2f5ba4:
+
+    Prock "¡Bien! Vamos a empezar por orden alfabético de apellidos, así que…"
+
+# ba_chp6:78
+translate es badAppleChapter6_03c76ca6:
+
+    "La profesora Prockling lee en voz alta mientras toma una hoja suelta de su escritorio, y se detiene un momento a revisar su contenido."
+
+# ba_chp6:80
+translate es badAppleChapter6_2457bf73:
+
+    Prock "¡Stella Baudelaire! Te toca a ti primero."
+
+# ba_chp6:82
+translate es badAppleChapter6_57168f87:
+
+    "O-oh, ay, no…"
+
+# ba_chp6:84
+translate es badAppleChapter6_fd8a6c79:
+
+    "Siento un escalofrío que me recorre las placas mientras miro a mis compañeros: todos tienen los ojos clavados en mí, con expresiones distintas, y sus murmullos inundan el aula."
+
+# ba_chp6:86
+translate es badAppleChapter6_c0b04f24:
+
+    "Algunos me miran con lástima, desprecio e indiferencia, y muy pocos con verdadera curiosidad en la cara."
+
+# ba_chp6:88
+translate es badAppleChapter6_5e520c14:
+
+    "Respira hondo, Stella. Lo vas a lograr."
+
+# ba_chp6:96
+translate es badAppleChapter6_6252aef6:
+
+    "Me levanto del pupitre antes de poder siquiera soltar el aire y camino hacia el pizarrón, con la memoria USB en la mano..."
+
+# ba_chp6:98
+translate es badAppleChapter6_f56190f6:
+
+    Prock "Bien, Stella, carga tu presentación en el proyector y empieza cuando estés lista."
+
+# ba_chp6:106
+translate es badAppleChapter6_bee361fc:
+
+    "La profesora Prockling me habla con cierta preocupación en la mirada. Debe de haber visto que me estoy poniendo nerviosa."
+
+# ba_chp6:113
+translate es badAppleChapter6_88d549e8:
+
+    "…Te va a ir genial… te va a ir genial…"
+
+# ba_chp6:119
+translate es badAppleChapter6_fc9de455:
+
+    "Pasa un minuto mientras tecleo torpemente en la laptop que tengo delante: abro Parapoint y me aseguro de que esté conectada al proyector. No puedo permitirme errores ahora. Cuando mi dedo deja el teclado por última vez, aparece frente a mí la portada."
+
+# ba_chp6:121
+translate es badAppleChapter6_aab72c12:
+
+    "{b}¡El impacto cultural del anime!{/b}"
+
+# ba_chp6:122
+translate es badAppleChapter6_5dbe6156:
+
+    extend "\n{i}Una presentación de Stella Baudelaire{/i}"
+
+# ba_chp6:123
+translate es badAppleChapter6_2f7e0679:
+
+    extend "\n{i}Aula 12A{/i}"
+
+# ba_chp6:125
+translate es badAppleChapter6_ba70801b:
+
+    "Las palabras aparecen bien al centro, sobre un fondo verde con detalles florales. Encima del título hay una imagen de la bandera de Japón, y a un lado, algunos de mis personajes de anime favoritos. Nagomi Yui, Chihiro Ogino y Kirito, para ser exactos."
+
+# ba_chp6:127
+translate es badAppleChapter6_9977019b:
+
+    "Cuando me doy vuelta, veo una réplica gigante de la portada en el proyector, lo que confirma que todo está bien conectado."
+
+# ba_chp6:129
+translate es badAppleChapter6_fbccb695:
+
+    "Sin hacer más caso a las posibles burlas de mis compañeros, me aparto de la laptop para que todos puedan ver mejor."
+
+# ba_chp6:131
+translate es badAppleChapter6_4e2149e3:
+
+    "Pero cada paso que doy se siente pesado, como si me hundiera en concreto, como si mi cuerpo intentara impedir que me mueva, por más que me esfuerce."
+
+# ba_chp6:133
+translate es badAppleChapter6_2062f28a:
+
+    "Creo en ti, Stella…"
+
+# ba_chp6:138
+translate es badAppleChapter6_d92476ab:
+
+    St "{cps=*.2}H-hola…{/cps} a todos."
+
+# ba_chp6:140
+translate es badAppleChapter6_e38e190e:
+
+    "Saludo a la clase con timidez mientras me doy vuelta y veo a más de una docena de personas de mi edad mirándome, cada una con una expresión distinta."
+
+# ba_chp6:144
+translate es badAppleChapter6_235b5ff8:
+
+    "Se me revuelve el estómago al oír risitas ahogadas en el aula."
+
+# ba_chp6:146
+translate es badAppleChapter6_95786686:
+
+    "No… ignóralos."
+
+# ba_chp6:150
+translate es badAppleChapter6_5fe8cf78:
+
+    St "E-entonces, en mi presentación, voy a hablar del anime…."
+
+# ba_chp6:154
+translate es badAppleChapter6_dfba39be:
+
+    "Me cuesta articular las palabras mientras las miradas de mis compañeros empiezan a atravesarme."
+
+# ba_chp6:161
+translate es badAppleChapter6_9f526459:
+
+    "Siento que me tiemblan las piernas y las manos. Pero por más que me concentre, no logro quedarme quieta. Tengo que seguir."
+
+# ba_chp6:165
+translate es badAppleChapter6_9a619232:
+
+    St "E-el anime es una forma de entretenimiento de… Japón; nació como una versión animada del manga."
+
+# ba_chp6:167
+translate es badAppleChapter6_bd7a1c6f:
+
+    St "Uno de los primeros ejemplos de anime fue-{nw}"
+
+# ba_chp6:174
+translate es badAppleChapter6_8be4b10f:
+
+    unParam "¿Puedes dejar de bailar? Estás en un salón de clases, no en un concurso de talentos." with hpunch
+
+# ba_chp6:180
+translate es badAppleChapter6_b21c3ef0:
+
+    "El comentario de un chico anquilosaurio rojo del rincón del fondo hace reír a algunos alumnos, me toma desprevenida y me deja paralizada."
+
+# ba_chp6:182
+translate es badAppleChapter6_876253cd:
+
+    Prock "¡Oye! ¡Basta!"
+
+# ba_chp6:189
+translate es badAppleChapter6_a1d27cc0:
+
+    "La profesora Prockling se endereza y regaña al bromista con una mirada fulminante que lo hace callar en el acto."
+
+# ba_chp6:198
+translate es badAppleChapter6_f9a893df:
+
+    Prock "Continúa, por favor, Stella."
+
+# ba_chp6:204
+translate es badAppleChapter6_5de56877:
+
+    "Yo… no… Yo."
+
+# ba_chp6:220
+translate es badAppleChapter6_2689f154:
+
+    St "Eh… s-sí. Uno de los primeros ejemplos de anime fue la serie Astro Boy, de 1963… y desde entonces el género despegó, lo que llevó a la…"
+
+# ba_chp6:222
+translate es badAppleChapter6_759f2635:
+
+    "Siento cómo se intensifica el juicio en sus miradas y cómo las burlas se vuelven más evidentes. Es cuestión de tiempo para que empiecen a insultarme otra vez."
+
+# ba_chp6:224
+translate es badAppleChapter6_ad34b6b4:
+
+    St "…a la creación de estudios como Studio Ghibli, Bones, Mappa, y de series populares como Naruto, PreCure y-"
+
+# ba_chp6:238
+translate es badAppleChapter6_13529d9b:
+
+    "Con tanto balanceo, pierdo el equilibrio y caigo hacia delante, contra el escritorio. Por suerte, logro apoyar la mano y frenar la caída."
+
+# ba_chp6:240
+translate es badAppleChapter6_cfe65d3a:
+
+    "Justo cuando me calmo, oigo que las risitas se hacen más fuertes. Me fijo en dónde quedó exactamente mi mano… y en la diapositiva que está en pantalla ahora, una que no debía salir hasta mucho después."
+
+# ba_chp6:246
+translate es badAppleChapter6_7933ec09:
+
+    "No… ¡no, no, no! ¡Debo de haberme saltado todas las diapositivas! ¿Por qué me pasa esto? ¡Practiqué todos los días! ¡Practiqué justo para que no pasara algo así!"
+
+# ba_chp6:250
+translate es badAppleChapter6_0f03616b:
+
+    unParam "¡¡¡PPFFFTTTT JAJAJA!!! ¿VIERON A ESA RETRASADA CAERSE SOBRE LA LAPTOP? E-ESPEREN, ¡¿Y ESO ES UNA PUTA CHICA GATO!?"
+
+# ba_chp6:252
+translate es badAppleChapter6_2d6d4f8d:
+
+    unParam "¡ESTÁ CLARO QUE DOS BOMBAS NO FUERON SUFICIENTES!"
+
+# ba_chp6:254
+translate es badAppleChapter6_ae5774c8:
+
+    unParam "¡CORRE COMO NARUTO, OTAKU DE MIERDA!"
+
+# ba_chp6:256
+translate es badAppleChapter6_927c5785:
+
+    "Sus insultos me abruman tanto que apenas puedo fijarme en el mundo a mi alrededor, y se me empiezan a llenar los ojos de lágrimas."
+
+# ba_chp6:258
+translate es badAppleChapter6_7431a827:
+
+    "Aparte de la chica pterodáctilo blanca del fondo y del compsognathus rojo más adelante, casi toda la clase se está riendo de mí."
+
+# ba_chp6:260
+translate es badAppleChapter6_1fa15ec5:
+
+    "De lo perdedora que soy, de lo patética que soy."
+
+# ba_chp6:262
+translate es badAppleChapter6_33709709:
+
+    "No puedo con esto…"
+
+# ba_chp6:280
+translate es badAppleChapter6_011e0a73:
+
+    "Mis piernas se ponen en piloto automático y salgo corriendo del aula, mientras las lágrimas me empiezan a caer como cascadas."
+
+# ba_chp6:282
+translate es badAppleChapter6_4300e951:
+
+    "Al empujar la puerta del aula, oigo la voz furiosa de mi profesora."
+
+# ba_chp6:284
+translate es badAppleChapter6_5907f6d1:
+
+    Prock "¡YA BASTA! ¡TODOS USTEDES!" with hpunch
+
+# ba_chp6:286
+translate es badAppleChapter6_60aa915a:
+
+    "Cuanto más me alejo del aula, más débil se oye su voz, hasta que ya no entiendo nada de lo que dice después."
+
+# ba_chp6:288
+translate es badAppleChapter6_091c4e82:
+
+    "Pero ni me importa lo que esté diciendo; solo quiero salir de aquí."
+
+# ba_chp6:343
+translate es badAppleChapter6_838cc5bd:
+
+    "Mientras avanzo por el pasillo, paso junto a un puñado de alumnos, testigos de la perdedora fanática del anime que huye llorando. Me miran confundidos, pero sé lo que de verdad están pensando."
+
+# ba_chp6:345
+translate es badAppleChapter6_d3108197:
+
+    "{i}Awww, ¿otra vez molestaron a la otaku estúpida? ¡Debería hacernos un favor a todos y matarse de una vez!{/i}"
+
+# ba_chp6:347
+translate es badAppleChapter6_6510a595:
+
+    "{i}Esa chica no debe de tener más amigos que sus dakimakuras y los raritos de sus servidores de Snootcord.{/i}"
+
+# ba_chp6:349
+translate es badAppleChapter6_8a3a0a6a:
+
+    "Aunque no digan esas palabras en voz alta, lo veo en sus ojos."
+
+# ba_chp6:357
+translate es badAppleChapter6_e015c340:
+
+    "Después de vagar sin rumbo por los pasillos, encuentro un lugar lejos de todo el caos: uno de los corredores de conexión, que a esta hora del día suele estar vacío."
+
+# ba_chp6:359
+translate es badAppleChapter6_e14e417d:
+
+    "Un lugar donde puedo estar sola, donde por fin puedo desahogarme."
+
+# ba_chp6:363
+translate es badAppleChapter6_d0360730:
+
+    "Me desplomo en el suelo junto a uno de los casilleros mientras una ola, no… un tsunami de tristeza me pasa por encima…"
+
+# ba_chp6:369
+translate es badAppleChapter6_7733bd50:
+
+    "¿Por qué la gente tiene que ser tan cruel? El anime fue una parte enorme de mi vida mientras crecía. Me dio tanta alegría en los días más oscuros."
+
+# ba_chp6:371
+translate es badAppleChapter6_2f5a990f:
+
+    "Tantas veces volví de la escuela llorando, sintiéndome tan sola, pero cada vez que podía sentarme a ver mis series favoritas, ya no me sentía tan sola, aunque fuera por un rato."
+
+# ba_chp6:373
+translate es badAppleChapter6_3d8316a9:
+
+    "No es la primera vez que me atormentan por ser quien soy. Aunque haya gente que me trató con cariño, como mis padres o Sage, eso apenas alivia el dolor."
+
+# ba_chp6:375
+translate es badAppleChapter6_7ca86cbd:
+
+    "Muchos chicos de mi edad pueden hablar de cuánto les encantan los superhéroes, los deportes, los videojuegos y los libros. ¡Pero cuando yo hablo de lo mucho que el anime significa para mí, me tratan como a una marginada! ¡Es un pasatiempo como cualquier otro!"
+
+# ba_chp6:377
+translate es badAppleChapter6_c9bdca2a:
+
+    "Pero… quizás una aspie como yo se merece esto…"
+
+# ba_chp6:381
+translate es badAppleChapter6_5e3a1ec0:
+
+    unParam "¿Qué pasa? ¿Por qué estás-" (who_color="#FE712B", who_outline=[(gui.name_text_thickness,"#54230F")])
+
+# ba_chp6:389
+translate es badAppleChapter6_6d97d1a0:
+
+    St "¡¡MERDE!!"
+
+# ba_chp6:391
+translate es badAppleChapter6_e95ab430:
+
+    "Salto hacia atrás contra el casillero casi por instinto, y siento un dolor agudo que me baja por la espalda."
+
+# ba_chp6:393
+translate es badAppleChapter6_498bb897:
+
+    "…¿por qué tengo que tener placas en la espalda?"
+
+# ba_chp6:401
+translate es badAppleChapter6_01b0c110:
+
+    "Miro a la figura que tengo delante: una chica aquilops anaranjada, más o menos de mi edad, con un vestido de flores precioso. Al ver mi sobresalto, en su cara aparece una mirada preocupada y a la vez de disculpa."
+
+# ba_chp6:403
+translate es badAppleChapter6_e50cdc17:
+
+    unParam "¡Lo siento! No quise asustarte; te vi llorando y quería preguntarte si estabas bien." (who_color="#FE712B", who_outline=[(gui.name_text_thickness,"#54230F")])
+
+# ba_chp6:405
+translate es badAppleChapter6_3eca2d79:
+
+    "Parece preocupada de verdad por mí, pero ¿por qué? ¿Por qué a esta chica le importaría una perdedora a la que nunca había visto?"
+
+# ba_chp6:407
+translate es badAppleChapter6_a8a41657:
+
+    unParam "Me llamo Rosa. ¿Cómo te llamas?" (who_color="#FE712B", who_outline=[(gui.name_text_thickness,"#54230F")])
+
+# ba_chp6:411
+translate es badAppleChapter6_04cbaf09:
+
+    "La chica se presenta con acento hispano mientras se sienta en el suelo, apoyada en uno de los casilleros a mi lado, para quedar a la altura de mis ojos."
+
+# ba_chp6:413
+translate es badAppleChapter6_12f25a33:
+
+    St "S-Stella… me llamo Stella…"
+
+# ba_chp6:415
+translate es badAppleChapter6_4ef58e0d:
+
+    Ro "Mucho gusto, Stella. ¿Me cuentas qué te pasa? ¿Por qué lloras?"
+
+# ba_chp6:417
+translate es badAppleChapter6_fd79d8e3:
+
+    "Suelto un suspiro: su pregunta me recuerda el maltrato que sufrí de mis compañeros hace apenas unos momentos."
+
+# ba_chp6:421
+translate es badAppleChapter6_25f17846:
+
+    St "Yo… teníamos que hacer un trabajo: presentarle a la clase una forma de entretenimiento de otra cultura…"
+
+# ba_chp6:423
+translate es badAppleChapter6_d1f84a28:
+
+    "Me obligo a sacar las palabras, con la voz algo chillona."
+
+# ba_chp6:427
+translate es badAppleChapter6_eea7d877:
+
+    Ro "¡Ooooh, eso suena muy divertido! ¿Y qué estabas presentando?"
+
+# ba_chp6:429
+translate es badAppleChapter6_38699c9f:
+
+    "A pesar del ánimo en su voz, me invade una ola de miedo. Si le digo qué estaba presentando, ella también se va a reír de mí…"
+
+# ba_chp6:431
+translate es badAppleChapter6_f408ea90:
+
+    St "Yo…yo…"
+
+# ba_chp6:433
+translate es badAppleChapter6_fca9e422:
+
+    Ro "Oye, oye, está bien, chica. Me lo puedes contar."
+
+# ba_chp6:435
+translate es badAppleChapter6_349970bc:
+
+    "Me pone una mano en el hombro mientras me mira a los ojos."
+
+# ba_chp6:437
+translate es badAppleChapter6_809d0a62:
+
+    "¿Quizás puedo contárselo sin peligro?"
+
+# ba_chp6:439
+translate es badAppleChapter6_f3b596f7:
+
+    St "Anime… Mi presentación era sobre anime… y… ellos..."
+
+# ba_chp6:443
+translate es badAppleChapter6_bbbef30c:
+
+    "Se me quiebra la voz y me cuesta seguir, pero la expresión de Rosa muestra que ya sabe lo que voy a decir."
+
+# ba_chp6:445
+translate es badAppleChapter6_e4fb6257:
+
+    Ro "¡Está bien! Escucha… nunca deberías avergonzarte de las cosas que te gustan."
+
+# ba_chp6:449
+translate es badAppleChapter6_e4f2fe5d:
+
+    Ro "De hecho, ¡yo creo que el anime es una cosa muy chula… me encanta!"
+
+# ba_chp6:451
+translate es badAppleChapter6_504fe08f:
+
+    "Por un momento se me ilumina la cara. ¿No cree que soy rara?"
+
+# ba_chp6:453
+translate es badAppleChapter6_969e80a5:
+
+    "Es muy raro poder hablar de mis pasatiempos y no solo no ser juzgada, sino que encima alguien se identifique conmigo."
+
+# ba_chp6:457
+translate es badAppleChapter6_4aed492d:
+
+    St "¿A ti también te gusta el anime?"
+
+# ba_chp6:459
+translate es badAppleChapter6_c9e37d5d:
+
+    Ro "¡Sí! Me encantaba ver Dragon Ball Z cuando era niña; aparte de eso, ¡he visto algunas otras series de vez en cuando!"
+
+# ba_chp6:463
+translate es badAppleChapter6_5dadd58c:
+
+    "Admito que Dragon Ball no es precisamente lo mío, pero ¡la idea de tener una nueva amiga con quien hablar de estas cosas me pone muy feliz!"
+
+# ba_chp6:467
+translate es badAppleChapter6_89a47d90:
+
+    "Pasamos los siguientes minutos hablando de qué más nos gustaba hacer. Resulta que a Rosa le encantan la jardinería y el baile; ¡lo primero es algo que siempre quise probar!"
+
+# ba_chp6:471
+translate es badAppleChapter6_0f4d8044:
+
+    "Se le agrió un poco el ánimo cuando le conté de mi pasión por la astrología. Esperaba que se levantara y se fuera en ese momento, dejándome sola otra vez, pero para mi sorpresa, ¡no me juzgó por eso!"
+
+# ba_chp6:473
+translate es badAppleChapter6_4f94c5b1:
+
+    "Supongo que debe de ser una chica bastante religiosa, porque mencionó que \"Jesús Raptor\" tenía un plan para mí."
+
+# ba_chp6:475
+translate es badAppleChapter6_efc9e21f:
+
+    "Cuando empecé a sentirme más cómoda, empecé a contarle lo sola que me había sentido desde primer año, con Sage como mi única amiga de verdad."
+
+# ba_chp6:479
+translate es badAppleChapter6_b7a64bcc:
+
+    "Mis palabras ensombrecieron la cara de Rosa, como si conociera ese tipo de dolor en carne propia."
+
+# ba_chp6:483
+translate es badAppleChapter6_7cf6541c:
+
+    "También pasamos el rato conociéndonos y contándonos cómo nos había ido en el instituto hasta ahora. ¡Resulta que ella también está en segundo año!"
+
+# ba_chp6:485
+translate es badAppleChapter6_ef4ab549:
+
+    "Y en poco tiempo, casi olvidé por qué había salido llorando del aula. Siempre me costó hacer amigos, y tener a alguien como ella con quien hablar me hizo sentir menos… sola."
+
+# ba_chp6:488
+translate es badAppleChapter6_32318799:
+
+    unParam "Stella Baudelaire, por favor, vuelve al aula 12A. Repito: Stella Baudelaire. Por favor, vuelve al aula 12A."
+
+# ba_chp6:494
+translate es badAppleChapter6_c16c8e61:
+
+    "El altavoz de la escuela resuena por los pasillos y aparta mi atención de mi nueva amiga."
+
+# ba_chp6:496
+translate es badAppleChapter6_9cfbca29:
+
+    Ro "Me imagino que te están buscando, ¿no?"
+
+# ba_chp6:498
+translate es badAppleChapter6_860e9605:
+
+    St "Sí… Mejor me voy antes de meterme en problemas."
+
+# ba_chp6:500
+translate es badAppleChapter6_72dc0b70:
+
+    Ro "¡No te preocupes! Pero antes de que te vayas, quería preguntarte: ¿te gustaría sentarte conmigo en el almuerzo?"
+
+# ba_chp6:507
+translate es badAppleChapter6_92972f8f:
+
+    "Rosa se levanta del suelo y me ofrece una mano para ayudarme."
+
+# ba_chp6:509
+translate es badAppleChapter6_92e2f398:
+
+    "¿Todavía quiere pasar tiempo conmigo?"
+
+# ba_chp6:511
+translate es badAppleChapter6_9092bb46:
+
+    St "¿Tú… quieres almorzar conmigo?"
+
+# ba_chp6:513
+translate es badAppleChapter6_290342df:
+
+    "Le tomo la mano, confundida por su gesto amable."
+
+# ba_chp6:515
+translate es badAppleChapter6_fb905e9d:
+
+    Ro "¡Claro! ¡La pasé muy bien hablando contigo, Stella! Y me gustaría que volviéramos a vernos alguna vez."
+
+# ba_chp6:519
+translate es badAppleChapter6_c3f80e02:
+
+    St "Yo… ¡Me encantaría! ¡Gracias!"
+
+# ba_chp6:521
+translate es badAppleChapter6_ed9cce82:
+
+    "Rosa suelta una risita y sonríe; de verdad le intereso."
+
+# ba_chp6:523
+translate es badAppleChapter6_8683af56:
+
+    Ro "¡Muy bueno! ¡Te espero en la cafetería cuando suene el timbre!"
+
+# ba_chp6:525
+translate es badAppleChapter6_71ca57c5:
+
+    A "¡Ahí estaré, Rosa! ¡Nos vemos entonces!"
+
+# ba_chp6:527
+translate es badAppleChapter6_f3013920:
+
+    "Rosa y yo nos despedimos y cada una se va por su lado."
+
+# ba_chp6:529
+translate es badAppleChapter6_50c728e0:
+
+    Ro "¡Adiós, Stella! ¡Nos vemos pronto!"
+
+# ba_chp6:534
+translate es badAppleChapter6_bab0f5e9:
+
+    "Y a partir de ese momento tuve una amiga a la que, con el tiempo, llegaría a llamar mi hermana."
+
+# ba_chp6:557
+translate es badAppleChapter6_2ac425b3:
+
+    "Durante meses no he sentido más que dolor y soledad, hundiéndome cada vez más en un mar de duelo que me convirtió en un cascarón ambulante de hombre. Me he sentido así durante tanto tiempo."
+
+# ba_chp6:559
+translate es badAppleChapter6_e99de0ba:
+
+    "Pero ¿ahora mismo, en este momento?"
+
+# ba_chp6:561
+translate es badAppleChapter6_2cd20977:
+
+    "Me siento libre. Todas las preocupaciones y las cargas que me atormentaban a cada instante palidecen al lado de la dicha en la que me encuentro."
+
+# ba_chp6:563
+translate es badAppleChapter6_08cf919e:
+
+    "Su abrazo cálido, su forma de ser dulce y alegre, sus escamas suaves como la seda y su hermoso pelo suelto. Es… increíble."
+
+# ba_chp6:572
+translate es badAppleChapter6_ec99421e:
+
+    "Estamos los dos acostados en su cama, una nube suave y mullida, frente a la tele. Ninguno parece prestarle atención a las imágenes de la pantalla; solo nos miramos el uno al otro."
+
+# ba_chp6:574
+translate es badAppleChapter6_3d860945:
+
+    "Estoy sentado contra la cabecera y ella se recuesta sobre mí, con la cabeza apoyada en mi hombro y el cuerpo prácticamente hundido en el mío."
+
+# ba_chp6:576
+translate es badAppleChapter6_d0836aab:
+
+    "Los dos estamos eufóricos después de pasar los últimos diez minutos aprendiendo jiu-jitsu de lengua humano-estegosaurio. Por sorprendente que parezca, fue más fácil de lo que pensaba."
+
+# ba_chp6:578
+translate es badAppleChapter6_6127c251:
+
+    "Con ese hocico curvo como un pico, uno pensaría que a Stella le costaría hasta tomar de un vaso, y ni hablar de besar a alguien como yo sin que se me enganchen los labios en su boca-"
+
+# ba_chp6:580
+translate es badAppleChapter6_8acf14bf:
+
+    St "Estás murmurando otra vez, Anon."
+
+# ba_chp6:582
+translate es badAppleChapter6_d5b5caf5:
+
+    "La estego suelta una risita."
+
+# ba_chp6:592
+translate es badAppleChapter6_f235ed4d:
+
+    "Siento cómo se me pone roja toda la cara de la vergüenza; ni siquiera necesito un espejo para verlo."
+
+# ba_chp6:594
+translate es badAppleChapter6_a320eead:
+
+    "Stella levanta la cabeza de mi hombro y me mira con una sonrisa pícara."
+
+# ba_chp6:596
+translate es badAppleChapter6_959a5834:
+
+    St "Justo iba a decir lo mismo de tus labios planos. ¿Cómo haces para comer con esas cosas?"
+
+# ba_chp6:598
+translate es badAppleChapter6_e49c0cd9:
+
+    "Me lo suelta con un tono descarado, muy poco propio de ella."
+
+# ba_chp6:600
+translate es badAppleChapter6_edd0d3d3:
+
+    "Yo… ¿acaba de…?"
+
+# ba_chp6:602
+translate es badAppleChapter6_bef09759:
+
+    "Mientras me quedo completamente pasmado, Stella estalla en un ataque de risa y le cuesta no perder el equilibrio encima de mí."
+
+# ba_chp6:608
+translate es badAppleChapter6_848c30ba:
+
+    St "¡Jajajajajaja, la cara que pusiste! Ay, eres adorable, Anon."
+
+# ba_chp6:612
+translate es badAppleChapter6_a904080a:
+
+    "Se ríe mientras se seca las lágrimas."
+
+# ba_chp6:614
+translate es badAppleChapter6_36f53700:
+
+    A "{cps=*2}¡T-TÚ TAMBIÉN!{/cps}"
+
+# ba_chp6:616
+translate es badAppleChapter6_b935d7a7:
+
+    "Lo suelto como un autista mientras me sonrojo tanto que empiezo a parecer un estereotipo ofensivo."
+
+# ba_chp6:618
+translate es badAppleChapter6_565dca6d:
+
+    "Stella sigue riéndose mientras se hunde en mis brazos. Por instinto le devuelvo el gesto y la abrazo fuerte."
+
+# ba_chp6:620
+translate es badAppleChapter6_5ad7f0f9:
+
+    "Aunque de pie no es mucho más baja que yo, en mis brazos se siente pequeña y delicada. Me quedan unas ganas enormes de protegerla y cuidarla; el deseo me arde por dentro como un infierno."
+
+# ba_chp6:622
+translate es badAppleChapter6_142fd645:
+
+    "Cuando la risa adorable de Stella se apaga, volvemos a donde estábamos hace un momento: a un silencio cómodo."
+
+# ba_chp6:624
+translate es badAppleChapter6_ee23f834:
+
+    "O al menos supongo que es un silencio cómodo. ¿Debería decir algo para no quedarnos aquí sentados como tontos? ¿Sobre todo después de pasar los últimos minutos besuqueándonos?"
+
+# ba_chp6:626
+translate es badAppleChapter6_858a11ba:
+
+    "En silencio, mi mente busca a toda prisa de qué hablar, hasta que veo lo primero que hay en su cuarto: ¿una PachyStation 5? ¿Cómo consiguió una de esas, por cierto?"
+
+# ba_chp6:630
+translate es badAppleChapter6_1c29842f:
+
+    A "Oye… ¿y cómo conseguiste una de esas cosas?"
+
+# ba_chp6:632
+translate es badAppleChapter6_4858651f:
+
+    "Pregunto, señalando la cosa blanca con pinta de router que tiene en la repisa."
+
+# ba_chp6:636
+translate es badAppleChapter6_17d88d1c:
+
+    St "¿La PS5? ¡Ah, pude reservar una cuando las anunciaron!"
+
+# ba_chp6:638
+translate es badAppleChapter6_3093fb4c:
+
+    St "¡Tuve bastante suerte, porque ahora es REALMENTE difícil encontrarlas!"
+
+# ba_chp6:640
+translate es badAppleChapter6_20224073:
+
+    A "Sí, ni me lo digas… Y me imagino que encontrar una Xrox Series X tampoco es más fácil…"
+
+# ba_chp6:642
+translate es badAppleChapter6_e3fea470:
+
+    "Me encojo de hombros mientras pienso qué decir ahora."
+
+# ba_chp6:644
+translate es badAppleChapter6_a1425dd9:
+
+    "Recorro con la vista su cuarto teñido de azul y veo el cuadro junto a la puerta: un chico rubio, solo, sobre un fondo azul oscuro, toca lo que parece la superficie del agua, y su reflejo imita sus movimientos de forma distorsionada."
+
+# ba_chp6:646
+translate es badAppleChapter6_635a0b52:
+
+    "Carajo, Stella sí que tiene talento. La única mierda que he podido hacer en clase de Arte son perros, y siempre terminan pareciendo caimanes."
+
+# ba_chp6:648
+translate es badAppleChapter6_4afc7463:
+
+    A "Creo que todavía no había visto ese cuadro tuyo. ¿De qué trata?"
+
+# ba_chp6:650
+translate es badAppleChapter6_542e50f8:
+
+    "Le señalo su obra para que la mire."
+
+# ba_chp6:652
+translate es badAppleChapter6_6bbc968f:
+
+    St "Ah, ¿ese?"
+
+# ba_chp6:654
+translate es badAppleChapter6_949edcc5:
+
+    St "Trata de-{nw}"
+
+# ba_chp6:664
+translate es badAppleChapter6_b297287e:
+
+    "Antes de que Stella termine, un crujido llena el aire: la puerta junto al cuadro se abre y entra el papá de Stella."
+
+# ba_chp6:672
+translate es badAppleChapter6_78dcd468:
+
+    "Ay, mierda…"
+
+# ba_chp6:674
+translate es badAppleChapter6_e3349ef3:
+
+    "Sus ojos recorren la escena."
+
+# ba_chp6:676
+translate es badAppleChapter6_10da67b1:
+
+    "Ve a su hija abrazada a un humano lisiado y mugroso sentado en su cama. En su casa."
+
+# ba_chp6:678
+translate es badAppleChapter6_0083c38e:
+
+    "Mierda. Mierda. ¡MIERDA!"
+
+# ba_chp6:680
+translate es badAppleChapter6_96e5e272:
+
+    "Me quedo ahí congelado, con el miedo envolviéndome entero, mientras recuerdo con dolor la última vez que estuve en el cuarto de la hija de alguien."
+
+# ba_chp6:689
+translate es badAppleChapter6_5d182d60:
+
+    FD "La próxima vez que te encuentre a solas con mi hija, voy a usar tu cabeza como cubo de Rubik."
+
+# ba_chp6:696
+translate es badAppleChapter6_ce617998:
+
+    "…"
+
+# ba_chp6:700
+translate es badAppleChapter6_0ad2b489:
+
+    StDad "Bueeeeeno…"
+
+# ba_chp6:702
+translate es badAppleChapter6_1935790e:
+
+    "El Sr. Baudelaire se ve tan confundido como yo, y luego suelta un silbido."
+
+# ba_chp6:704
+translate es badAppleChapter6_c4d53280:
+
+    StDad "¡Viens ici, Ghibli!"
+
+# ba_chp6:712
+translate es badAppleChapter6_342d586f:
+
+    "Mierda, se me olvidó que la perrita estuvo con nosotros todo el tiempo."
+
+# ba_chp6:714
+translate es badAppleChapter6_2549b4a1:
+
+    "La samoyedo sonriente se levanta del suelo junto a la cama de Stella y acude feliz al llamado de su dueño."
+
+# ba_chp6:716
+translate es badAppleChapter6_15e7bebe:
+
+    "O sea que estos últimos minutos su perrita estuvo mirándonos…"
+
+# ba_chp6:718
+translate es badAppleChapter6_52981736:
+
+    "Puaj…"
+
+# ba_chp6:720
+translate es badAppleChapter6_1d573a66:
+
+    StDad "Los… eh… Mejor los dejo solos…"
+
+# ba_chp6:729
+translate es badAppleChapter6_7d745b45:
+
+    "Su padre cierra la puerta despacio, con una mezcla de vergüenza e incomodidad pintada en la cara."
+
+# ba_chp6:731
+translate es badAppleChapter6_e71d0ccd:
+
+    "Espera… no habrá pensado que nosotros… Jesús Raptor, ayúdame…"
+
+# ba_chp6:733
+translate es badAppleChapter6_f332b86e:
+
+    "Aun así, supongo que salió mucho mejor de lo que podía esperar."
+
+# ba_chp6:739
+translate es badAppleChapter6_3a60c3d1:
+
+    St "Entonces… ¿qué me estabas preguntando, Anon?"
+
+# ba_chp6:743
+translate es badAppleChapter6_4a30656f:
+
+    A "Yo… la verdad, ya se me olvidó."
+
+# ba_chp6:745
+translate es badAppleChapter6_3c810249:
+
+    "A Stella se le pone una cara pensativa, como si buscara dentro de su mente lo que va a decir."
+
+# ba_chp6:747
+translate es badAppleChapter6_356a0b8c:
+
+    St "Oye, Anon, ya que estás aquí, quería preguntarte algo."
+
+# ba_chp6:749
+translate es badAppleChapter6_a32ab609:
+
+    St "¿Quieres que hagamos una lectura de tarot?"
+
+# ba_chp6:751
+translate es badAppleChapter6_fae1d299:
+
+    "¿Una lectura de tarot?"
+
+# ba_chp6:753
+translate es badAppleChapter6_1bc8b1d1:
+
+    "Una parte de mí se sorprende de que lo pregunte. En las semanas desde que nos reencontramos, casi no la he oído hablar de astrología."
+
+# ba_chp6:755
+translate es badAppleChapter6_e5eaea89:
+
+    "Claro, lo que ha estado pintando tiene una clara influencia del arte que se ve en esas cosas ocultistas que le gustan. Aun así, no la he oído mencionarlo directamente."
+
+# ba_chp6:757
+translate es badAppleChapter6_2bc4e666:
+
+    "En el Instituto Volcano, la astrología era una parte enorme de quién era ella, desde el primer momento en que nos conocimos. Me la crucé en un pasillo y me habló de forma críptica mientras me enseñaba una de sus cartas, sin más explicación."
+
+# ba_chp6:759
+translate es badAppleChapter6_168bf41d:
+
+    "Hasta justo antes de la gran presentación de Fang en Dino Moes, cuando llevaba esa camiseta de ‘Oppai’; ojalá nadie más supiera lo que significa esa palabra…"
+
+# ba_chp6:761
+translate es badAppleChapter6_a612cd4e:
+
+    "Es curioso: ahora que lo pienso, fue un momento rarísimo, eclipsado por todo lo demás que pasó esa noche. Lo que pasó… con Fang… Todavía recuerdo la carta que sacó."
+
+# ba_chp6:763
+translate es badAppleChapter6_c497552c:
+
+    "{i}La Emperatriz invertida{/i}"
+
+# ba_chp6:765
+translate es badAppleChapter6_992261cc:
+
+    "No sé ni lo más básico de astrología, salvo por las cartas que vi en Parasaurna. Pero por cómo Stella salió corriendo del cuarto del fondo, en pánico, está claro que no significaba nada bueno."
+
+# ba_chp6:767
+translate es badAppleChapter6_b01ceafd:
+
+    "Y tenía más razón de la que creía."
+
+# ba_chp6:771
+translate es badAppleChapter6_60713f62:
+
+    "¿De verdad quiero saber lo que las estrellas, el destino o lo que sea me tienen preparado?"
+
+# ba_chp6:773
+translate es badAppleChapter6_3e56e5a6:
+
+    "¿Me estaré abriendo a más dolor?"
+
+# ba_chp6:775
+translate es badAppleChapter6_6dbc273a:
+
+    "Mientras mis pensamientos ahogan el mundo a mi alrededor, siento que un par de manos suaves me toman la mano."
+
+# ba_chp6:777
+translate es badAppleChapter6_e07fab45:
+
+    St "Aunque las estrellas señalen un destino sombrío, ya no estás solo."
+
+# ba_chp6:781
+translate es badAppleChapter6_eb40f836:
+
+    "Stella me mira a los ojos con una sonrisa cálida; se da cuenta de que dudo."
+
+# ba_chp6:783
+translate es badAppleChapter6_cfd9e5aa:
+
+    St "Lo enfrentaremos. Juntos..."
+
+# ba_chp6:785
+translate es badAppleChapter6_e9d602b7:
+
+    A "Juntos."
+
+# ba_chp6:787
+translate es badAppleChapter6_3812b4a7:
+
+    "Repito su última palabra mientras se me mezclan por dentro emociones intensas."
+
+# ba_chp6:789
+translate es badAppleChapter6_eb9daa75:
+
+    "Emociones que solo se hacen más fuertes cuando nuestros labios vuelven a encontrarse. Es tan revitalizante como la primera vez."
+
+# ba_chp6:791
+translate es badAppleChapter6_4d4da279:
+
+    "Alegría, anhelo, seguridad, aceptación, y una punzada de tristeza que quedó de los años de soledad que tuve que soportar."
+
+# ba_chp6:793
+translate es badAppleChapter6_bedab36e:
+
+    "Ese dolor quedó eclipsado por un tiempo cuando Fang llegó a mi vida y me dio un propósito y felicidad."
+
+# ba_chp6:797
+translate es badAppleChapter6_be8986f2:
+
+    "Pero ¿está mal dejar atrás esa felicidad? ¿Olvidarlo todo y seguir adelante con nuevos amigos?"
+
+# ba_chp6:799
+translate es badAppleChapter6_91d502cf:
+
+    "Siempre habrá una parte de mí que ame a Fang, pero aun así me quedan sentimientos encontrados."
+
+# ba_chp6:801
+translate es badAppleChapter6_89740f90:
+
+    "Cuando nuestros labios se separan, Stella me mira expectante, esperando mi respuesta."
+
+# ba_chp6:805
+translate es badAppleChapter6_da2ad965:
+
+    A "Me encantaría… hagámoslo."
+
+# ba_chp6:816
+translate es badAppleChapter6_90073d92:
+
+    "Sin perder tiempo, prácticamente sale disparada de la cama como un cohete. Nota mental: no darle azúcar después de medianoche."
+
+# ba_chp6:820
+translate es badAppleChapter6_5c5c12bd:
+
+    St "¡Bieeen! ¡Hace siglos que no hago una lectura de tarot con alguien!"
+
+# ba_chp6:829
+translate es badAppleChapter6_23d0fc45:
+
+    "Stella va hasta su tocador y empieza a hurgar en los cajones."
+
+# ba_chp6:831
+translate es badAppleChapter6_edb03ee4:
+
+    "Debe de hacer bastante que no tiene la oportunidad de hacer una lectura de tarot. Entiendo por qué está tan emocionada."
+
+# ba_chp6:835
+translate es badAppleChapter6_93610095:
+
+    St "¡Yyyyyyyyyy, aquí está!"
+
+# ba_chp6:837
+translate es badAppleChapter6_221c0a1c:
+
+    "Stella saca una caja de cartas algo polvorienta, con un estampado de flores y las palabras {i}'Arcanos Mayores Babil'{i} escritas encima."
+
+# ba_chp6:842
+translate es badAppleChapter6_1db185b1:
+
+    "Vuelve a sentarse en la cama, ansiosa, saca las cartas y empieza a barajarlas como un crupier en una mesa de póker."
+
+# ba_chp6:848
+translate es badAppleChapter6_ceb2dde2:
+
+    St "Bueno, antes de empezar la lectura..."
+
+# ba_chp6:850
+translate es badAppleChapter6_9e9e4550:
+
+    St "¿Qué pregunta les haremos a las estrellas?"
+
+# ba_chp6:854
+translate es badAppleChapter6_86facc05:
+
+    "Hace un tiempo me habría dado vergüenza ajena oírla decir algo así. Pero ahora no me canso de lo tierna que suena cuando se pone toda 'mística'. Bueno, ¿qué pregunta les hacemos?"
+
+# ba_chp6:858
+translate es badAppleChapter6_41cd8bec:
+
+    A "¿Qué tal… cómo será el futuro para nosotros, y si las cosas van a mejorar algún día?"
+
+# ba_chp6:862
+translate es badAppleChapter6_77a8a5d4:
+
+    "Stella baja la cabeza hacia las cartas y las mira, pensativa."
+
+# ba_chp6:866
+translate es badAppleChapter6_b8f7104a:
+
+    St "Sí… Me gustaría."
+
+# ba_chp6:870
+translate es badAppleChapter6_a61b8883:
+
+    St "Pero yo…"
+
+# ba_chp6:874
+translate es badAppleChapter6_dc6efc81:
+
+    "La melancolía ya reemplazó el entusiasmo de su voz, y mi mano no pierde tiempo en buscar la suya."
+
+# ba_chp6:876
+translate es badAppleChapter6_57019f0b:
+
+    A "¿Stella?"
+
+# ba_chp6:878
+translate es badAppleChapter6_e14f2889:
+
+    St "Esa noche, en el concierto, cuando te hice la lectura en el cuarto del fondo… Me asusté y salí corriendo antes de poder decirte nada. No sabía lo mal que se iban a poner las cosas."
+
+# ba_chp6:880
+translate es badAppleChapter6_d3f2a239:
+
+    "Me mira, con la cara llena de arrepentimiento."
+
+# ba_chp6:884
+translate es badAppleChapter6_a7addfb2:
+
+    St "Lo siento tanto… tanto, Anon."
+
+# ba_chp6:886
+translate es badAppleChapter6_2c039e6b:
+
+    "Espera que me enfurezca con ella por ocultarme algo tan trivial como una carta. Pero no encuentro ni una pizca de enojo en mí. O sea, tampoco es que lo hubiera entendido aunque me lo hubiera dicho."
+
+# ba_chp6:888
+translate es badAppleChapter6_93bef101:
+
+    A "No tienes absolutamente nada de qué disculparte."
+
+# ba_chp6:890
+translate es badAppleChapter6_7d6a86bf:
+
+    "Le aprieto la mano con más fuerza."
+
+# ba_chp6:892
+translate es badAppleChapter6_c10e6581:
+
+    A "A veces no puedes cambiar el destino, por más que lo intentes. Pero quizás esta lectura pueda darnos una señal de lo que viene."
+
+# ba_chp6:896
+translate es badAppleChapter6_461588c6:
+
+    "Stella sonríe ante mis palabras de ánimo y me aprieta la mano."
+
+# ba_chp6:898
+translate es badAppleChapter6_53348173:
+
+    St "Me alegra tanto que estés aquí, Anon…"
+
+# ba_chp6:934
+translate es badAppleChapter6_f3be960e:
+
+    "Me lo susurra antes de acercarse a mi cara y darme un besito en la mejilla."
+
+# ba_chp6:939
+translate es badAppleChapter6_cb675dc3:
+
+    "{i}{b}Una chica linda me acaba de besar en la mejilla. Una auténtica qt 3.14 me acaba de besar en la mejilla.{/i}{/b}"
+
+# ba_chp6:941
+translate es badAppleChapter6_e24eaa69:
+
+    "Por Dios, Anon. Que no se te derrame el espagueti de los bolsillos…"
+
+# ba_chp6:945
+translate es badAppleChapter6_98703592:
+
+    St "Muy bien, descubramos la voluntad de los dioses."
+
+# ba_chp6:953
+translate es badAppleChapter6_9f6019aa:
+
+    "Stella se pone a mi lado para que los dos miremos hacia el mismo lado. Tiene sentido, con todo eso de las cartas ‘al derecho’ e ‘invertidas’."
+
+# ba_chp6:955
+translate es badAppleChapter6_c1789078:
+
+    "Sin perder más tiempo, Stella baraja las cartas y las va dejando boca abajo, separadas unas de otras, hasta que quedan nueve frente a nosotros."
+
+# ba_chp6:957
+translate es badAppleChapter6_85cab3ff:
+
+    St "Ahora tenemos que elegir tres cartas."
+
+# ba_chp6:959
+translate es badAppleChapter6_b75b7f35:
+
+    St "¿Quieres elegirlas tú?"
+
+# ba_chp6:961
+translate es badAppleChapter6_5e8b16d9:
+
+    "Stella me acerca las cartas para animarme a elegir."
+
+# ba_chp6:963
+translate es badAppleChapter6_8021c731:
+
+    "No sé muy bien cómo funcionan las lecturas de tarot. Le sigo el juego lo mejor que puedo, pero mientras pienso qué decir, se me ocurre una idea."
+
+# ba_chp6:965
+translate es badAppleChapter6_749a7e6b:
+
+    A "¿Qué tal si… qué tal si cada uno elige una y la última la elegimos juntos?"
+
+# ba_chp6:978
+translate es badAppleChapter6_919b6f4a:
+
+    St "¡Qué buena idea, Anon! ¡Tú primero!"
+
+# ba_chp6:980
+translate es badAppleChapter6_12702fd9:
+
+    "Qué bueno que al menos dije lo correcto."
+
+# ba_chp6:984
+translate es badAppleChapter6_2abb5809:
+
+    "Sin pensarlo mucho, elijo la que está más a la derecha. Stella sonríe entusiasmada y la acerca hacia ella, separándola del resto. Luego agarra rápido una carta del centro, sonriendo con una alegría que apenas contiene en cada movimiento."
+
+# ba_chp6:999
+translate es badAppleChapter6_a8abc1e7:
+
+    "Entiendo por qué está tan entusiasmada. Debe de hacer mucho que no hace algo así con alguien. Claro, ella y Rosa son uña y carne, pero no me imagino a alguien como Rosa muy dispuesta a meterse en las 'artes oscuras'."
+
+# ba_chp6:1003
+translate es badAppleChapter6_a5d6b60e:
+
+    St "Sí… Hace mucho. No hago una lectura de tarot desde…"
+
+# ba_chp6:1009
+translate es badAppleChapter6_37af5bc0:
+
+    "Stella confirma lo que acabo de murmurar. Pero duda en esa última palabra."
+
+# ba_chp6:1011
+translate es badAppleChapter6_40642eb2:
+
+    St "...desde la noche del baile."
+
+# ba_chp6:1013
+translate es badAppleChapter6_568e4e2f:
+
+    "Stella por fin termina la frase; la emoción de su voz dio paso a la inquietud y la reflexión."
+
+# ba_chp6:1015
+translate es badAppleChapter6_53b00a67:
+
+    "Pero, a diferencia de otras veces, cuando rompía a llorar al revivir alguna parte de su pasado, ahora parece más serena. Debió de costarle mucho abrirse sobre la pérdida de su mejor amiga y toda una vida de acoso."
+
+# ba_chp6:1017
+translate es badAppleChapter6_7f3c48ac:
+
+    "No la culpo; yo tenía miedo de que me echara de su cuarto después de contarle que soy prácticamente un esquizo drogadicto."
+
+# ba_chp6:1019
+translate es badAppleChapter6_0b889fd8:
+
+    "Le tomo la mano con delicadeza, y eso hace que aparte la vista de las cartas."
+
+# ba_chp6:1021
+translate es badAppleChapter6_41c3e26e:
+
+    A "Oye, está bien… Esta vez va a ser diferente…"
+
+# ba_chp6:1023
+translate es badAppleChapter6_9920e0a4:
+
+    "Quiero que se sienta segura y feliz. Si ella todavía puede mirarme a los ojos y preocuparse por mí a pesar de lo jodido que estoy, seguro que yo también puedo."
+
+# ba_chp6:1025
+translate es badAppleChapter6_2a5ba493:
+
+    "El ceño fruncido de Stella se convierte en una sonrisa sutil; parece que mis palabras le hicieron efecto."
+
+# ba_chp6:1029
+translate es badAppleChapter6_51207b0b:
+
+    St "Gracias, Anon."
+
+# ba_chp6:1031
+translate es badAppleChapter6_70ff87f0:
+
+    "Lo dice con dulzura antes de que volvamos a mirar las cartas."
+
+# ba_chp6:1033
+translate es badAppleChapter6_1f5d02e6:
+
+    "No tengo idea de cuál conviene elegir, así que muevo la mano adonde va la suya y caemos en la “del centro a la derecha”. Ella acerca la carta a las otras dos y, bastante rápido, empieza a darles vuelta para ver cuáles son."
+
+# ba_chp6:1040
+translate es badAppleChapter6_f8d35204:
+
+    "La Fuerza… Eso suena bien, ¿no?"
+
+# ba_chp6:1047
+translate es badAppleChapter6_e4e7b730:
+
+    "Los Enamorados. Oye... a lo mejor todo esto del \"destino\" y las \"estrellas\" es real, porque esto ya es demasiada casualidad."
+
+# ba_chp6:1049
+translate es badAppleChapter6_1514971d:
+
+    "Y la última carta es…"
+
+# ba_chp6:1056
+translate es badAppleChapter6_a9a10cbb:
+
+    "Una figura con túnica que sostiene una guadaña- ¿¿La Muerte??"
+
+# ba_chp6:1058
+translate es badAppleChapter6_e9dc7873:
+
+    "{i}Ay, mierda…{/i}"
+
+# ba_chp6:1065
+translate es badAppleChapter6_46bc1165:
+
+    "Stella me mira confundida un instante, hasta que se le iluminan los ojos de sorpresa."
+
+# ba_chp6:1069
+translate es badAppleChapter6_8d2cf269:
+
+    St "¡Oh, no, no, no, no, lo entendiste todo mal, Anon! ¡La Muerte no significa necesariamente una muerte de verdad ni nada malo!"
+
+# ba_chp6:1071
+translate es badAppleChapter6_a08e2114:
+
+    A "¿La figura aterradora con túnica y guadaña que se llama LITERALMENTE 'la Muerte' no es algo malo? ¿Cómo?"
+
+# ba_chp6:1077
+translate es badAppleChapter6_bc251fb6:
+
+    "Mi ignorancia le pone a Stella una cara algo molesta, y suelta un suspiro. Se lo está tomando bastante en serio…"
+
+# ba_chp6:1079
+translate es badAppleChapter6_e17005b0:
+
+    St "La Muerte al derecho suele referirse al 'fin de un ciclo', normalmente cuando alguien deja atrás una parte vieja de su vida y empieza algo nuevo. También puede significar transformación o renacimiento."
+
+# ba_chp6:1081
+translate es badAppleChapter6_f7cb59b8:
+
+    "Suena un poco engañoso… pero algo de sentido tiene."
+
+# ba_chp6:1083
+translate es badAppleChapter6_feddc15b:
+
+    A "¿Entonces la Muerte invertida significa algo como… quedarse atascado en el pasado?"
+
+# ba_chp6:1087
+translate es badAppleChapter6_ebcc4021:
+
+    St "¡Sí, exacto! ¡Bien adivinado!"
+
+# ba_chp6:1089
+translate es badAppleChapter6_443d845b:
+
+    "La cara de molestia de Stella se evapora enseguida ante mi golpe de suerte."
+
+# ba_chp6:1091
+translate es badAppleChapter6_6d4cef12:
+
+    "Vuelvo a mirar las cartas, y parece que todas están al derecho."
+
+# ba_chp6:1093
+translate es badAppleChapter6_1923e906:
+
+    A "Entonces… ¿qué significa todo esto?"
+
+# ba_chp6:1095
+translate es badAppleChapter6_bebe2676:
+
+    "Vuelvo a mirar a la estego soñadora y veo que su cerebro trabaja a toda máquina, analizando el significado."
+
+# ba_chp6:1099
+translate es badAppleChapter6_16abd930:
+
+    "El ceño fruncido, la mirada concentrada, el dedo frotándose la barbilla. Sí que se toma en serio esta mierda, ¿eh?"
+
+# ba_chp6:1101
+translate es badAppleChapter6_39c1f24d:
+
+    St "Mmm… Bueno, al derecho, la carta de la Fuerza suele representar cualidades como la valentía, la compasión y la fuerza interior. Los Enamorados suelen simbolizar, bueno… el amor, pero también la unión y el compañerismo en general."
+
+# ba_chp6:1103
+translate es badAppleChapter6_e163135c:
+
+    "Va recorriendo las cartas con el dedo mientras me explica su significado y me instruye en el intrincado mundo de la astrología. No voy a mentir, esto es bastante interesante. Esos foros armenios de alfarería no tenían ni puta idea."
+
+# ba_chp6:1105
+translate es badAppleChapter6_abf8c841:
+
+    St "Y combinado con el significado de la Muerte al derecho…"
+
+# ba_chp6:1107
+translate es badAppleChapter6_e31ce3ad:
+
+    "Hace una breve pausa mientras le giran los engranajes en la cabeza, hasta que su cara pensativa se convierte en una sonrisa radiante."
+
+# ba_chp6:1114
+translate es badAppleChapter6_24d1ab88:
+
+    St "Juntos superaremos la tormenta y abriremos un nuevo camino, creando nuestra propia felicidad."
+
+# ba_chp6:1121
+translate es badAppleChapter6_158e1cb0:
+
+    "La estego se recuesta contra mí, con la cabeza apoyada en mi hombro."
+
+# ba_chp6:1125
+translate es badAppleChapter6_37f6ec12:
+
+    "No puedo evitar sonreír, en parte por la descripción mística y tontita de la estego, pero también por sus palabras llenas de esperanza. Si alguien puede saber cosas así con solo leer cartas, es ella."
+
+# ba_chp6:1127
+translate es badAppleChapter6_994c9eeb:
+
+    "Me rodea con los brazos y yo hago lo mismo, y nos quedamos así, a gusto, abrazados."
+
+# ba_chp6:1129
+translate es badAppleChapter6_9dcb506f:
+
+    "Y, por una vez, siento un fuego que me calienta el alma fría."
+
+# ba_chp6:1131
+translate es badAppleChapter6_2d0819d5:
+
+    "Pero ¿de verdad me merezco un futuro mejor?"
+
+# ba_chp6:1143
+translate es badAppleChapter6_ecf502c1:
+
+    "Por primera vez en mucho tiempo, se me olvidó lo rápido que pasa el tiempo cuando uno la pasa bien. Y por primera vez en meses, fui feliz de verdad."
+
+# ba_chp6:1145
+translate es badAppleChapter6_b85d0e5f:
+
+    "Después de comentar la lectura de tarot, Stella y yo salimos de su cuarto para bajar a ver a sus padres. No tengo ninguna gana de hacerlo, sobre todo porque su padre entró y encontró a un skinnie acurrucado con su hija en la cama."
+
+# ba_chp6:1160
+translate es badAppleChapter6_7a247056:
+
+    "Con cada paso que damos por la escalera de madera, más me consumen la ansiedad y el miedo. Solo puedo imaginarme su mirada asesina, sus garras afiladas y sus intenciones violentas… Es lo único que espero del papá de Stella cuando hablemos con él."
+
+# ba_chp6:1167
+translate es badAppleChapter6_76303928:
+
+    "Antes de que mi paranoia pueda seguir, Stella se detiene en la escalera y se gira hacia mí con una mirada tranquilizadora."
+
+# ba_chp6:1169
+translate es badAppleChapter6_5c1ab666:
+
+    St "Anon, ¿qué te pasa?"
+
+# ba_chp6:1173
+translate es badAppleChapter6_c843d0af:
+
+    A "¿E-eh? Ay, mierda, ¿estaba murmurando otra vez?"
+
+# ba_chp6:1175
+translate es badAppleChapter6_bc80a43d:
+
+    St "N-no, ¡pero llevas veinte segundos hiperventilando!"
+
+# ba_chp6:1177
+translate es badAppleChapter6_182216c8:
+
+    "Qu- Por Dios, ¿estoy tan paranoico que ni siquiera me oigo por encima de mis pensamientos?"
+
+# ba_chp6:1179
+translate es badAppleChapter6_7e8ca577:
+
+    A "P-perdón… es que… me vio con… no quiero… siento que…"
+
+# ba_chp6:1193
+translate es badAppleChapter6_06ba078f:
+
+    "Antes de que pueda seguir, me interrumpe un borrón verde frente a los ojos, y siento algo cálido que me ataca los labios y me recorre el cuerpo con una vibración dulce por un instante, antes de apartarse"
+
+# ba_chp6:1197
+translate es badAppleChapter6_e683eed9:
+
+    "{i}{cps=*.33}anon.exe ha dejado de funcionar.{/i}{/cps}"
+
+# ba_chp6:1199
+translate es badAppleChapter6_78f79551:
+
+    St "¿Te sientes mejor?"
+
+# ba_chp6:1203
+translate es badAppleChapter6_ed924020:
+
+    A "....S-sí…"
+
+# ba_chp6:1209
+translate es badAppleChapter6_5931ad52:
+
+    "Stella se ríe de mi respuesta autista mientras seguimos bajando hacia el pasillo, preparándonos para la tarea más ardua por la que puede pasar un chico de mi edad."
+
+# ba_chp6:1211
+translate es badAppleChapter6_5fc2eef3:
+
+    "Hablar con los padres de una chica que me gusta…"
+
+# ba_chp6:1213
+translate es badAppleChapter6_2b38bc8e:
+
+    "Bueno… ‘El tiempo no espera a nadie…', pienso mientras nos acercamos a la sala. La conversación entre los padres de Stella se oye cada vez mejor; no es que entienda nada, pero aun así."
+
+# ba_chp6:1237
+translate es badAppleChapter6_aadc7cbe:
+
+    "Stella va adelante cuando entramos a la sala, muy bien decorada, donde la pareja de estegosaurios está sentada en sillas enfrentadas, conversando en un tono bastante serio."
+
+# ba_chp6:1239
+translate es badAppleChapter6_3519ccd0:
+
+    "Pero antes de que pueda fijarme más en lo que hacen, noto que la alfombra blanca andante se levanta del suelo, sonríe y corre hacia Stella y hacia mí."
+
+# ba_chp6:1249
+translate es badAppleChapter6_fc22f15e:
+
+    StDog "AwORoooooOWAWrwawr."
+
+# ba_chp6:1253
+translate es badAppleChapter6_f218870f:
+
+    "Mientras Stella sonríe y acaricia a su fiel compañera canina, veo la sorpresa en las caras de sus padres. No pueden creer que el skinnie haya logrado lo imposible: sacar a su hija de su cuarto."
+
+# ba_chp6:1261
+translate es badAppleChapter6_dc53b6de:
+
+    StDad "Mon Dieu… Stella… ¿tu vas bien?"
+
+# ba_chp6:1265
+translate es badAppleChapter6_8bcc1f27:
+
+    StDad "T-tu madre y yo siempre estamos{nw}"
+
+# ba_chp6:1270
+translate es badAppleChapter6_fac26a27:
+
+    extend " aquí por si quieres- ¡OOF!"
+
+# ba_chp6:1272
+translate es badAppleChapter6_2d8ef41e:
+
+    "Un abrazo corta en seco las palabras del patriarca: Stella se lanza a los brazos de su padre."
+
+# ba_chp6:1274
+translate es badAppleChapter6_678b8e12:
+
+    St "Lo siento, papá…"
+
+# ba_chp6:1276
+translate es badAppleChapter6_ef458c7f:
+
+    St "Je suis désolée d'avoir été si méchante avec vous deux."
+
+# ba_chp6:1278
+translate es badAppleChapter6_21d2f470:
+
+    "La voz ahogada de Stella está llena de emoción y arrepentimiento."
+
+# ba_chp6:1282
+translate es badAppleChapter6_2d0adac7:
+
+    StDad "No, no, no… no tienes absolutamente nada de qué disculparte, querida…"
+
+# ba_chp6:1290
+translate es badAppleChapter6_fc95058b:
+
+    "La madre de Stella se levanta de la silla y se acerca a los dos con una sonrisa."
+
+# ba_chp6:1292
+translate es badAppleChapter6_9b410ad5:
+
+    StMom "Siempre te vamos a querer, Stella… No hay nada que puedas hacer que cambie eso jamás."
+
+# ba_chp6:1297
+translate es badAppleChapter6_fa02fe14:
+
+    "Lo dice con ternura mientras abraza a su esposo y a su hija, y los tres se unen en un abrazo de reconciliación."
+
+# ba_chp6:1299
+translate es badAppleChapter6_558e55ba:
+
+    "De pie en la entrada, solo puedo quedarme inmóvil, mirando con una sonrisa esa muestra de amor frente a mis ojos. Nunca tuve una buena relación con mis padres, salvo cuando hicieron algo más que lo mínimo indispensable."
+
+# ba_chp6:1301
+translate es badAppleChapter6_7f9ba33b:
+
+    "Ni una palabra de cariño, de ánimo o de aprobación. Ninguna llamada a mitad de semana para saber cómo estaba."
+
+# ba_chp6:1303
+translate es badAppleChapter6_08f3f009:
+
+    "Y ninguna visita al hospital a su hijo, que estaba a las puertas de la muerte."
+
+# ba_chp6:1305
+translate es badAppleChapter6_4e85c344:
+
+    "Pero ¿y con Stella?"
+
+# ba_chp6:1309
+translate es badAppleChapter6_84a72607:
+
+    "Todo queda al descubierto ante mis ojos. Están con ella en las buenas y en las malas. Siempre intentan que se sienta segura y protegida cuando se derrumba. Y aun cuando la relación se pone tensa, solo la miran con amor."
+
+# ba_chp6:1311
+translate es badAppleChapter6_c8813412:
+
+    "Los dos quieren a su hija de verdad, sin condiciones."
+
+# ba_chp6:1319
+translate es badAppleChapter6_81c2ddd6:
+
+    "Al final, el abrazo grupal se deshace y el padre de Stella se vuelve hacia mí, sin dejar de sonreír."
+
+# ba_chp6:1321
+translate es badAppleChapter6_a93d5dc8:
+
+    StDad "Merci, Anon… Te agradezco todo lo que hiciste por nuestra hija. Significa mucho para nosotros."
+
+# ba_chp6:1325
+translate es badAppleChapter6_6eb790ec:
+
+    "La voz del estego de mediana edad no tiene nada de la hostilidad que esperaba."
+
+# ba_chp6:1327
+translate es badAppleChapter6_1d432537:
+
+    "¿Me está dando las gracias? ¿No me va a echar de su casa? …Espera, no, esto tiene que ser una actuación. Obviamente no quiere armar una escena delante de su familia. Además, yo solo hablé con ella. Pero también comparto su alegría de ver a Stella sana y salva."
+
+# ba_chp6:1329
+translate es badAppleChapter6_606e16aa:
+
+    A "Claro, señor. Estaba muy preocupado después de lo que pasó el otro día. Solo quería asegurarme de que Stella estuviera bien."
+
+# ba_chp6:1331
+translate es badAppleChapter6_4091d468:
+
+    "Mi respuesta hace que a Stella se le suban un poco los colores mientras se aparta del abrazo de su madre."
+
+# ba_chp6:1339
+translate es badAppleChapter6_96c20205:
+
+    "El patriarca sonríe, da un paso adelante y me acerca una mano al hombro."
+
+# ba_chp6:1343
+translate es badAppleChapter6_2f064b9a:
+
+    "¡Mierda!"
+
+# ba_chp6:1347
+translate es badAppleChapter6_b4914ad9:
+
+    "Me encojo por reflejo, preparándome para que sus garras me atraviesen la piel… hasta que recuerdo que los estegosaurios no tienen garras. Abro los ojos y veo la mano del padre de Stella suspendida sobre mi hombro; mi repentino miedo le pone cara de preocupación."
+
+# ba_chp6:1349
+translate es badAppleChapter6_0ae90f5e:
+
+    StDad "Oh, désolé. No era mi intención."
+
+# ba_chp6:1353
+translate es badAppleChapter6_6b5a45aa:
+
+    A "P-perdón, no es por usted, es que… Han sido un par de semanas difíciles."
+
+# ba_chp6:1355
+translate es badAppleChapter6_c820e66e:
+
+    "Explico lo menos posible. No quiero arruinar el ambiente."
+
+# ba_chp6:1357
+translate es badAppleChapter6_2bd3dab7:
+
+    "La sonrisa vuelve a su cara mientras se acerca a su familia, y la perrita da vueltas alrededor de todos, brincando de emoción."
+
+# ba_chp6:1361
+translate es badAppleChapter6_087b8d86:
+
+    StDad "Está bien, Anon. Eres un joven muy amable, de verdad."
+
+# ba_chp6:1363
+translate es badAppleChapter6_7eed31bd:
+
+    "El Sr. Baudelaire se pone a acariciar a la emocionada Ghibli sin dejar de mirarme, pasándole la mano por las orejas a la feliz samoyedo."
+
+# ba_chp6:1365
+translate es badAppleChapter6_a4c31c55:
+
+    StDad "Estamos por pedir algo de cenar. Nos encantaría que nos acompañaras, si puedes."
+
+# ba_chp6:1367
+translate es badAppleChapter6_e9cca10e:
+
+    "¿Y si quiere envenenarme con la cena? O quizás es un truco elaborado para que baje la guardia y no vea venir su ira."
+
+# ba_chp6:1371
+translate es badAppleChapter6_d41ed93a:
+
+    A "Oh, no quisiera molestarlos. No han sido más que amables conmigo."
+
+# ba_chp6:1373
+translate es badAppleChapter6_d38b2ca6:
+
+    "Intento parecer lo más educado posible."
+
+# ba_chp6:1377
+translate es badAppleChapter6_f1dbf6db:
+
+    StDad "¡Tonterías! Es lo menos que podemos hacer por el hombre que salvó a nuestra hija. ¡Insisto!"
+
+# ba_chp6:1379
+translate es badAppleChapter6_940a3ed9:
+
+    "Bueno… Cuando alguien dice 'insisto', uno no tiene mucho que decir al respecto."
+
+# ba_chp6:1384
+translate es badAppleChapter6_ee131eac:
+
+    "Además, aunque me muera, no pienso dejar pasar la oportunidad de comer algo que no sepa a cartón mohoso…"
+
+# ba_chp6:1389
+translate es badAppleChapter6_0bb2d58f:
+
+    "Las últimas dos horas pasaron bastante bien, considerando que anduve con pies de plomo todo el tiempo. Medí y pensé dos veces cada palabra que salió de mi boca para no terminar en la lista negra de los padres de Stella."
+
+# ba_chp6:1391
+translate es badAppleChapter6_ea18ff72:
+
+    "Pero con cada paso cuidadoso que daba, veía cada vez más lo inútil que era, y no porque tarde o temprano fueran a hacerme pedazos o a colgar mi cabeza en su pared."
+
+# ba_chp6:1410
+translate es badAppleChapter6_b9fe974e:
+
+    "Pero, por lo que se veía, sus padres parecían buena gente de verdad, que solo quería conocer al chico que 'salvó' a su hija."
+
+# ba_chp6:1421
+translate es badAppleChapter6_1a6ba3ad:
+
+    "No paraban de preguntarme cómo me sentía. ¿Todavía me dolían la pierna o el cuello?"
+
+# ba_chp6:1423
+translate es badAppleChapter6_a9cacd50:
+
+    "O si me parecía bien la comida china que estaban pidiendo."
+
+# ba_chp6:1433
+translate es badAppleChapter6_9d494a02:
+
+    "No quería que nadie más se preocupara por mí, así que les mentí para tranquilizarlos. Pero su padre no parecía convencido con ninguna de mis respuestas, salvo con mis ganas de comer lo que pedimos."
+
+# ba_chp6:1435
+translate es badAppleChapter6_da8a1887:
+
+    "Porque todo el mundo sabe que cuanto más anticuadas y feas son las fotos y el menú, mejor es la comida."
+
+# ba_chp6:1437
+translate es badAppleChapter6_a0e5ee6d:
+
+    "Y, gracias a Dios, también resultó ser cierto."
+
+# ba_chp6:1439
+translate es badAppleChapter6_beb9cb33:
+
+    "Mientras esperábamos la comida, empezaron a preguntarme por mi vida, qué estoy haciendo ahora y qué planes tengo ahora que terminé el instituto."
+
+# ba_chp6:1449
+translate es badAppleChapter6_ae65d744:
+
+    "No es un tema del que quiera hablar, porque no me imagino qué pensarían de mí si supieran que básicamente soy un parásito que vive de la ayuda del gobierno y se pudre en un apartamento de mierda lleno de cucarachas."
+
+# ba_chp6:1459
+translate es badAppleChapter6_775250af:
+
+    "Stella notó que dudaba en contestar y me lanzó una mirada de ánimo que me decía sin palabras: 'Tranquilo, mis padres no te van a juzgar'."
+
+# ba_chp6:1469
+translate es badAppleChapter6_a2961fa0:
+
+    "Les conté prácticamente todo, igual que a Stella. No quería pasarme de la raya, pero ella tenía razón: me dieron palabras de consuelo. Parecían entender por lo que pasaba, sobre todo porque ese día casi me matan."
+
+# ba_chp6:1471
+translate es badAppleChapter6_ea65f72b:
+
+    "Aunque, por otro lado, supongo que tiene sentido que me entiendan, ya que su hija parece estar más o menos en el mismo barco."
+
+# ba_chp6:1481
+translate es badAppleChapter6_0d12b543:
+
+    StDad "Mi maman me decía esto cuando era niño: 'après la pluie, le beau temps'. Después de la tormenta, siempre sale el sol."
+
+# ba_chp6:1489
+translate es badAppleChapter6_a3faafdd:
+
+    "Aunque me costaba estar de acuerdo, sus palabras me dieron un extraño consuelo. ¿Sería posible que el sol volviera a brillar después del más tormentoso de los días, encontrar luz en la oscuridad, incluso para alguien como yo?"
+
+# ba_chp6:1496
+translate es badAppleChapter6_f023767d:
+
+    "Mientras seguíamos hablando de mi vida y mi situación, cada vez me costaba más concentrarme: la fiel perrita de los Baudelaire intentaba llamar mi atención, empujándome con el hocico y dándome con la pata."
+
+# ba_chp6:1505
+translate es badAppleChapter6_73837321:
+
+    "Digamos que funcionó. O sea, ¿cómo no vas a dejarlo todo para acariciar a una perrita tan linda como Ghibli?"
+
+# ba_chp6:1509
+translate es badAppleChapter6_c695120e:
+
+    St "¡Vaya, parece que de verdad le caes bien a Ghibli, Anon!"
+
+# ba_chp6:1511
+translate es badAppleChapter6_a031f406:
+
+    "Exclamó Stella al ver que su perrita me bombardeaba de cariño."
+
+# ba_chp6:1513
+translate es badAppleChapter6_44c7f90e:
+
+    StMom "Jibb-lee suele ser bastante tímida con los desconocidos."
+
+# ba_chp6:1515
+translate es badAppleChapter6_480a9418:
+
+    StMom "Debe de haber algo en ti que le gus-{nw}"
+
+# ba_chp6:1517
+translate es badAppleChapter6_204bde1a:
+
+    "{b}DING-DONG{/b}" with hpunch
+
+# ba_chp6:1529
+translate es badAppleChapter6_eac70f29:
+
+    StDog "¡¡WOOF WOOF WOOF!!"
+
+# ba_chp6:1531
+translate es badAppleChapter6_f16506dc:
+
+    "Ghibli salió disparada hacia el pasillo como loca, y yo pegué un salto del susto."
+
+# ba_chp6:1538
+translate es badAppleChapter6_330a2e57:
+
+    StMom "¡Llegó la cena!"
+
+# ba_chp6:1540
+translate es badAppleChapter6_18c31ecd:
+
+    StMom "¡Jibb-lee! ¡Calmez-vous!"
+
+# ba_chp6:1544
+translate es badAppleChapter6_9f7d6bff:
+
+    "Cuando llegó la comida, sacamos platos de su impresionante cocina, con una cafetera bastante sofisticada y uno de esos refrigeradores Stegsung que parecen más avanzados que mi PC. Era fácil distraerse buscando los platos."
+
+# ba_chp6:1561
+translate es badAppleChapter6_790c217a:
+
+    "Sus padres tuvieron la generosidad de pedirme pollo agridulce para no herbívoros, que devoré tan rápido que, a mi lado, un moderador de Reddit parecería anoréxico."
+
+# ba_chp6:1567
+translate es badAppleChapter6_4f168388:
+
+    "Los padres de Stella se mostraron algo preocupados por mi entusiasmo y me preguntaron si estaba 'comiendo lo suficiente en casa'."
+
+# ba_chp6:1571
+translate es badAppleChapter6_d80fbdf8:
+
+    "Estaban siendo casi demasiado amables…"
+
+# ba_chp6:1575
+translate es badAppleChapter6_f2a7a477:
+
+    "Pero intenté sacudirme esa sensación y concentrarme en la felicidad que hoy empecé a sentir por primera vez en mucho tiempo."
+
+# ba_chp6:1579
+translate es badAppleChapter6_9b0d5d9f:
+
+    "Ya sentados, seguimos la conversación de antes sobre mi situación, y quise aprovechar para que nos conociéramos mejor, así que les hice preguntas generales: a qué se dedicaban, cuáles eran sus pasatiempos, etc."
+
+# ba_chp6:1581
+translate es badAppleChapter6_e63570e3:
+
+    "La madre de Stella nos contó que es presentadora de DNN News aquí en la ciudad. A pesar de lo que pienso de ese medio tan dudoso, igual sentí que le quedaba bien, por lo cálida y amable que había sido conmigo hasta entonces."
+
+# ba_chp6:1585
+translate es badAppleChapter6_6edd361b:
+
+    "Y resulta que el padre de Stella es ingeniero de sonido y trabaja para varios músicos, estudios, medios e incluso algunos sets de televisión o de cine."
+
+# ba_chp6:1587
+translate es badAppleChapter6_9407dd1f:
+
+    "Además, hace poco trabajó con su esposa en DNN. Pero nos explicó que ahora suele trabajar desde casa, porque tomó una licencia indefinida en DNN para que su hija siempre tenga a otra persona en casa con ella, como recomendó su terapeuta."
+
+# ba_chp6:1591
+translate es badAppleChapter6_24459c08:
+
+    "Cuando empezó a oscurecer, el padre de Stella me preguntó si necesitaba que me llevara a casa. Una parte de mí teme que sea una trampa para quedarse a solas conmigo y reventarme los sesos con un palo de golf o algo así cuando nadie esté mirando."
+
+# ba_chp6:1593
+translate es badAppleChapter6_1d6bbb56:
+
+    "Pero, al mismo tiempo, no tengo por qué gastar más dinero en otro taxi. Dudo que el taxista vuelva a ser tan generoso como hoy, así que sería un retrasado si rechazara semejante oferta."
+
+# ba_chp6:1595
+translate es badAppleChapter6_bbee30ee:
+
+    "Antes de irnos, me preguntó si quería ver el estudio que tiene en casa. Con lo avanzada que es su cocina, ni me imagino lo excéntrico que será su estudio, así que acepté."
+
+# ba_chp6:1604
+translate es badAppleChapter6_77b15f3d:
+
+    "Además, hace un tiempo empecé a experimentar con algunos programas de edición de audio, antes de… Bueno, antes de que pasara todo… Ahora están ahí, pudriéndose en el desastre de mierda que es el escritorio de mi PC."
+
+# ba_chp6:1614
+translate es badAppleChapter6_89c06699:
+
+    StDad "Entonces, muchacho, dijiste que sabías algo de ingeniería de sonido, ¿verdad?"
+
+# ba_chp6:1616
+translate es badAppleChapter6_74285115:
+
+    A "S-sí, señor."
+
+# ba_chp6:1618
+translate es badAppleChapter6_7ee9b426:
+
+    A "Quise aprender más sobre eso después de que F-{nw}"
+
+# ba_chp6:1623
+translate es badAppleChapter6_d2498b09:
+
+    "Casi me trabo con mis propias palabras al darme cuenta de que estoy a punto de decir el nombre de la persona que casi mató a su hija."
+
+# ba_chp6:1627
+translate es badAppleChapter6_85c11003:
+
+    A "Una amiga me metió en la música, y después estuve un tiempo jugando con algunos programas de edición."
+
+# ba_chp6:1631
+translate es badAppleChapter6_517702af:
+
+    StDad "¡Ah, magnifique, Anon! Todos tenemos que empezar por algún lado, ¿no?"
+
+# ba_chp6:1633
+translate es badAppleChapter6_5776e1e8:
+
+    StDad "¿Y has seguido practicando desde que tu amiga te enseñó?"
+
+# ba_chp6:1637
+translate es badAppleChapter6_b1e56a17:
+
+    "Es otro recordatorio doloroso de Fang, de cómo podrían haber sido las cosas con ella… de lo que pude haber hecho mejor."
+
+# ba_chp6:1641
+translate es badAppleChapter6_71110d63:
+
+    A "Por desgracia, no lo he vuelto a retomar… Después de todo lo que pasó, me cuesta concentrarme en las cosas que me hacen feliz."
+
+# ba_chp6:1645
+translate es badAppleChapter6_e4f26bb8:
+
+    StDad "Oui… eso le pasa a cualquiera."
+
+# ba_chp6:1647
+translate es badAppleChapter6_d0169e8f:
+
+    "Pasan un par de segundos de silencio incómodo mientras llego a la puerta que baja al sótano, que por alguna razón está al otro lado de la casa. ¿Cómo arreglo esto? No quiero cagarla."
+
+# ba_chp6:1651
+translate es badAppleChapter6_6fb8f978:
+
+    A "P-pero tengo pensado retomarlo pronto."
+
+# ba_chp6:1653
+translate es badAppleChapter6_66122c4d:
+
+    "Al Sr. Baudelaire se le dibuja una expresión de satisfacción ante mi verdad a medias."
+
+# ba_chp6:1657
+translate es badAppleChapter6_35c1987c:
+
+    StDad "¡Oh, maravilloso! ¡Me alegra oír eso! ¡La ingeniería de audio es una profesión excelente!"
+
+# ba_chp6:1663
+translate es badAppleChapter6_c0899694:
+
+    "Lo dice mientras bajamos la escalera, antes de detenerse frente a un interruptor."
+
+# ba_chp6:1665
+translate es badAppleChapter6_13ac426e:
+
+    StDad "¡Sin mencionar que puedes jugar con unos juguetes bastante buenos!"
+
+# ba_chp6:1667
+translate es badAppleChapter6_a4f59129:
+
+    "Pasa el dedo por el interruptor e ilumina la habitación con una luz suave, que deja ver unos paneles con unas líneas raras colgados en la pared junto a…"
+
+# ba_chp6:1682
+translate es badAppleChapter6_fb224dcb:
+
+    "Carajo…"
+
+# ba_chp6:1686
+translate es badAppleChapter6_735b23ea:
+
+    "Mis ojos están completamente maravillados ante el espectáculo que tengo delante."
+
+# ba_chp6:1688
+translate es badAppleChapter6_88f7c4d5:
+
+    "Una trinidad de monitores grandes junto a una tableta bastante elegante, rodeados de altavoces lo bastante grandes como para dejar sordo a cualquiera."
+
+# ba_chp6:1690
+translate es badAppleChapter6_f681c168:
+
+    "Las pantallas están debajo de un montón de interfaces de audio y consolas de control que mi limitado conocimiento de toda esa mierda del audio no alcanza a entender."
+
+# ba_chp6:1692
+translate es badAppleChapter6_c62e28fb:
+
+    "Todo su equipo está sobre un escritorio de roble de aspecto impecable… Todo su equipo parece valer lo mismo que un carro nuevo."
+
+# ba_chp6:1696
+translate es badAppleChapter6_b0e74471:
+
+    "…Muuuuuy bieeeen, quizás de verdad debería retomar la ingeniería de audio. Además, un equipo así sería genial para jugar vidya."
+
+# ba_chp6:1700
+translate es badAppleChapter6_4d210b73:
+
+    StDad "¡Ja! Stella dijo lo mismo."
+
+# ba_chp6:1702
+translate es badAppleChapter6_1183a95a:
+
+    StDad "Me lo imagino, jajaja, aunque hace mucho que no juego con ella a uno de esos… juegos de vid-ya."
+
+# ba_chp6:1706
+translate es badAppleChapter6_665b7974:
+
+    "Algún día tengo que instruirlo en las alegrías y maravillas de la vidya de PC. Pero ahora tengo que concentrarme en no cagarme en los pantalones, porque SIGO a solas con el papá de Stella, el papá de una chica a la que besé."
+
+# ba_chp6:1708
+translate es badAppleChapter6_50eab274:
+
+    A "¡Qué genial!"
+
+# ba_chp6:1712
+translate es badAppleChapter6_ce617998_1:
+
+    "…"
+
+# ba_chp6:1716
+translate es badAppleChapter6_6d6c1149:
+
+    "¿En serio, Anon? ¿'Qué genial'? ¿Eso es lo mejor que se te ocurre?"
+
+# ba_chp6:1720
+translate es badAppleChapter6_95ba7ad8:
+
+    StDad "¡Ahh, merci! ¡Es muy agradable poder trabajar con un equipo como este!"
+
+# ba_chp6:1724
+translate es badAppleChapter6_1d43b807:
+
+    StDad "Pero debería preguntarte esto antes de irnos. ¿Dónde me dijiste que vivías?"
+
+# ba_chp6:1728
+translate es badAppleChapter6_4eff398d:
+
+    "Quizás, si se entera, me libro de que cuelguen mi cabeza en la pared."
+
+# ba_chp6:1730
+translate es badAppleChapter6_74ab71c6:
+
+    "Gracias, Jesús Raptor."
+
+# ba_chp6:1732
+translate es badAppleChapter6_7b228d4f:
+
+    A "O-oh. Vivo en Skin Row, señor."
+
+# ba_chp6:1734
+translate es badAppleChapter6_cf31482d:
+
+    "Se pone serio y abre mucho los ojos."
+
+# ba_chp6:1738
+translate es badAppleChapter6_13299b14:
+
+    StDad "Oh…"
+
+# ba_chp6:1740
+translate es badAppleChapter6_b6e4c570:
+
+    "Hace una pausa, suelta un suspiro y sonríe con compasión."
+
+# ba_chp6:1744
+translate es badAppleChapter6_68bb4166:
+
+    StDad "Está bien. Igual tenemos que llevarte a casa sano y salvo de una forma u otra, ¿oui?"
+
+# ba_chp6:1746
+translate es badAppleChapter6_4724b2d7:
+
+    "Mierda…"
+
+# ba_chp6:1750
+translate es badAppleChapter6_2089c1f6:
+
+    A "¡Gracias, señor!"
+
+# ba_chp6:1752
+translate es badAppleChapter6_e4ea3b6f:
+
+    StDad "¡No es ninguna molestia, Anon! Ven, vamos a despedirnos."
+
+# ba_chp6:1756
+translate es badAppleChapter6_8fa3b380:
+
+    "Está siendo demasiado amable conmigo… Está esperando a que salgamos de su propiedad para actuar. No soy tan estúpido. Me doy cuenta de lo que está pasando aquí."
+
+# ba_chp6:1762
+translate es badAppleChapter6_c91d8955:
+
+    "Subimos los dos la escalera; el Sr. Baudelaire me deja ir primero gracias a mi privilegio de lisiado. Igual que antes, subir la escalera es como jugar a la rayuela en su versión más peligrosa del mundo, pero caerme es lo que menos me preocupa ahora."
+
+# ba_chp6:1786
+translate es badAppleChapter6_f3ce792f:
+
+    "Cuando llegamos arriba y entramos en la parte principal de la casa, nos recibe el resto de la familia Baudelaire."
+
+# ba_chp6:1788
+translate es badAppleChapter6_baffee01:
+
+    StMom "Antes de que te vayas a casa, Anon, Stella quiere decirte algo."
+
+# ba_chp6:1790
+translate es badAppleChapter6_edc5d3b3:
+
+    "La Sra. Baudelaire señala a su hija, que se pone a juguetear nerviosa con los dedos, con la vista clavada en el suelo."
+
+# ba_chp6:1792
+translate es badAppleChapter6_82ed5192:
+
+    St "G-gracias, Anon… No solo por venir a ver cómo estaba, sino por hablar conmigo, escucharme y pasar tiempo conmigo…"
+
+# ba_chp6:1796
+translate es badAppleChapter6_001b0c1a:
+
+    St "Por primera vez en mucho tiempo, no tengo tanto miedo, y… no me siento tan sola…"
+
+# ba_chp6:1800
+translate es badAppleChapter6_8eeffd0b:
+
+    "Las palabras salen de su boca, pero esto es exactamente lo que yo debería decirle a ella. No puedo evitar sonreír."
+
+# ba_chp6:1805
+translate es badAppleChapter6_1a150f78:
+
+    St "Gracias, Anon… por todo."
+
+# ba_chp6:1816
+translate es badAppleChapter6_e0a9c69c:
+
+    "Sin decir nada más, Stella da un paso adelante y me envuelve en un abrazo cálido. Le devuelvo el gesto: apoyo una muleta contra la pared y la abrazo con el brazo libre."
+
+# ba_chp6:1818
+translate es badAppleChapter6_b3a78f50:
+
+    A "Me quitaste las palabras de la boca, Stella. Soy yo el que debería darte las gracias…"
+
+# ba_chp6:1820
+translate es badAppleChapter6_4cfbbf08:
+
+    "Me abraza más fuerte; mis palabras parecen haberla emocionado."
+
+# ba_chp6:1822
+translate es badAppleChapter6_09e3e421:
+
+    "A su lado me siento seguro de verdad. Un estado de euforia en el que siento que no tengo nada que temer y que nada más importa, solo nosotros…"
+
+# ba_chp6:1831
+translate es badAppleChapter6_14054286:
+
+    StDog "¡WowrAOwAowAow!"
+
+# ba_chp6:1833
+translate es badAppleChapter6_3438d56b:
+
+    "Gracias por arruinar el momento, Ghibli."
+
+# ba_chp6:1835
+translate es badAppleChapter6_159546c9:
+
+    "Al final, la euforia se acaba cuando Stella se aparta, riéndose de la audición de su perrita para Volcaldera's Got Talent."
+
+# ba_chp6:1843
+translate es badAppleChapter6_def0f555:
+
+    St "Gracias por venir, Anon. ¡Espero que nos veamos pronto!"
+
+# ba_chp6:1845
+translate es badAppleChapter6_3422e125:
+
+    "Me encantaría."
+
+# ba_chp6:1847
+translate es badAppleChapter6_08ff8f52:
+
+    "Le respondo mientras recojo la otra muleta y me alejo de la puerta. No quiero otro accidente con la pierna."
+
+# ba_chp6:1849
+translate es badAppleChapter6_8c06d90a:
+
+    StDad "Bueno, queridas, voy a llevar a Anon a su casa. ¡Vuelvo pronto! Mándenme un mensaje si alguna necesita algo mientras no estoy."
+
+# ba_chp6:1851
+translate es badAppleChapter6_e71d8cf7:
+
+    "El Sr. Baudelaire se despide de su familia mientras se acomoda la chaqueta y se dirige a la puerta principal."
+
+# ba_chp6:1853
+translate es badAppleChapter6_1905785c:
+
+    "Cierto… Se me olvidó."
+
+# ba_chp6:1855
+translate es badAppleChapter6_58009a50:
+
+    "Él me va a llevar a casa."
+
+# ba_chp6:1876
+translate es badAppleChapter6_bd05f1cb:
+
+    "Pasan veinte minutos con el Sr. Baudelaire, pero con tanta tensión parecen tres horas."
+
+# ba_chp6:1878
+translate es badAppleChapter6_f5d05903:
+
+    "Hasta ahora el viaje ha sido bastante silencioso, salvo por un poco de charla trivial: preguntas típicas como '¿algún plan para cuando llegues a casa?' o comentarios sobre los edificios o los letreros."
+
+# ba_chp6:1880
+translate es badAppleChapter6_bd15b704:
+
+    "Jesús Raptor, ayúdame. Siento que estoy caminando por la cuerda floja."
+
+# ba_chp6:1882
+translate es badAppleChapter6_1865ed16:
+
+    "Mientras recorremos las calles de Volcaldera Bluffs al atardecer, intento concentrarme en lo que tengo delante, pero el miedo me distrae demasiado como para fijarme en nada."
+
+# ba_chp6:1884
+translate es badAppleChapter6_6c14f19f:
+
+    "¿Qué se trae entre manos? ¿Por qué ha sido tan amable conmigo? ¿Y por qué de repente se quedó callado?"
+
+# ba_chp6:1886
+translate es badAppleChapter6_51c62f3b:
+
+    "Esperar mi muerte inminente me manda escalofríos por todo el cuerpo-"
+
+# ba_chp6:1888
+translate es badAppleChapter6_8e320f65:
+
+    "Espera…"
+
+# ba_chp6:1890
+translate es badAppleChapter6_76af7ff4:
+
+    "¿Tengo… tengo miedo de morir?"
+
+# ba_chp6:1892
+translate es badAppleChapter6_81062df1:
+
+    "Durante meses deseé la muerte, pero no tuve los huevos para acabar con todo. Y hace cuatro días, cuando Trish nos atacó a Stella y a mí en el centro comercial, casi me muero, y no tuve miedo."
+
+# ba_chp6:1894
+translate es badAppleChapter6_309227e0:
+
+    "En ese momento, cuando Trish empezó a estrangularme hasta sacarme la vida, no encontré fuerzas para defenderme, ni quise hacerlo. Estaba… listo para morir."
+
+# ba_chp6:1896
+translate es badAppleChapter6_cabe0413:
+
+    "Pero, al mismo tiempo, con todo lo que pasó estas últimas semanas, sobre todo hoy, encontré una parte de mí que creía que ya no existía. Un pedazo de mí que daba por muerto hace mucho, y lo mucho que intenté enterrar lo poco que quedaba de él."
+
+# ba_chp6:1898
+translate es badAppleChapter6_4a6ff7d2:
+
+    "Me dan ganas de vivir, de seguir adelante a pesar de toda la mierda por la que pasé y por la que sigo pasando. Y quizás, si Stella, y hasta Rosa, pudieron ver lo bueno que haya en mí, entonces tal vez…"
+
+# ba_chp6:1900
+translate es badAppleChapter6_7f9fa305:
+
+    "Tal vez debería seguir adelante. Si tengo amigos a los que de verdad les importo, quizás yo pueda intentar hacer lo mismo…"
+
+# ba_chp6:1902
+translate es badAppleChapter6_ef6a3ffc:
+
+    StDad "¿Anon?"
+
+# ba_chp6:1906
+translate es badAppleChapter6_4c5957a0:
+
+    "¡AYJESÚSPUTAMIERDA!"
+
+# ba_chp6:1912
+translate es badAppleChapter6_c22c7be1:
+
+    A "Eeeh… ¿sí, señor?"
+
+# ba_chp6:1914
+translate es badAppleChapter6_67b01ff2:
+
+    "Lo digo con un hilo de voz, que se me quiebra como si volviera a entrar en la pubertad."
+
+# ba_chp6:1920
+translate es badAppleChapter6_0fe6b902:
+
+    StDad "¿Todo bien? Parecía que estabas murmurando algo."
+
+# ba_chp6:1922
+translate es badAppleChapter6_28a618ef:
+
+    "El estego me lo pregunta con algo de preocupación, mirándome de reojo un momento mientras intenta no perder de vista el camino."
+
+# ba_chp6:1924
+translate es badAppleChapter6_d0813ead:
+
+    "Mierda… ¿cuánto habrá oído? Tranquilo, Anon, disimula."
+
+# ba_chp6:1928
+translate es badAppleChapter6_522d0207:
+
+    A "P-perdón, tengo la mala costumbre de hacer eso cuando estoy… nervioso…"
+
+# ba_chp6:1930
+translate es badAppleChapter6_c02b48aa:
+
+    "Me tiembla la voz cuando la última palabra sale de mis labios."
+
+# ba_chp6:1932
+translate es badAppleChapter6_5ef6dfdc:
+
+    StDad "Me di cuenta. Tenía el presentimiento de que algo andaba mal."
+
+# ba_chp6:1934
+translate es badAppleChapter6_f42b656a:
+
+    "Eeeh… mierda, ya me descubrió."
+
+# ba_chp6:1936
+translate es badAppleChapter6_18b52a7d:
+
+    A "¿A-a qué se refiere, señor?"
+
+# ba_chp6:1938
+translate es badAppleChapter6_57c87b37:
+
+    "El Sr. Baudelaire suelta un suspiro mientras pone la señal de giro con la mano izquierda, y el carro dobla a la derecha."
+
+# ba_chp6:1940
+translate es badAppleChapter6_9325b2d3:
+
+    StDad "Permíteme ser sincero: me doy cuenta de que estás nervioso con mi esposa y conmigo, pero quiero asegurarte de que no tienes nada de qué preocuparte."
+
+# ba_chp6:1942
+translate es badAppleChapter6_ae728f80:
+
+    "El Sr. Baudelaire me lo explica sin una pizca de malicia ni agresividad en la voz."
+
+# ba_chp6:1946
+translate es badAppleChapter6_6f9ab57d:
+
+    StDad "Escucha, hijo, sé que te gusta mi hija, y se nota a leguas que tú también le gustas a Stella."
+
+# ba_chp6:1948
+translate es badAppleChapter6_261cddb0:
+
+    "Esto… no está saliendo como esperaba."
+
+# ba_chp6:1950
+translate es badAppleChapter6_f70962fc:
+
+    A "¿S-se nota?"
+
+# ba_chp6:1952
+translate es badAppleChapter6_09bf4786:
+
+    StDad " ¡Ja! ¡Claro! Cuando mi hija se reencontró contigo hace dos semanas, estaba más feliz de lo que la había visto en mucho tiempo. Stella te tiene mucho cariño, Anon."
+
+# ba_chp6:1954
+translate es badAppleChapter6_b21e5ce4:
+
+    "El estego me mira a los ojos mientras esperamos a que el semáforo se ponga en verde."
+
+# ba_chp6:1956
+translate es badAppleChapter6_6c8a8dce:
+
+    StDad "Y, de hombre a hombre, entiendo lo aterrador que es conocer a los padres de la chica que te gusta, sobre todo a le père. ¿La primera vez que conocí a los padres de mi esposa?"
+
+# ba_chp6:1958
+translate es badAppleChapter6_02950a58:
+
+    "Se ríe por lo bajo y niega con la cabeza, mientras yo sigo sentado en mi asiento sin saber qué carajo pensar de todo esto."
+
+# ba_chp6:1962
+translate es badAppleChapter6_38037858:
+
+    A "Entonces… ¿no está enojado conmigo?"
+
+# ba_chp6:1964
+translate es badAppleChapter6_3cd39f66:
+
+    "Mi pregunta le pone una cara de auténtica confusión."
+
+# ba_chp6:1968
+translate es badAppleChapter6_44178357:
+
+    StDad "¿Quoi? ¡No, querido muchacho! ¿Por qué iba a estar molesto contigo? No hiciste nada malo."
+
+# ba_chp6:1972
+translate es badAppleChapter6_2573a84d:
+
+    "Pero… ¿¿no se supone que debería querer partirme la cara, sobre todo porque me encontró en la cama con su hija?? Hasta está siendo… ¿comprensivo?"
+
+# ba_chp6:1976
+translate es badAppleChapter6_aa00a320:
+
+    StDad "Si esto es por lo de antes… ustedes dos no… ¿ya sabes?"
+
+# ba_chp6:1980
+translate es badAppleChapter6_2eb2beaa:
+
+    "Ay, por Dios santo."
+
+# ba_chp6:1982
+translate es badAppleChapter6_b0bc91ba:
+
+    "Se me pone la cara roja de vergüenza con la pregunta del Sr. Baudelaire."
+
+# ba_chp6:1984
+translate es badAppleChapter6_a7114d7b:
+
+    A "¡¿QUÉ?! ¡No, no, no, no, no, no pasó nada de eso, señor, se lo prometo!"
+
+# ba_chp6:1986
+translate es badAppleChapter6_388d92e0:
+
+    "Mi arrebato de miedo y vergüenza hace reír con ganas al estego."
+
+# ba_chp6:1990
+translate es badAppleChapter6_df840aac:
+
+    StDad "¡Tranquilo, querido muchacho, no estás en problemas! Pero sí es un alivio oír eso."
+
+# ba_chp6:1992
+translate es badAppleChapter6_c39f9b49:
+
+    "Me quedo sin palabras. Analicé todos los escenarios posibles. Estaba seguro de que iba a querer verme colgado por estar en la cama con su hija, o simplemente por estar con su hija, punto."
+
+# ba_chp6:1994
+translate es badAppleChapter6_69d974cf:
+
+    "Todas esas películas y series de mierda siempre mostraban al papá intentando intimidar al novio de su hija."
+
+# ba_chp6:1996
+translate es badAppleChapter6_8b3fa27d:
+
+    "Sin mencionar que ya lo viví en carne propia…"
+
+# ba_chp6:1998
+translate es badAppleChapter6_79f4b037:
+
+    FD "{i}La próxima vez que te encuentre a solas con mi hija, voy a usar tu cabeza como cubo de Rubik.{/i}"
+
+# ba_chp6:2000
+translate es badAppleChapter6_8e579e26:
+
+    "Las palabras amenazantes del papá de Fang vuelven a resonar en mi cabeza."
+
+# ba_chp6:2002
+translate es badAppleChapter6_d52168f0:
+
+    "Pero ¿de verdad está siendo amable conmigo? No sé ni qué decir…"
+
+# ba_chp6:2004
+translate es badAppleChapter6_7bef7859:
+
+    StDad "Escucha, Anon, esta noche vi a Stella más feliz que nunca desde el tiroteo. ¿Verla no solo salir de su cuarto por más de unas horas, sino también sonreír en la cena? Eso lo hiciste posible tú."
+
+# ba_chp6:2006
+translate es badAppleChapter6_776281be:
+
+    "Yo… ¿hice todo eso? Pero si solo la he visto un puñado de veces desde que nos reencontramos, sin contar los mensajes que nos mandamos… ¿De verdad ayudé a Stella a salir de su caparazón?"
+
+# ba_chp6:2010
+translate es badAppleChapter6_efc97212:
+
+    A "¿En serio? ¿Todo eso por mí?…"
+
+# ba_chp6:2012
+translate es badAppleChapter6_46156f4c:
+
+    StDad "¡Claro! Se nota que eres buena persona, y mi esposa también lo nota, y hasta nuestro chien. Y los perros tienen fama de saber distinguirlo."
+
+# ba_chp6:2014
+translate es badAppleChapter6_fc7097ba:
+
+    A "G-gracias, señor Baudelaire. Me alegra oír eso."
+
+# ba_chp6:2016
+translate es badAppleChapter6_1592e10a:
+
+    "Le doy las gracias, todavía desconcertado por su amabilidad."
+
+# ba_chp6:2020
+translate es badAppleChapter6_a694ba81:
+
+    StDad "Jajaja, por favor, llámame Monty, no hacen falta formalidades."
+
+# ba_chp6:2024
+translate es badAppleChapter6_fed5cdb2:
+
+    StDad "Lo único que te pido es que seas amable y paciente con ella, y ya veo que eso no debería ser un problema."
+
+# ba_chp6:2026
+translate es badAppleChapter6_afadd9c5:
+
+    A "Lo seré, señor B- Monty… Se lo prometo."
+
+# ba_chp6:2028
+translate es badAppleChapter6_a7f9bd62:
+
+    "No voy a volver a cometer los mismos errores con Stella. No quiero que vuelva a sentirse sola, menospreciada ni abandonada. Desde que ella y Rosa volvieron a mi vida, de verdad quiero ser mejor persona."
+
+# ba_chp6:2030
+translate es badAppleChapter6_deebe341:
+
+    "Aunque no pueda hacer nada para cambiar al pedazo de mierda solitario y apático que fui, lo mínimo que puedo hacer es intentar que la gente que me importa nunca pase por eso."
+
+# ba_chp6:2032
+translate es badAppleChapter6_2d99a864:
+
+    "El carro se detiene por completo y el zumbido mecánico del motor se apaga. Jesús Raptor, ¿de verdad me pierdo tan fácil en mis pensamientos?"
+
+# ba_chp6:2034
+translate es badAppleChapter6_391c6580:
+
+    StDad "¡Muy bien, ya llegamos!"
+
+# ba_chp6:2036
+translate es badAppleChapter6_72c5820d:
+
+    "Monty empieza a mirar a su alrededor: acaba de entrar en la jungla de los barrios bajos."
+
+# ba_chp6:2038
+translate es badAppleChapter6_fa76fb47:
+
+    A "Muchas gracias por todo, Monty. De verdad se lo agradezco."
+
+# ba_chp6:2040
+translate es badAppleChapter6_7baa4443:
+
+    "Se lo digo mientras abro la puerta del carro y saco la pierna derecha."
+
+# ba_chp6:2042
+translate es badAppleChapter6_327b6535:
+
+    StDad "No es nada. ¡El agradecido soy yo!"
+
+# ba_chp6:2044
+translate es badAppleChapter6_77eee742:
+
+    "Sonríe y me extiende la mano."
+
+# ba_chp6:2046
+translate es badAppleChapter6_7819522e:
+
+    "¿Quiere… darme la mano?"
+
+# ba_chp6:2048
+translate es badAppleChapter6_e5fe4bf6:
+
+    "Le hago caso, aunque su gesto de respeto me descoloca: extiendo la mano hacia la suya y nos damos un apretón firme."
+
+# ba_chp6:2050
+translate es badAppleChapter6_7119da00:
+
+    StDad "Si alguna vez necesitas ayuda, un consejo o lo que sea, ¡no dudes en llamarme!"
+
+# ba_chp6:2052
+translate es badAppleChapter6_63c008b5:
+
+    "Monty mete la mano en el bolsillo, saca una pequeña tarjeta de papel verde claro y me la ofrece."
+
+# ba_chp6:2054
+translate es badAppleChapter6_092fc598:
+
+    "¿Su tarjeta de presentación?"
+
+# ba_chp6:2056
+translate es badAppleChapter6_0b81d5ab:
+
+    "{b}Montel Baudelaire.{/b}\n\n {i}Ingeniero de sonido / Técnico de audio.{/i}"
+
+# ba_chp6:2058
+translate es badAppleChapter6_5127f9a9:
+
+    "Y abajo, la tarjeta tiene toda la información importante para contactarlo: su número de teléfono, su correo electrónico y hasta su MissingLinkedIn."
+
+# ba_chp6:2060
+translate es badAppleChapter6_476f1648:
+
+    A "Gracias otra vez, Monty. ¡Que tenga buena noche!"
+
+# ba_chp6:2062
+translate es badAppleChapter6_aa33e104:
+
+    "Sonrío mientras salgo torpemente del carro, apoyando todo el peso en el pie derecho."
+
+# ba_chp6:2066
+translate es badAppleChapter6_55499ac8:
+
+    StDad "¡Au revoir, Anon! ¡Fue un placer conocerte!"
+
+# ba_chp6:2075
+translate es badAppleChapter6_cb492777:
+
+    "Cierro la puerta y le devuelvo el saludo mientras se aleja del complejo de apartamentos… bastante rápido…"
+
+# ba_chp6:2077
+translate es badAppleChapter6_b4829d62:
+
+    "Bah, no lo culpo. Si no viviera en este agujero de mierda, yo habría hecho lo mismo…"
+
+# ba_chp6:2079
+translate es badAppleChapter6_472ca718:
+
+    "Cuando su carro desaparece de mi vista, solo entonces mi cerebro asimila del todo lo que pasó hoy… Y aunque el instinto me dice que entre, solo puedo quedarme parado en la acera mientras empiezo a procesar todo lo que pasó hoy…"
+
+# ba_chp6:2081
+translate es badAppleChapter6_2e721a2e:
+
+    "Ahora sí que quiero dormir, para variar."
+
+# ba_chp6:2092
+translate es badAppleChapter6_56cda4f2:
+
+    "Pasó más o menos una hora desde que el Sr. Baudelaire, o Monty (me va a costar acostumbrarme), me dejó en casa. Al entrar al apartamento me fui casi directo a la cama: ¡ni siquiera me quité la ropa, ni tampoco la férula de la pierna!"
+
+# ba_chp6:2094
+translate es badAppleChapter6_6b1a0b70:
+
+    "Pero por más que cierro los ojos, intento despejar la cabeza o hasta cuento ovejas."
+
+# ba_chp6:2096
+translate es badAppleChapter6_fb9dfdff:
+
+    "Sigo.{w} Sin.{w} Poder.{w} Dormir.{w} Carajo."
+
+# ba_chp6:2098
+translate es badAppleChapter6_7c5e9f16:
+
+    "La ÚNICA vez que de verdad QUIERO dormir, y no puedo hacer más que estar tirado en mi colchón duro, repasando una y otra vez lo que pasó hoy."
+
+# ba_chp6:2100
+translate es badAppleChapter6_7c56f27a:
+
+    "Stella me contó más de su pasado y de por qué está tan deprimida desde el tiroteo."
+
+# ba_chp6:2102
+translate es badAppleChapter6_a107f924:
+
+    "Me abrí con ella sobre el puto desastre que soy, sobre cómo soy básicamente un esquizo que se odia y se atiborra de pastillas. Aun así, no me miró con el asco que merecía ni me echó de su cuarto. Ella…"
+
+# ba_chp6:2104
+translate es badAppleChapter6_6146654f:
+
+    "Me dijo… que me amaba. Y yo le dije que yo también la amo…"
+
+# ba_chp6:2106
+translate es badAppleChapter6_bc391730:
+
+    "Estoy lleno hasta el tope de arrepentimientos, pero decirle a Stella lo que siento por ella no es uno de ellos. Aun así, mi mente no para de darle vueltas a todo lo que pude haber dicho mal."
+
+# ba_chp6:2108
+translate es badAppleChapter6_ebaa7f55:
+
+    "¿Nos dijimos \"te amo\" demasiado pronto? ¿Y ahora qué somos? ¿Y si mañana se despierta llena de arrepentimiento por algo que dijo en el calor del momento…?"
+
+# ba_chp6:2110
+translate es badAppleChapter6_f2981bbc:
+
+    "Todo esto me está jodiendo la cabeza, pero al mismo tiempo… de verdad siento eso por ella. Me llena de una calidez que no sé si he sentido desde que estaba con Fang…"
+
+# ba_chp6:2112
+translate es badAppleChapter6_10e20cfa:
+
+    "¿Estaré pasando página demasiado rápido?"
+
+# ba_chp6:2114
+translate es badAppleChapter6_cedb1cc3:
+
+    "Sin mencionar que conocí a sus padres. Uno de ellos me encontró en la cama con su hija. Y aun así, ninguno de los dos me odia; al contrario, ¿me tratan con amabilidad?"
+
+# ba_chp6:2116
+translate es badAppleChapter6_02c88b26:
+
+    "Simplemente no logro entenderlo, por más que lo intento…"
+
+# ba_chp6:2118
+translate es badAppleChapter6_9b78be93:
+
+    "Intento distraerme buscando el teléfono, que está justo en mi bolsillo. Ni siquiera me molesté en dejarlo en algún lado al llegar a casa."
+
+# ba_chp6:2120
+translate es badAppleChapter6_94e00566:
+
+    "Lo saco de entre las sábanas y aprieto el botón del costado, pero la pantalla sigue negra y solo muestra un reflejo borroso de mi cara de desvelado."
+
+# ba_chp6:2126
+translate es badAppleChapter6_c842f2e1:
+
+    "{b}TOC TOC TOC TOC{b}"
+
+# ba_chp6:2135
+translate es badAppleChapter6_9948d783:
+
+    "Uggghhhh… ¿Qué carajo? ¿En serio? Son…. supongo que las 11 PM, pero como tengo el teléfono muerto, no sé…"
+
+# ba_chp6:2137
+translate es badAppleChapter6_2a40fc11:
+
+    "Normalmente me habría cagado en los pantalones al oír a alguien golpear mi puerta TAN agresivamente, pero ahora mismo estoy demasiado cansado como para que me importe una mierda."
+
+# ba_chp6:2141
+translate es badAppleChapter6_c842f2e1_1:
+
+    "{b}TOC TOC TOC TOC{b}"
+
+# ba_chp6:2143
+translate es badAppleChapter6_4e392969:
+
+    "Ay, carajo, supongo que me TOCA ir a ver qué es, ¿no?"
+
+# ba_chp6:2152
+translate es badAppleChapter6_aa94bf41:
+
+    "Salgo como puedo de entre las sábanas y agarro las muletas. Menos mal que todavía tengo la ropa puesta, así no tengo que preocuparme de que algún esquivador de meteoros o algún drogadicto me vea el culo desnudo."
+
+# ba_chp6:2154
+translate es badAppleChapter6_fbda180b:
+
+    "Me levanto de la cama, que cruje, y empiezo a cojear hacia la puerta, pero al llegar a la entrada, oigo un sonido detrás de la puerta."
+
+# ba_chp6:2156
+translate es badAppleChapter6_566e7d86:
+
+    "El sonido de una chica joven llorando. Cuanto más me acerco a la puerta, más familiar e intenso se vuelve el llanto, hasta que caigo en la cuenta."
+
+# ba_chp6:2160
+translate es badAppleChapter6_a481c267:
+
+    "Fang…"
+
+# ba_chp6:2164
+translate es badAppleChapter6_cda2e440:
+
+    "No… no seas estúpido, Anon, ya pasamos por esto. Seguro que estás soñando o alucinando otra vez. Me doy la vuelta hacia la cama y-"
+
+# ba_chp6:2168
+translate es badAppleChapter6_c842f2e1_2:
+
+    "{b}TOC TOC TOC TOC{b}"
+
+# ba_chp6:2170
+translate es badAppleChapter6_2f6627d1:
+
+    "Prácticamente siento vibrar la puerta detrás de mí…"
+
+# ba_chp6:2172
+translate es badAppleChapter6_1f591fe6:
+
+    "Mierda… ¿será Trish?"
+
+# ba_chp6:2174
+translate es badAppleChapter6_0e88c04d:
+
+    "No... No, la arrestaron en el centro comercial, ¿no? No puede estar aquí."
+
+# ba_chp6:2182
+translate es badAppleChapter6_74ab5f08:
+
+    "Vuelvo a acercarme a la puerta y miro por la mirilla."
+
+# ba_chp6:2184
+translate es badAppleChapter6_58210bf0:
+
+    "Todo está borroso y empañado, y no logro distinguir la figura que tengo delante… Pero de lo único que estoy seguro es de que no puede ser Trish, porque ni siquiera alcanzaría la puta mirilla."
+
+# ba_chp6:2186
+translate es badAppleChapter6_a3784cfd:
+
+    "Bueno, quienquiera que sea, no parece que se vaya a ir hasta que vea qué pasa."
+
+# ba_chp6:2188
+translate es badAppleChapter6_aeae45ff:
+
+    "Intento ignorar cada instinto que me dice que no abra la puerta mientras llevo la mano al cerrojo y lo abro; el mecanismo hace clic."
+
+# ba_chp6:2190
+translate es badAppleChapter6_8e8d0e7b:
+
+    "La expectativa hace que sienta el corazón a punto de salírseme del pecho mientras agarro la puerta, giro la manija y la abro hacia mí… ¿Traigo el cuchillo encima? Ya es tarde para eso."
+
+# ba_chp6:2194
+translate es badAppleChapter6_6c832efd:
+
+    "Cuando termino de abrir la puerta, reconozco al instante la figura que tengo delante, y me pongo blanco como un papel."
+
+# ba_chp6:2200
+translate es badAppleChapter6_cc113a9d:
+
+    "Conozco demasiado bien al tiranosaurio con gorra que tengo delante, bigote incluido. Lleva el mismo delantal que usaba en su ilustre restaurante, y suelta el humo del cigarrillo que tiene en la boca."
+
+# ba_chp6:2204
+translate es badAppleChapter6_75cb194c:
+
+    Moe "Anon, muchacho, tenemos que hablar…"
+
+# ba_chp6:2206
+translate es badAppleChapter6_56b4e2b2:
+
+    "¿¿Moe??"

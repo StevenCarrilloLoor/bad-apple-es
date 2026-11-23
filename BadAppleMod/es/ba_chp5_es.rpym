@@ -1,0 +1,2605 @@
+# Bad Apple - traduccion al espanol latinoamericano (ba_chp5)
+# Version del parche: 1.0 (2026-11-22)
+# Para: Bad Apple (Team Starlight) sobre Snoot Game Patch 14 (Ren'Py 8.3.7.25031702)
+#
+# Capa de traduccion independiente: no modifica ningun archivo del mod ni del juego.
+# Archivo GENERADO por herramientas/construir.py. No lo edites a mano: la traduccion vive
+# en fuente/ y cada bloque de aqui abajo se refiere al guion original por archivo y linea.
+# Es un .rpym para que el cargador de mods del juego solo lo cargue con el mod activado.
+#
+# Bad Apple y Snoot Game pertenecen a sus autores. Esta es una traduccion de fans.
+
+# ba_chp5:16
+translate es badAppleChapter5_90afea44:
+
+    "Lo que era un viaje de 15 minutos empieza a sentirse como una eternidad."
+
+# ba_chp5:18
+translate es badAppleChapter5_632a8f80:
+
+    "Mirando por la ventanilla, veo pasar edificios y peatones mientras escucho el rugido sordo del motor, que ahoga tanto la cacofonía del mundo exterior como los gimoteos de pánico a mi derecha."
+
+# ba_chp5:20
+translate es badAppleChapter5_e4978724:
+
+    "Aun así, ninguna de estas distracciones logra sacarme las cosas de la cabeza."
+
+# ba_chp5:24
+translate es badAppleChapter5_b0642672:
+
+    "Casi me muero otra vez."
+
+# ba_chp5:26
+translate es badAppleChapter5_8683ca60:
+
+    "Sigo con el cuello amoratado y adolorido después de que Trish me estrangulara; de algún modo dio con nosotros en el centro comercial para vengar la muerte de Fang. Tengo la mente hecha pedazos mientras intento entender lo que acaba de pasar y busco respuestas a cada vez más preguntas."
+
+# ba_chp5:28
+translate es badAppleChapter5_327ed500:
+
+    "¿Cómo es que nos encontró?"
+
+# ba_chp5:30
+translate es badAppleChapter5_243fbc38:
+
+    "¿Qué quiso decir con 'Moe se metió en medio'?"
+
+# ba_chp5:32
+translate es badAppleChapter5_9fb67355:
+
+    "¿O eso de que amaba a Fang?"
+
+# ba_chp5:34
+translate es badAppleChapter5_1deec09c:
+
+    "Por no hablar de los insultos extrañamente específicos que le soltaba a Stella, que acabaron con Stella dándole a Trish un puñetazo en plena cara como respuesta."
+
+# ba_chp5:36
+translate es badAppleChapter5_e3b5488b:
+
+    St "{i}{color=#d1d1d1}¡¡DIJE QUE NOS DEJES EN PAZ, PUTA TRIGGA DE MIERDA!!{/i}{/color}"
+
+# ba_chp5:38
+translate es badAppleChapter5_a1f32ab3:
+
+    "Los gritos de la estegosaurio, que suele hablar tan bajito, se me quedaron grabados en el cerebro, junto con el odio penetrante de la mirada de Trish mientras me aplastaba el cuello con ganas de matarme."
+
+# ba_chp5:40
+translate es badAppleChapter5_e94f75eb:
+
+    "Ya bailé con la muerte casi tres veces y, aun así, sigo con los nervios hechos trizas."
+
+# ba_chp5:42
+translate es badAppleChapter5_3604e73c:
+
+    "¿Es una señal? ¿Es la forma que tiene el karma de hacerme pagar por mis crímenes? ¿Un castigo por todo lo que les pasó a los que me rodean?"
+
+# ba_chp5:44
+translate es badAppleChapter5_fdf64e22:
+
+    "Carajo…"
+
+# ba_chp5:66
+translate es badAppleChapter5_0f169e75:
+
+    "Me aparto de la ventanilla y miro mejor el interior del carro, algo que se me ha vuelto bastante familiar en las últimas semanas."
+
+# ba_chp5:70
+translate es badAppleChapter5_f574db8e:
+
+    "Miro de reojo a Rosa, que aprieta el volante con fuerza sin despegar los ojos del camino. La expresión que tiene en la cara es la misma mirada de preocupación que le vi por primera vez hace meses."
+
+# ba_chp5:74
+translate es badAppleChapter5_24fc06aa:
+
+    "Sin embargo, detrás de esa preocupación, no puedo evitar notar la frustración y el enojo que empiezan a asomarse en su cara."
+
+# ba_chp5:76
+translate es badAppleChapter5_cf71d1f5:
+
+    "Teniendo en cuenta que una antigua conocida acaba de atacar brutalmente a sus dos amigos, y que encima resultó ser la responsable de dejarme lisiado, es comprensible. Pero hay algo más…"
+
+# ba_chp5:78
+translate es badAppleChapter5_29be626e:
+
+    "Y a mi derecha, en vez de ir en su lugar de siempre en el asiento del copiloto, está Stella."
+
+# ba_chp5:79
+translate es badAppleChapter5_c66dcef2:
+
+    "Me rodea el torso con los brazos y hunde la cara en mi pecho, sin querer enfrentarse al mundo de afuera. Todo su cuerpo tiembla de terror."
+
+# ba_chp5:80
+translate es badAppleChapter5_a047e3f0:
+
+    "Por fin dejó de llorar, pero el llanto dio paso a un estremecimiento doloroso."
+
+# ba_chp5:82
+translate es badAppleChapter5_be22b106:
+
+    "Durante nuestra {cps=*0.25}c-{w=.25}cita{/cps}, Stella se derrumbó un par de veces, igual que ahora, porque su trauma volvía a aflorar ante cualquier situación estresante o cualquier cosa que le recordara lo que pasó el día del tiroteo."
+
+# ba_chp5:83
+translate es badAppleChapter5_984fd593:
+
+    "Pero ahora mismo solo veo terror puro en el cuerpo de Stella mientras se aferra a mí con fuerza."
+
+# ba_chp5:85
+translate es badAppleChapter5_98573dd7:
+
+    "¿Qué carajo le pasó ese día?"
+
+# ba_chp5:88
+translate es badAppleChapter5_0271d8a7:
+
+    Ro "Oye, ¿se sienten bien para hablar de lo que pasó?"
+
+# ba_chp5:91
+translate es badAppleChapter5_3802b9d1:
+
+    "Rosa nos habla desde el asiento delantero y me saca de mis pensamientos."
+
+# ba_chp5:99
+translate es badAppleChapter5_82e18c45:
+
+    St "Yo–ahh–-yo-mmppgh."
+
+# ba_chp5:100
+translate es badAppleChapter5_7f7e004d:
+
+    "Su voz ahogada retumba contra mi pecho, incapaz de formar una respuesta coherente."
+
+# ba_chp5:102
+translate es badAppleChapter5_0c525334:
+
+    "Me duele oír a Stella así. No se merece nada de esto. Este sufrimiento es mío, no suyo."
+
+# ba_chp5:108
+translate es badAppleChapter5_b38f9426:
+
+    "Me vuelvo hacia Rosa y le cuento todo lo que pasó en el centro comercial, con todos los detalles que puedo."
+
+# ba_chp5:110
+translate es badAppleChapter5_8ee6b098:
+
+    "Le explico que me encontré a Reed… o lo que queda de él, antes de ver a Stella, y la aquilops reacciona horrorizada, murmurando algo en español."
+
+# ba_chp5:112
+translate es badAppleChapter5_241fb037:
+
+    "Cómo Stella se echó a llorar cuando sacó el nombre de una persona llamada \"Sage\", quienquiera que sea. Cuando lo menciono, veo por el retrovisor la cara de sorpresa de Rosa. Debe de saber más sobre quién es 'Sage'."
+
+# ba_chp5:114
+translate es badAppleChapter5_7238c332:
+
+    A "Después fuimos al arcade y un mocoso estúpido nos apuntó a la cara con una pistola de juguete, y por eso Stella salió llorando del centro comercial."
+
+# ba_chp5:117
+translate es badAppleChapter5_55325e41:
+
+    "Cruzo la mirada con Rosa, solo un momento, para no distraerla del volante."
+
+# ba_chp5:120
+translate es badAppleChapter5_0cac9313:
+
+    A "Y entonces… ahí fue donde nos encontró Trish. Nos dijo que ella fue la que me destrozó la pierna y que me quería muerto por matar a Fang."
+
+# ba_chp5:122
+translate es badAppleChapter5_29a40c26:
+
+    A "También le dijo cosas muy jodidas a Stella, y sonaba a algo personal."
+
+# ba_chp5:124
+translate es badAppleChapter5_8bcdbb28:
+
+    Ro "Dios mío… ¿Qué le dijo?"
+
+# ba_chp5:128
+translate es badAppleChapter5_7590bca9:
+
+    St "N-no, por favor…"
+
+# ba_chp5:132
+translate es badAppleChapter5_e847dace:
+
+    "Stella levanta la cabeza de mi pecho y deja ver sus ojos rojos y llorosos, con el maquillaje completamente corrido."
+
+# ba_chp5:135
+translate es badAppleChapter5_354901c4:
+
+    Ro "Está bien, está bien, entonces lo hablamos después."
+
+# ba_chp5:142
+translate es badAppleChapter5_5f85faf3:
+
+    Ro "Siempre supe que era una bravucona y una matona, pero ¿llegar a algo así? Mierda…"
+
+# ba_chp5:148
+translate es badAppleChapter5_fe5c7d6b:
+
+    "La voz de Rosa suena algo cansada mientras sigue por la carretera. Con tantas vueltas lentas que venimos dando, ya debemos de estar cerca."
+
+# ba_chp5:150
+translate es badAppleChapter5_45b133b7:
+
+    "Aunque todavía intento procesar lo que nos pasó, no puedo decir que no me lo esperara. Sabía que esto iba a pasar tarde o temprano. Si no era Trish, alguien como Reed o incluso los padres de Fang me habrían querido muerto."
+
+# ba_chp5:152
+translate es badAppleChapter5_dc1264bc:
+
+    "Después de todo, ¿cómo no? Para ellos, yo soy el que empujó a Fang al límite. Carajo, puede que sí lo haya hecho."
+
+# ba_chp5:154
+translate es badAppleChapter5_bf9baedb:
+
+    "El carro se detiene despacio, señal de que llegamos a la casa de Stella, y los dos levantamos la cabeza hacia las ventanillas para comprobarlo."
+
+# ba_chp5:167
+translate es badAppleChapter5_e20a7c76:
+
+    Ro "¿Necesitas ayuda para bajar, An-on?"
+
+# ba_chp5:170
+translate es badAppleChapter5_52e2ed84:
+
+    A "Estoy bien. Primero llevemos a Stella adentro."
+
+# ba_chp5:172
+translate es badAppleChapter5_39914eac:
+
+    "Mi pierna jodida es lo que menos me preocupa ahora mismo."
+
+# ba_chp5:175
+translate es badAppleChapter5_bbf55a30:
+
+    Ro "P-pero…"
+
+# ba_chp5:178
+translate es badAppleChapter5_e7e1da98:
+
+    Ro "Sí…"
+
+# ba_chp5:180
+translate es badAppleChapter5_62c9cdff:
+
+    "Rosa duda antes de asentir y abre la puerta del carro a su izquierda."
+
+# ba_chp5:182
+translate es badAppleChapter5_a4c156ee:
+
+    "Sin soltar a Stella, le doy unas palmaditas suaves para tranquilizarla."
+
+# ba_chp5:184
+translate es badAppleChapter5_a0ec982f:
+
+    A "Oye, ya pasó. Ya estamos en casa. Vamos adentro, ¿sí?"
+
+# ba_chp5:186
+translate es badAppleChapter5_ba2c5627:
+
+    "Stella me mira débilmente y asiente, con las mejillas todavía manchadas por las lágrimas de antes."
+
+# ba_chp5:188
+translate es badAppleChapter5_cbb1a195:
+
+    "Técnicamente, el que necesita ayuda para bajar soy yo, pero ignoro el dolor ardiente y retorcido de mi pierna y me estiro por encima de Stella para abrirle la puerta."
+
+# ba_chp5:190
+translate es badAppleChapter5_c80eee09:
+
+    "El dolor es intenso, pero apenas le hago caso. Stella ve la puerta abierta y se escurre despacio de mis brazos hacia la salida."
+
+# ba_chp5:192
+translate es badAppleChapter5_8bc3c6d8:
+
+    St "T-toma, déjame ayudarte a ti también…."
+
+# ba_chp5:194
+translate es badAppleChapter5_969ad05a:
+
+    "Stella me tiende la mano para ayudarme a levantarme."
+
+# ba_chp5:203
+translate es badAppleChapter5_2550e36f:
+
+    "Me agarro enseguida e intento salir de la camioneta de Rosa sin mover la pierna como no debo, como si jugara la versión más dolorosa de Operando que exista."
+
+# ba_chp5:205
+translate es badAppleChapter5_204b5014:
+
+    Ro "Aquí, yo me encargo de An-on."
+
+# ba_chp5:207
+translate es badAppleChapter5_b32bc877:
+
+    "Rosa se nos acerca por detrás y me ofrece su hombro para apoyarme."
+
+# ba_chp5:209
+translate es badAppleChapter5_959d872d:
+
+    Ro "Tú entra y ponte cómoda con tu familia, ¿de acuerdo?"
+
+# ba_chp5:211
+translate es badAppleChapter5_91ae0683:
+
+    St "…Está bien."
+
+# ba_chp5:213
+translate es badAppleChapter5_033e368e:
+
+    "Stella acepta en voz baja y deja que Rosa me sostenga; me suelta y entra en la casa, que se ve bastante impresionante."
+
+# ba_chp5:215
+translate es badAppleChapter5_664c7f28:
+
+    "Mientras mi amiga aquilops me ayuda a caminar hasta la entrada, con la pierna palpitando de dolor y el corazón desbocado como el de un conejo, apenas encuentro fuerzas para seguir de pie, ni hablar de caminar. Rosa es casi lo único que evita que me derrumbe ahora mismo."
+
+# ba_chp5:217
+translate es badAppleChapter5_9c300c1c:
+
+    "Pero, a pesar de mi cuerpo maltrecho, llegamos a la entrada y oímos una conversación por la puerta entreabierta."
+
+# ba_chp5:219
+translate es badAppleChapter5_5a38d6fb:
+
+    StMom "Est-elle blessée? As-tu vu des marques sur elle? Des signes de blessure?"
+
+# ba_chp5:221
+translate es badAppleChapter5_f7de5c7f:
+
+    StDad "Je… je ne sais pas, elle est arrivée en pleurant et est allée directement vers le chien sans dire un mot. Quelque chose de vraiment mauvais a dû se passer…"
+
+# ba_chp5:223
+translate es badAppleChapter5_6a100768:
+
+    "No tengo idea de qué dicen porque no hablo croissant, pero suenan preocupados de todas formas. Deben de ser sus padres, lo que también explica por qué le gritó a Trish en francés en el centro comercial."
+
+# ba_chp5:240
+translate es badAppleChapter5_942043e4:
+
+    "Al abrir la puerta, Rosa y yo nos encontramos con un recibidor de clase media alta, lleno de cuadros y adornos excéntricos. Uno de ellos es una especie de retrato astrológico de una mujer que sostiene el sol en una mano y la luna en la otra. Esto tiene que ser obra de Stella."
+
+# ba_chp5:242
+translate es badAppleChapter5_fb74384e:
+
+    Ro "¡Cuidado!"
+
+# ba_chp5:244
+translate es badAppleChapter5_cdfff593:
+
+    "El aviso de Rosa me hace trastabillar y casi me tropiezo con los zapatos de Stella. ¿Y al lado hay un oso de peluche rojo?"
+
+# ba_chp5:246
+translate es badAppleChapter5_48f5b52b:
+
+    "No recuerdo que Stella trajera es-{nw}"
+
+# ba_chp5:253
+translate es badAppleChapter5_5b340bcd:
+
+    StDog "¡WOOF! ¡WOOF! ¡WOOF!" with hpunch
+
+# ba_chp5:257
+translate es badAppleChapter5_7c89aa7f:
+
+    "Casi vuelvo a tropezar, tomado por sorpresa por el repentino escándalo de ladridos que retumba por los pasillos."
+
+# ba_chp5:259
+translate es badAppleChapter5_94ddac2e:
+
+    "Entro en pánico mientras el golpeteo pesado contra el suelo se acerca cada vez más."
+
+# ba_chp5:261
+translate es badAppleChapter5_0083c38e:
+
+    "Mierda. Mierda. ¡MIERDA!"
+
+# ba_chp5:263
+translate es badAppleChapter5_7035c85b:
+
+    "La adrenalina me vuelve a inundar el cuerpo e intento moverme mientras Rosa trata de sujetarme."
+
+# ba_chp5:265
+translate es badAppleChapter5_f9347f6c:
+
+    Ro "¡Cálmate, An-on! ¡Es solo su perrita!"
+
+# ba_chp5:271
+translate es badAppleChapter5_2fa54c0f:
+
+    "Entonces, por la puerta aparece una figura que-"
+
+# ba_chp5:279
+translate es badAppleChapter5_c1060dff:
+
+    "Eso…"
+
+# ba_chp5:285
+translate es badAppleChapter5_3777fdb7:
+
+    "Eso es lo más tierno que he visto en toda mi puta vida."
+
+# ba_chp5:287
+translate es badAppleChapter5_64b80d0b:
+
+    "Lo que corre hacia Rosa y hacia mí no es un sabueso feroz, sino un perro grande, blanco y peludo que se podría confundir fácilmente con una nube. No hay ni rastro de agresividad en esas orejas paradas ni en esa sonrisota que tiene en la cara."
+
+# ba_chp5:292
+translate es badAppleChapter5_25279621:
+
+    StDog "¡¡Awoooo awooo raor raor raor!!"
+
+# ba_chp5:298
+translate es badAppleChapter5_cd67b83c:
+
+    Ro "¡Jejejeje, hola, Ghibli! ¡Yo también me alegro de verte!"
+
+# ba_chp5:304
+translate es badAppleChapter5_7110ca78:
+
+    "¿Ghibli? Qué nombre tan curioso para un perro."
+
+# ba_chp5:315
+translate es badAppleChapter5_54e7834e:
+
+    "Después de saludar a Rosa como a una vieja amiga, Ghibli se vuelve hacia mí y empieza a olfatearme. La cola se le mueve de un lado a otro como una hélice."
+
+# ba_chp5:317
+translate es badAppleChapter5_c815bb71:
+
+    "No sé muy bien cómo tratar a los perros. Solo conocí a unos pocos allá en Rock Bottom, y los de Skin Row solían ser pitbulls que la gente dejaba encadenados, esperando a una víctima desprevenida… como un niño perdido."
+
+# ba_chp5:319
+translate es badAppleChapter5_af105a41:
+
+    "Rosa me hace una seña para que extienda la mano, y obedezco, nervioso. Me la olfatea con curiosidad y después me la lame con entusiasmo."
+
+# ba_chp5:321
+translate es badAppleChapter5_591d90ad:
+
+    "Este perro es demasiado tierno, carajo."
+
+# ba_chp5:323
+translate es badAppleChapter5_ae0d9f7d:
+
+    StDad "¡Ah, désolé, Rosa! ¡Intenté que Jib-lee se quedara en la sala con Stella!"
+
+# ba_chp5:325
+translate es badAppleChapter5_2b7e053e:
+
+    "Una voz masculina con un marcado acento francés me distrae del perro."
+
+# ba_chp5:339
+translate es badAppleChapter5_5bee68b2:
+
+    "Por la misma puerta que el perro aparece un estegosaurio de mediana edad, con lentes y el pelo verde corto, camisa café de rombos y pantalón de vestir. Se fija en el desconocido que acaba de entrar en su casa mientras las placas de su espalda se crispan con curiosidad."
+
+# ba_chp5:343
+translate es badAppleChapter5_c154d3fd:
+
+    "Me doy cuenta casi al instante de que debe de ser su padre."
+
+# ba_chp5:345
+translate es badAppleChapter5_f9445e3d:
+
+    "...Sabía que debí haberme puesto los bóxers cafés."
+
+# ba_chp5:347
+translate es badAppleChapter5_41fcbd64:
+
+    "En este momento solo puedo pensar en cuando el papá de Fang me encontró con ella en su cuarto, en cómo sentí que ese esquivador de meteoros iba a colgar mi cabeza en la pared."
+
+# ba_chp5:427
+translate es badAppleChapter5_c852edaa:
+
+    StDad "¡Oh, bonjour! Tú debes de ser Anon, ¿oui?"
+
+# ba_chp5:429
+translate es badAppleChapter5_50c4586e:
+
+    "Espero a que su expresión amable se vuelva hostil, a que me escupa en la cara y me grite que me aleje de su hija."
+
+# ba_chp5:433
+translate es badAppleChapter5_00103eb1:
+
+    "…Espero un par de segundos, pero ese momento no llega. Lo único que aparece en su cara es un poco de confusión por mi silencio."
+
+# ba_chp5:437
+translate es badAppleChapter5_2768a25c:
+
+    A "O-oh, eh, sí, soy yo. Perdón por eso."
+
+# ba_chp5:439
+translate es badAppleChapter5_03ef641b:
+
+    A "Mucho gusto, y siento mucho todo lo que pasó."
+
+# ba_chp5:441
+translate es badAppleChapter5_7def89a2:
+
+    "Se me traba la lengua mientras las palabras me salen de la boca como vómito."
+
+# ba_chp5:443
+translate es badAppleChapter5_ba679d3b:
+
+    StDad "¡C'est pas grave, no hay necesidad de disculparse!"
+
+# ba_chp5:445
+translate es badAppleChapter5_6e904db5:
+
+    StDad "Vengan, pasemos a la sala para hablar de lo ocurrido."
+
+# ba_chp5:455
+translate es badAppleChapter5_447be507:
+
+    "Nos hace una seña para que lo sigamos y silba; el perro, emocionado, corre al lado de su dueño. Supongo que nos lleva adonde están Stella y su madre."
+
+# ba_chp5:457
+translate es badAppleChapter5_4cb36050:
+
+    "¿Y si no es su papá el que debería preocuparme? ¿Y si la dura es su mamá? Por Dios, Anon, cálmate, vamos a… intentar romper el hielo."
+
+# ba_chp5:459
+translate es badAppleChapter5_a2146fcd:
+
+    A "Por cierto, tiene un perro adorable. Me encanta el nombre."
+
+# ba_chp5:463
+translate es badAppleChapter5_bd9acc3b:
+
+    StDad "¡Oh, jajaja, merci! Llevábamos muchísimo tiempo queriendo tener un perro. Y cuando adoptamos a nuestra samoyedo, Stella fue la que eligió el nombre."
+
+# ba_chp5:465
+translate es badAppleChapter5_17a14fcf:
+
+    A "Ya veo. ¿C-cómo dijo que se llamaba el perro?"
+
+# ba_chp5:467
+translate es badAppleChapter5_fb96dd65:
+
+    StDad "¡Oh! La llamamos Jibb-Lee. Le pusimos el nombre de ese, eh… estudio que hacía esas películas de dibujos animados que veíamos con Stella cuando era pequeña-"
+
+# ba_chp5:473
+translate es badAppleChapter5_815a396e:
+
+    St "{i}…Studio Ghibli, el m-mejor estudio de cine de todos los tiempos…{/i}"
+
+# ba_chp5:475
+translate es badAppleChapter5_d69583ca:
+
+    "Una voz conocida, pero temblorosa, se oye mientras nos acercamos a la sala."
+
+# ba_chp5:517
+translate es badAppleChapter5_40c4d326:
+
+    "Al cruzar la puerta, los cuatro entramos en su sala de aspecto excéntrico, decorada con una mezcla de arte nuevo y antiguo y con fotos enmarcadas en las paredes, que rodean un juego de muebles bellamente trabajados."
+
+# ba_chp5:519
+translate es badAppleChapter5_5522ed97:
+
+    "Veo a Stella hecha un ovillo en un sofá blanco y mullido. A su lado está sentada una estegosaurio de mediana edad con un cárdigan rosa claro. Solo por el pelo y los rasgos de la cara, es fácil darse cuenta de que es su madre."
+
+# ba_chp5:527
+translate es badAppleChapter5_ed0a0ed0:
+
+    "Antes de que cualquiera de nosotros pueda decir algo más, la presa se rompe otra vez: Stella empieza a sollozar y hunde la cabeza en el abrazo de su madre."
+
+# ba_chp5:534
+translate es badAppleChapter5_e12ceb68:
+
+    StMom "Shhh shhh, tu n'es pas toute seule, ma chérie."
+
+# ba_chp5:536
+translate es badAppleChapter5_24d17b3a:
+
+    St "{cps=*2}…Losientolo-losientolosiento{/cps}"
+
+# ba_chp5:538
+translate es badAppleChapter5_f35d0099:
+
+    StMom "Non, non, Stella. No tienes nada de qué disculparte."
+
+# ba_chp5:540
+translate es badAppleChapter5_66fe231c:
+
+    "La mujer le susurra con ternura y abraza a su hija mientras ella deja salir un torbellino de emociones."
+
+# ba_chp5:542
+translate es badAppleChapter5_ba063696:
+
+    "Los tres nos quedamos de pie en la entrada de la sala mientras Stella llora en brazos de su madre. Su padre tiene una expresión triste."
+
+# ba_chp5:544
+translate es badAppleChapter5_3756c28a:
+
+    "Mierda-"
+
+# ba_chp5:550
+translate es badAppleChapter5_1641fe9f:
+
+    "Siento un roce de pelo y casi me tropiezo; veo a Ghibli ir hacia Stella en el sofá y subirse de un salto, hundiendo la cabeza en la estego que llora a gritos, como si intentara darle un abrazo."
+
+# ba_chp5:556
+translate es badAppleChapter5_f140c3f4:
+
+    StDad "Está bien, Stella, está bien…"
+
+# ba_chp5:558
+translate es badAppleChapter5_42fae46b:
+
+    "Su padre se acerca y se sienta en el sofá junto a Ghibli, buscando la mano de la desconsolada chica."
+
+# ba_chp5:560
+translate es badAppleChapter5_ca5cc37f:
+
+    StDad "Hoy has sufrido mucho. ¿Por qué no subes con Jibb-lee y descansas en tu cuarto? Tus amigos seguirán aquí."
+
+# ba_chp5:562
+translate es badAppleChapter5_54c75e69:
+
+    St "Está bien… Ven, Ghibli, vamos…"
+
+# ba_chp5:571
+translate es badAppleChapter5_0ae2fcf1:
+
+    "Stella sorbe por la nariz al levantarse del sofá, con la samoyedo siguiéndola, entusiasmada."
+
+# ba_chp5:584
+translate es badAppleChapter5_eadd18b3:
+
+    "Rosa y yo nos apartamos un poco de la puerta para dejarlas pasar, pero cuando Stella pasa, nuestras miradas se cruzan. Tiene la cara llena de tristeza y vergüenza, como si me pidiera perdón sin palabras."
+
+# ba_chp5:586
+translate es badAppleChapter5_1eecaead:
+
+    "Aunque no haya nada que perdonar."
+
+# ba_chp5:588
+translate es badAppleChapter5_7ea4dbfd:
+
+    "Cuando sale de la sala, el ruido de pasos y de patitas empieza a subir la escalera."
+
+# ba_chp5:601
+translate es badAppleChapter5_1e3a213a:
+
+    "Sus padres se vuelven hacia nosotros, sobre todo hacia mí."
+
+# ba_chp5:603
+translate es badAppleChapter5_34e3b0ce:
+
+    "Mierda… ahora que Stella se fue, me van a clavar la cabeza en una pica, ¿no? Claro que sí."
+
+# ba_chp5:605
+translate es badAppleChapter5_2fb1368b:
+
+    "Tu cita con su hija le provocó una crisis nerviosa por todas las estupideces que dijiste en la cita, por ir al arcade en el peor momento, y eso sin contar que llamaste la atención de una trigga psicótica que te quiere muerto."
+
+# ba_chp5:607
+translate es badAppleChapter5_9bd52acd:
+
+    "¿Por qué no iban a querer patearte el-{nw}"
+
+# ba_chp5:611
+translate es badAppleChapter5_9de1fdef:
+
+    StDad "¿Y cómo te sientes? Ah… ¿Era Anon?"
+
+# ba_chp5:613
+translate es badAppleChapter5_33a83b4d:
+
+    "Mi cerebro se congela un momento al oír las palabras del patriarca de la familia Baudelaire. ¿Por qué no me está gritando ni me está echando de su casa?"
+
+# ba_chp5:618
+translate es badAppleChapter5_b7fc85ca:
+
+    StDad "¿Puedes contarnos qué pasó en el centro comercial?"
+
+# ba_chp5:620
+translate es badAppleChapter5_70e3c595:
+
+    "Vuelve a preguntar, con la misma cara de preocupación sincera que su esposa."
+
+# ba_chp5:622
+translate es badAppleChapter5_1a447dcc:
+
+    "No estoy preparado para esto."
+
+# ba_chp5:624
+translate es badAppleChapter5_7db01386:
+
+    A "Eh, claro. Perdone, hoy tengo la cabeza hecha un desastre."
+
+# ba_chp5:628
+translate es badAppleChapter5_c4d4cbef:
+
+    StDad "No es ningún problema, muchacho. Tú también pasaste por mucho hoy. Por favor, siéntense los dos."
+
+# ba_chp5:639
+translate es badAppleChapter5_b061f2e4:
+
+    StDad "Entonces, ¿puedes contarme todo lo que pasó hoy?"
+
+# ba_chp5:643
+translate es badAppleChapter5_24499a1b:
+
+    "Durante los siguientes minutos, empiezo a explicarles a los padres de Stella todo lo que puedo."
+
+# ba_chp5:648
+translate es badAppleChapter5_f9d1ce9b:
+
+    "Les explico cómo fue la cita."
+
+# ba_chp5:655
+translate es badAppleChapter5_128105c5:
+
+    "...Les explico que la encontré llorando cuando llegué."
+
+# ba_chp5:661
+translate es badAppleChapter5_24f22e76:
+
+    "Y cómo se echó a llorar con solo nombrar a ‘Sage’."
+
+# ba_chp5:665
+translate es badAppleChapter5_5601574b:
+
+    "Cómo un niño nos apuntó con una pistola de juguete y ella salió corriendo del centro comercial, aterrada."
+
+# ba_chp5:672
+translate es badAppleChapter5_ccad76b4:
+
+    "...y después, cómo Trish prácticamente intentó asesinarnos."
+
+# ba_chp5:676
+translate es badAppleChapter5_e7d6a0ac:
+
+    A "Luego Trish empezó a decirle a Stella unas mierdas horribles. Y le dolieron de verdad."
+
+# ba_chp5:683
+translate es badAppleChapter5_0535c850:
+
+    "Cuanto más les cuento a sus padres lo que pasó, más crece la preocupación en sus ojos."
+
+# ba_chp5:685
+translate es badAppleChapter5_ee19c7e2:
+
+    A "Entonces Stella le dio un puñetazo en plena cara y la tiró al suelo."
+
+# ba_chp5:693
+translate es badAppleChapter5_4ce02cb1:
+
+    StDad "Esa es mi niña…"
+
+# ba_chp5:697
+translate es badAppleChapter5_f74145a4:
+
+    "Su comentario le vale una mirada algo molesta de su esposa, antes de que los dos vuelvan a mirarme."
+
+# ba_chp5:701
+translate es badAppleChapter5_4bc943fa:
+
+    A "Trish empezó a gritar que la iba a matar y se lanzó directo hacia ella. Logré meterme entre las dos y… si Rosa no hubiera llegado con ayuda, Trish probablemente me habría matado."
+
+# ba_chp5:703
+translate es badAppleChapter5_e6cb5021:
+
+    "En la sala se hace un silencio sepulcral mientras todos asimilamos lo que se ha dicho."
+
+# ba_chp5:707
+translate es badAppleChapter5_cff2a28d:
+
+    StDad "Perdona que te pregunte, muchacho, pero ¿'aspie' y la 'palabra con R' estaban entre los insultos que usó esta… señorita?"
+
+# ba_chp5:709
+translate es badAppleChapter5_395494ba:
+
+    "Me sorprende que hayan adivinado las dos."
+
+# ba_chp5:711
+translate es badAppleChapter5_de4079b2:
+
+    A "S-sí…"
+
+# ba_chp5:718
+translate es badAppleChapter5_1ba66f1f:
+
+    "Mi respuesta llena de incomodidad y tristeza las caras de los padres de Stella, y Rosa también empieza a hervir de rabia."
+
+# ba_chp5:720
+translate es badAppleChapter5_299eb263:
+
+    StMom "Mon Dieu. ¿No ha sufrido ya bastante nuestra hija? ¿Por qué los chicos tienen que ser tan crueles?"
+
+# ba_chp5:722
+translate es badAppleChapter5_638b915a:
+
+    "Sus reacciones, sumadas a lo que siente Rosa, demuestran que no debe de ser la primera vez que tratan así a Stella, pero ¿debería siquiera preguntar? ¿No sería pasarme de la raya?"
+
+# ba_chp5:724
+translate es badAppleChapter5_59f8f8b1:
+
+    "Seguramente no me lo van a contar, pero podría servirme saberlo. Así estaría mejor preparado para manejar situaciones como esta en el futuro."
+
+# ba_chp5:726
+translate es badAppleChapter5_1b9401f5:
+
+    "Quiero saberlo para intentar ser un mejor amigo para ella."
+
+# ba_chp5:728
+translate es badAppleChapter5_fe3f1def:
+
+    A "Si no les molesta que pregunte, ¿qué le pasó a Stella? ¿E-en el pasado, quiero decir?"
+
+# ba_chp5:734
+translate es badAppleChapter5_30905b2b:
+
+    StDad "Es un tema… delicado."
+
+# ba_chp5:736
+translate es badAppleChapter5_9ac726ec:
+
+    StDad "Sin embargo, veo que de verdad te importa nuestra hija, y que tú le importas a ella. Así que mereces saber la verdad."
+
+# ba_chp5:738
+translate es badAppleChapter5_275bab42:
+
+    StDad "Antes de mudarnos a Estados Unidos, hace 15 años, supimos que Stella tenía lo que llaman… 'síndrome de Asperger'."
+
+# ba_chp5:740
+translate es badAppleChapter5_382cbcd4:
+
+    "Con su acento francés, me cuesta entender las palabras a la primera."
+
+# ba_chp5:746
+translate es badAppleChapter5_7144bcc5:
+
+    StDad "No sabíamos qué pensar, pero cuando nos mudamos aquí y ella entró a la primaria, fue… difícil para ella, y para nosotros."
+
+# ba_chp5:751
+translate es badAppleChapter5_c04e3503:
+
+    "Al ver a su esposo afligido, la Sra. Baudelaire le toma la mano y se la aprieta con fuerza antes de mirarme."
+
+# ba_chp5:753
+translate es badAppleChapter5_c5888e7e:
+
+    StMom "Y después de… lo que pasó el año pasado, llevamos a Stella a terapia, y allí le diagnosticaron estrés postraumático."
+
+# ba_chp5:755
+translate es badAppleChapter5_f84560ae:
+
+    StMom "Después de que la tiradora casi nos arrebatara a nuestra hija, y de que su amiga fuera-"
+
+# ba_chp5:759
+translate es badAppleChapter5_1deddd35:
+
+    "La cara de su madre se llena de sorpresa y cierra la boca, como si casi hubiera revelado algo que debía quedar en privado."
+
+# ba_chp5:769
+translate es badAppleChapter5_274b0f3b:
+
+    "Su esposo ve que se quedó sin palabras, así que vuelve a dirigirse a mí."
+
+# ba_chp5:771
+translate es badAppleChapter5_cdb134b6:
+
+    StDad "Todo esto ha sido muy duro para Stella. Desde entonces está muy deprimida y… asustada. Muchas veces se encierra en su cuarto, lejos del resto del mundo."
+
+# ba_chp5:773
+translate es badAppleChapter5_0e6a5d4a:
+
+    StDad "Y nos preocupa tanto nuestra hija cuando sale de casa que nosotros…"
+
+# ba_chp5:775
+translate es badAppleChapter5_4d97822c:
+
+    "Le aparece un rastro de culpa en la cara cuando está a punto de explicar más sobre el estado emocional de Stella."
+
+# ba_chp5:777
+translate es badAppleChapter5_063f5bf6:
+
+    StDad "{cps=*.5}Nosotros-{/cps}{nw}"
+
+# ba_chp5:781
+translate es badAppleChapter5_d27e42ea:
+
+    Ro "Ay… Me han estado pidiendo que la acompañe casi siempre que sale de casa."
+
+# ba_chp5:785
+translate es badAppleChapter5_5da63900:
+
+    "Me giro a la derecha y veo a Rosa, sombría, mirando al suelo; sus ojos recorren la alfombra mullida mientras crece su tormenta interior."
+
+# ba_chp5:787
+translate es badAppleChapter5_fc0a20a4:
+
+    Ro "Yo… no he sido del todo sincera contigo ni con Stella."
+
+# ba_chp5:789
+translate es badAppleChapter5_29f463e6:
+
+    Ro "No fue casualidad que los encontrara en el centro comercial… Ellos sabían adónde iba, y su familia me pidió que la vigilara."
+
+# ba_chp5:791
+translate es badAppleChapter5_a0628dda:
+
+    "Ya sospechaba que no fue pura suerte que nos encontrara. Aunque me pone un poco incómodo."
+
+# ba_chp5:795
+translate es badAppleChapter5_fdc5aac7:
+
+    A "¿Nos estuviste vigilando todo el tiempo?"
+
+# ba_chp5:797
+translate es badAppleChapter5_06868a1a:
+
+    "La incomodidad en mi voz hace que Rosa se sienta todavía más dividida."
+
+# ba_chp5:801
+translate es badAppleChapter5_785a573a:
+
+    Ro "Sí… Intenté no perderlos de vista todo lo que pude, mirando desde lejos. Cuando vi que Trish iba tras ustedes al salir del arcade, supe que tenía que hacer algo."
+
+# ba_chp5:803
+translate es badAppleChapter5_45f9d413:
+
+    "No sé qué sentir con todo esto…"
+
+# ba_chp5:805
+translate es badAppleChapter5_ea666d55:
+
+    "Por un lado, me siento incómodo al saber que sus padres básicamente le pidieron a Rosa que nos siguiera a escondidas a Stella y a mí. ¿También nos siguió en la tienda de boba?"
+
+# ba_chp5:807
+translate es badAppleChapter5_07a93110:
+
+    "Pero, por otro lado, una parte de mí agradece que Rosa estuviera ahí para ayudar. Si hubiera tardado un segundo más… Las cosas podrían haber sido peores para Stella. Pero aun así."
+
+# ba_chp5:809
+translate es badAppleChapter5_b32f7806:
+
+    A "¿Y aquel día, hace como una o dos semanas, cuando ustedes me encontraron?"
+
+# ba_chp5:811
+translate es badAppleChapter5_28b02228:
+
+    "Pregunto, todavía tratando de entender qué acuerdo exacto tienen los padres de Stella con Rosa."
+
+# ba_chp5:813
+translate es badAppleChapter5_2de45c88:
+
+    "Stella entró sola a la farmacia, hasta que me vio y salió corriendo en dirección contraria."
+
+# ba_chp5:815
+translate es badAppleChapter5_7fee7e24:
+
+    "La aquilops color canela suelta otro suspiro y mira de reojo a la pareja de estegosaurios."
+
+# ba_chp5:817
+translate es badAppleChapter5_6ad3abea:
+
+    Ro "Sí."
+
+# ba_chp5:819
+translate es badAppleChapter5_7ec6db61:
+
+    "Dice Rosa, pensativa, mientras se hunde en su silla."
+
+# ba_chp5:823
+translate es badAppleChapter5_77b20731:
+
+    Ro "Era la primera vez desde julio que íbamos a algún lugar que no fuera mi casa o la suya. Me ofrecí a entrar con ella porque se notaba que le daba miedo estar fuera de casa, pero insistió en entrar sola."
+
+# ba_chp5:825
+translate es badAppleChapter5_72aef63c:
+
+    "Y yo sé muy bien cómo terminó eso…"
+
+# ba_chp5:831
+translate es badAppleChapter5_414cc268:
+
+    Ro "Cuando volvió al carro en pleno ataque de pánico, pensé en llevarla a dar una vuelta para calmarla, hasta que… Bueno, ya sabes."
+
+# ba_chp5:835
+translate es badAppleChapter5_61876b3b:
+
+    StDad "Solo queríamos asegurarnos de que nuestra hija estuviera a salvo. Recurrimos a Rosa porque era la única amiga que le quedaba, y pensamos que la ayudaría a sanar y a no tener tanto miedo."
+
+# ba_chp5:837
+translate es badAppleChapter5_2aaab9ee:
+
+    StDad "Es-{nw}"
+
+# ba_chp5:843
+translate es badAppleChapter5_658ccb13:
+
+    "Antes de que pueda decir más, el repiqueteo de unas patitas sobre el piso de madera llena el aire y Ghibli entra corriendo a la sala, emocionada."
+
+# ba_chp5:855
+translate es badAppleChapter5_749e1b2d:
+
+    St "Ustedes… Ustedes me mintieron…"
+
+# ba_chp5:861
+translate es badAppleChapter5_171bbaf3:
+
+    "Me giro hacia la voz temblorosa a mis espaldas y veo a Stella de pie en la puerta, fulminando a sus padres con los ojos llenos de lágrimas."
+
+# ba_chp5:884
+translate es badAppleChapter5_73d9d010:
+
+    "Su padre le devuelve la mirada, sorprendido."
+
+# ba_chp5:892
+translate es badAppleChapter5_67f70096:
+
+    StDad "S-Stella, ¿cuánto escu-{nw}"
+
+# ba_chp5:896
+translate es badAppleChapter5_0e06eaa9:
+
+    St "Escuché lo suficiente…"
+
+# ba_chp5:898
+translate es badAppleChapter5_79014369:
+
+    St "¡¿Tienen idea de cuánto me odio ya a mí misma?!"
+
+# ba_chp5:900
+translate es badAppleChapter5_b94b3bfc:
+
+    "Stella se vuelve hacia Rosa y, con la mano en alto, la señala furiosa."
+
+# ba_chp5:902
+translate es badAppleChapter5_aac159ee:
+
+    St "¿D-de verdad querías pasar tiempo conmigo? ¿O no era más que un trabajo para ti? ¡¿Una niña triste y solitaria a la que cuidar para mis padres?!"
+
+# ba_chp5:906
+translate es badAppleChapter5_0fde6a3f:
+
+    Ro "Stella… hermana, yo-"
+
+# ba_chp5:908
+translate es badAppleChapter5_a074a9f3:
+
+    St "¡¿O solo querías sentirte menos culpable después de que Fang abriera fuego en nuestra escuela?!"
+
+# ba_chp5:916
+translate es badAppleChapter5_e1d2928a:
+
+    St "¡¡Ya siento que no soy más que una carga para todos!! Y justo cuando creía que, por una vez, no estaba sola, me recuerdas que hay…"
+
+# ba_chp5:918
+translate es badAppleChapter5_d334993a:
+
+    "La voz de Stella se quiebra cada vez más; le cuesta seguir."
+
+# ba_chp5:924
+translate es badAppleChapter5_a0e5b12d:
+
+    St "Q-que hay…"
+
+# ba_chp5:926
+translate es badAppleChapter5_205c6866:
+
+    "Stella se queda paralizada en la puerta. Le tiembla todo el cuerpo con un torbellino de emociones dolorosas, y las lágrimas le corren por las mejillas."
+
+# ba_chp5:935
+translate es badAppleChapter5_ba5fda3e:
+
+    "Antes de que pueda seguir, sale corriendo de la sala; sus sollozos llenan el pasillo, seguidos del crujido de pasos en la escalera de madera."
+
+# ba_chp5:943
+translate es badAppleChapter5_68751091:
+
+    StMom "¡S-Stella! ¡Attends!"
+
+# ba_chp5:947
+translate es badAppleChapter5_3dfb0240:
+
+    "Su madre la llama a gritos para que vuelva, pero es inútil."
+
+# ba_chp5:951
+translate es badAppleChapter5_23b0898f:
+
+    "La matriarca de los Baudelaire suspira, derrotada, mientras su esposo le pone la mano sobre la suya."
+
+# ba_chp5:953
+translate es badAppleChapter5_53f016e0:
+
+    StMom "No queríamos hacerla sentir así… Solo queríamos protegerla, asegurarnos de que estuviera a salvo."
+
+# ba_chp5:955
+translate es badAppleChapter5_94068217:
+
+    "Yo… no sé bien qué sentir con todo esto. Entiendo la frustración de Stella porque sus padres sean ‘sobreprotectores’. Pero, al mismo tiempo, tienen razón en ser 'sobreprotectores'."
+
+# ba_chp5:957
+translate es badAppleChapter5_2518c006:
+
+    "El silencio envuelve la sala durante un buen par de segundos. Nadie se mira a los ojos. El padre de Stella se sube los lentes para frotarse los ojos, y su madre mira por la ventana con tristeza. Rosa tiene la vista clavada en el suelo, pensativa."
+
+# ba_chp5:961
+translate es badAppleChapter5_cbdef3ef:
+
+    StDad "Nous sommes désolés. Perdonen todo esto."
+
+# ba_chp5:963
+translate es badAppleChapter5_d795b0d7:
+
+    "El padre de Stella es el primero en romper el silencio."
+
+# ba_chp5:971
+translate es badAppleChapter5_266d5754:
+
+    StDad "Creo que lo mejor será darle a Stella algo de tiempo; hablaremos con ella cuando sea el momento."
+
+# ba_chp5:973
+translate es badAppleChapter5_92e00ef1:
+
+    A "Creo que es lo mejor. Gracias a los dos… por recibirnos en su casa."
+
+# ba_chp5:975
+translate es badAppleChapter5_f8b7d6c0:
+
+    StDad "No digas tonterías, muchacho. Gracias a ustedes dos por proteger a nuestra hija y por estar a su lado. Significa muchísimo para todos nosotros."
+
+# ba_chp5:977
+translate es badAppleChapter5_4832e6c2:
+
+    StDad "Lamento tener que pedirles que se vayan tan pronto."
+
+# ba_chp5:979
+translate es badAppleChapter5_66583291:
+
+    A "No pasa nada. Lo entiendo perfectamente, señor. Espero que Stella esté bien."
+
+# ba_chp5:988
+translate es badAppleChapter5_0d829dae:
+
+    "Rosa se levanta de su asiento y me mira con una expresión neutra, muy poco propia de ella."
+
+# ba_chp5:990
+translate es badAppleChapter5_6043a25e:
+
+    Ro "Vamos An-on, te llevo a tu casa, pero antes necesito hablar contigo un momento afuera…"
+
+# ba_chp5:994
+translate es badAppleChapter5_b3ea8ca4:
+
+    "Esto… no suena nada bien."
+
+# ba_chp5:998
+translate es badAppleChapter5_3329e036:
+
+    "Me levanto torpemente del asiento mientras Rosa me alcanza las muletas, y la perrita de la familia da saltitos por la sala, emocionada de ver a todo el mundo ponerse de pie, sin enterarse en absoluto del ambiente que hay."
+
+# ba_chp5:1005
+translate es badAppleChapter5_ee263bc7:
+
+    StDog "¡Awoooraughrraugh!"
+
+# ba_chp5:1007
+translate es badAppleChapter5_1c48d586:
+
+    "Maldita sea, ¿por qué mis padres nunca me compraron un perro?"
+
+# ba_chp5:1025
+translate es badAppleChapter5_d9bd6ae0:
+
+    "Rosa me da las muletas sin decir nada y los dos salimos de la casa, con la samoyedo peludita siguiéndonos como si nos escoltara hasta la puerta."
+
+# ba_chp5:1029
+translate es badAppleChapter5_2a74acb9:
+
+    StDad "¡Au Revoir, ustedes dos! ¡Que lleguen bien a casa!"
+
+# ba_chp5:1031
+translate es badAppleChapter5_f35b2fec:
+
+    "El papá de Stella se despide desde la sala mientras Rosa abre la puerta."
+
+# ba_chp5:1051
+translate es badAppleChapter5_3315efec:
+
+    "Salimos los dos de la casa y quedamos frente al carro de Rosa y el de los padres de Stella. Oigo una puerta cerrarse detrás de mí. Ahora viene lo divertido."
+
+# ba_chp5:1057
+translate es badAppleChapter5_c68b9ceb:
+
+    A "Entonces… ¿de qué querías hablar, Rosa?"
+
+# ba_chp5:1059
+translate es badAppleChapter5_7ebca4d1:
+
+    "Pregunto, con los nervios bien notorios en la voz, mientras me doy vuelta y veo que Rosa sigue de espaldas a mí."
+
+# ba_chp5:1063
+translate es badAppleChapter5_ea20f750:
+
+    Ro "Chico estúpido…"
+
+# ba_chp5:1070
+translate es badAppleChapter5_84a914f6:
+
+    "Murmura Rosa con frialdad antes de darse vuelta hacia mí. La furia que desprende llena de inquietud el aire a mi alrededor."
+
+# ba_chp5:1078
+translate es badAppleChapter5_3d8c3c9e:
+
+    Ro "¡¿Por qué pensaste que era una buena idea llevar a Stella sola a un centro comercial lleno de gente?!"
+
+# ba_chp5:1080
+translate es badAppleChapter5_cce4ca2b:
+
+    "La aquilops gruñe, furiosa."
+
+# ba_chp5:1085
+translate es badAppleChapter5_1ffaa0b5:
+
+    Ro "¿EN SU ESTADO? ¡¿ERES TAN JODIDAMENTE ESTÚPIDO?!" with hpunch
+
+# ba_chp5:1090
+translate es badAppleChapter5_d3b4d1a2:
+
+    "Rosa estalla en una diatriba furiosa contra mí en español. Cada palabra y cada sílaba suenan más enojadas que la anterior, hasta el punto de que no entiendo ni una sola palabra de lo que dice."
+
+# ba_chp5:1095
+translate es badAppleChapter5_ac5db456:
+
+    A "¡Rosa, BASTA!" with vpunch
+
+# ba_chp5:1097
+translate es badAppleChapter5_283c1544:
+
+    A "¡Yo no quería que pasara nada de esto!"
+
+# ba_chp5:1101
+translate es badAppleChapter5_71453504:
+
+    "Doy un paso atrás para tomar aire e intento apoyarme en los muros de piedra de la casa de los Baudelaire."
+
+# ba_chp5:1103
+translate es badAppleChapter5_23443561:
+
+    A "¡Yo no le pedí a Trish que me rompiera la puta pierna! ¡Ni que intentara matarnos a los dos en el centro comercial!"
+
+# ba_chp5:1105
+translate es badAppleChapter5_df58c9ee:
+
+    "Mi defensa no basta para que la dino enfurecida deje de despotricar."
+
+# ba_chp5:1107
+translate es badAppleChapter5_cc3a883c:
+
+    Ro "¡¿Entonces por qué no me avisaste?! ¿Qué te hace pensar que sabes manejar el trauma de Stella tan bien como su mejor amiga? ¡¿O su familia?!"
+
+# ba_chp5:1109
+translate es badAppleChapter5_aa9675a1:
+
+    "Siento como si me retorcieran un cuchillo en las tripas por la forma en que lo dijo, apartándome de 'su mejor amiga' y de 'su familia'."
+
+# ba_chp5:1111
+translate es badAppleChapter5_09d9c498:
+
+    A "Solo quería pasarla bien con ella, y por una vez…"
+
+# ba_chp5:1115
+translate es badAppleChapter5_05c1426e:
+
+    A "¡{b}POR UNA VEZ{/b}, PODER OLVIDARME DEL PUTO DESASTRE QUE ES MI VIDA!"
+
+# ba_chp5:1117
+translate es badAppleChapter5_4b5ad590:
+
+    "Tardo un segundo en darme cuenta de que mi respuesta se volvió un grito, mientras todas las emociones reprimidas empiezan a desbordarse."
+
+# ba_chp5:1121
+translate es badAppleChapter5_d54aaac3:
+
+    A "{cps=*.33}Me gusta Stella…{/cps}{w=.25} Mucho, y solo quería hacerla feliz y, tal vez, solo tal vez, ayudarla a olvidar también su propio dolor."
+
+# ba_chp5:1123
+translate es badAppleChapter5_b3fd780f:
+
+    A "Nunca quise lastimarla ni empeorar las cosas. Yo solo… carajo."
+
+# ba_chp5:1125
+translate es badAppleChapter5_15065667:
+
+    "Cada vez me cuesta más decir lo que quiero; se me aprieta el pecho y me pesan los ojos. Levanto la vista hacia Rosa, y su enojo se va convirtiendo en algo de sorpresa."
+
+# ba_chp5:1129
+translate es badAppleChapter5_b7955326:
+
+    A "Quizá sí es mi culpa… Ya lastimé a tanta gente sin querer. Pero ni se te ocurra pensar ni por un segundo que yo quería que esto les pasara a las únicas personas que me quedan en la vida."
+
+# ba_chp5:1131
+translate es badAppleChapter5_4a3ba843:
+
+    "Se me empieza a quebrar la voz mientras su expresión se suaviza cada vez más."
+
+# ba_chp5:1133
+translate es badAppleChapter5_daab0cf8:
+
+    A "{cps=*.33}…Estoy jodidamente aterrado, Rosa…{/cps}"
+
+# ba_chp5:1135
+translate es badAppleChapter5_be5abcd7:
+
+    "Las palabras salen de mis labios mientras empiezan a caerme lágrimas, una sensación que se me ha vuelto familiar desde que me reencontré con Rosa y Stella."
+
+# ba_chp5:1137
+translate es badAppleChapter5_b96f2c4d:
+
+    Ro "¿Estás... aterrado?"
+
+# ba_chp5:1139
+translate es badAppleChapter5_250fd2ee:
+
+    "Pregunta, y ahora su enojo se va convirtiendo en preocupación."
+
+# ba_chp5:1141
+translate es badAppleChapter5_b44d29aa:
+
+    A "M-me aterra volver a cagarla, con las dos. Estos últimos cinco meses me sentí como un cadáver ambulante sin futuro, pero ¿cuando las volví a encontrar? Sentí que la vida valía la pena otra vez."
+
+# ba_chp5:1143
+translate es badAppleChapter5_30bc2814:
+
+    "La voz me tiembla cada vez más, y cada palabra me cuesta más que la anterior."
+
+# ba_chp5:1145
+translate es badAppleChapter5_a53361ad:
+
+    A "Tú y Stella son las dos únicas cosas buenas que me quedan en la vida, y no quiero perderlas también, carajo…"
+
+# ba_chp5:1147
+translate es badAppleChapter5_b70a6c87:
+
+    "Se me entrecorta la respiración, completamente abrumado por todo lo que me golpeó no solo hoy, sino durante el último medio año, quizá incluso desde antes."
+
+# ba_chp5:1156
+translate es badAppleChapter5_32ac83e7:
+
+    "Rosa me mira, dividida, sin saber si enojarse o compadecerse de mí. Una parte de mí entendería que eligiera lo primero, pero no quiero por nada del mundo arruinar una de las pocas cosas buenas que me quedan."
+
+# ba_chp5:1160
+translate es badAppleChapter5_ca6e4f49:
+
+    "Se gira hacia su carro, murmurando en voz baja en español. 'Dios mío' es lo único que logro entenderle."
+
+# ba_chp5:1162
+translate es badAppleChapter5_763653e5:
+
+    Ro "V-vámonos, Anon. Ya hablaremos de esto después…"
+
+# ba_chp5:1178
+translate es badAppleChapter5_4f57086d:
+
+    "Obedezco y los dos vamos hacia su carro; abro la puerta y me meto como puedo, torpemente."
+
+# ba_chp5:1182
+translate es badAppleChapter5_065189c5:
+
+    "Cuando estoy a punto de cerrarla, la veo otra vez."
+
+# ba_chp5:1191
+translate es badAppleChapter5_02583db0:
+
+    "Fang."
+
+# ba_chp5:1195
+translate es badAppleChapter5_c47b753f:
+
+    "Está parada a unos buenos tres metros de mí, en la entrada de la casa del vecino. Pero, a diferencia de su habitual presencia llena de rabia u odio, se ve…"
+
+# ba_chp5:1199
+translate es badAppleChapter5_31898d5e:
+
+    "Angustiada…"
+
+# ba_chp5:1201
+translate es badAppleChapter5_a6496c2b:
+
+    "Tiene la mirada clavada en el suelo; la aparición ni siquiera mira a los ojos a la persona a la que se supone que atormenta."
+
+# ba_chp5:1207
+translate es badAppleChapter5_b5e72dc8:
+
+    "Sin saber qué pensar de todo esto, cierro la puerta mientras Rosa enciende el motor sin decir una palabra."
+
+# ba_chp5:1215
+translate es badAppleChapter5_5b39be73:
+
+    "Pasaron unos cuatro días y sigo sin saber nada de Stella. Le escribí por lo menos cinco veces y hasta intenté llamarla. Pero nunca contestó."
+
+# ba_chp5:1219
+translate es badAppleChapter5_58584e9b:
+
+    "(TÚ) mié  1:43 PM:{fast}{i} hola stella, como lo estas llevando?"
+
+# ba_chp5:1221
+translate es badAppleChapter5_de73a337:
+
+    "(TÚ) jue  7:36 PM:{fast}{b} (IMAGEN ADJUNTA){/b}{i} vi este meme despues de ver una de las series q me recomendaste, pense q te gustaria"
+
+# ba_chp5:1223
+translate es badAppleChapter5_f4018789:
+
+    "(TÚ) vie  4:38 PM:{fast}{i} oye, segura q todo esta bien? me estoy preocupando x ti"
+
+# ba_chp5:1225
+translate es badAppleChapter5_35a532f8:
+
+    "(TÚ) vie  9:51 PM:{fast}{i} stella estas ahi?"
+
+# ba_chp5:1227
+translate es badAppleChapter5_a211108e:
+
+    "(TÚ) sáb 11:04 AM:{fast}{i} por favor contesta"
+
+# ba_chp5:1231
+translate es badAppleChapter5_0f6b042f:
+
+    "Les preguntaría a sus padres si al menos tuviera su número; parecen buena gente. También probaría con Rosa si no fuera porque seguramente me odia ahora mismo, así que básicamente me queda una sola opción."
+
+# ba_chp5:1235
+translate es badAppleChapter5_2cdbb49e:
+
+    "Ir solo a su casa y ver cómo está con mis propios ojos."
+
+# ba_chp5:1241
+translate es badAppleChapter5_d53ea29b:
+
+    D "¡Listo, chico, llegamos!"
+
+# ba_chp5:1243
+translate es badAppleChapter5_30035bad:
+
+    "Supongo que el viaje en taxi fue más corto de lo que pensaba. No tomaba un taxi desde que fui al baile de graduación. Normalmente intento ahorrar todo lo que puedo de la ayuda del gobierno, pero estoy demasiado preocupado por Stella como para que me importe una mierda."
+
+# ba_chp5:1245
+translate es badAppleChapter5_b4754320:
+
+    A "Gracias. ¿Cuánto le debo?"
+
+# ba_chp5:1247
+translate es badAppleChapter5_e4c03ba2:
+
+    "Pregunto mientras busco la billetera, y mi mano toca en el bolsillo el cuero roto y remendado con pegamento."
+
+# ba_chp5:1249
+translate es badAppleChapter5_f4272de4:
+
+    D "Ahh, no te preocupes. ¡Este va por mi cuenta!"
+
+# ba_chp5:1251
+translate es badAppleChapter5_829e0a81:
+
+    "Me alegra ver que al menos alguien sigue igual después de todo."
+
+# ba_chp5:1253
+translate es badAppleChapter5_5bd841ef:
+
+    A "Gracias, de verdad se lo agradezco."
+
+# ba_chp5:1257
+translate es badAppleChapter5_b6b34528:
+
+    "Me despido de él, agarro las muletas y salgo del carro con cuidado, arrastrando los pies."
+
+# ba_chp5:1263
+translate es badAppleChapter5_138f217f:
+
+    "Segundos después de cerrar la puerta del sedán, un borrón amarillo sale disparado del vecindario, seguramente rompiendo varias leyes de tránsito en el camino."
+
+# ba_chp5:1271
+translate es badAppleChapter5_c7139cb2:
+
+    "Ignorando el olor abrumador a goma quemada, me quedo de pie frente a la casa de Stella, contemplando esa impresionante obra de arquitectura con su jardín bien cuidado y el Hadro Civic en la entrada. Que sus padres estén en casa me lo va a hacer mucho más fácil."
+
+# ba_chp5:1280
+translate es badAppleChapter5_2be1bf21:
+
+    "Llegué hasta aquí y, aun así, sigo sintiendo angustia y hasta miedo… ¿Y si Stella o sus padres no me quieren aquí? La pierna me pesa más con cada paso, hasta que se frena en seco…"
+
+# ba_chp5:1282
+translate es badAppleChapter5_40575354:
+
+    ghostNaser "{i}No…{w=.25} No pude hacer nada para ayudarla…{/i}"
+
+# ba_chp5:1289
+translate es badAppleChapter5_baafeacc:
+
+    "Giro la vista de golpe hacia Naser: el espectro está desplomado contra la puerta del garaje, con desesperación en los ojos en lugar de sadismo."
+
+# ba_chp5:1291
+translate es badAppleChapter5_8b17fe40:
+
+    ghostNaser "{i}Durante años… solo vi sufrir a mi hermana, y no pude hacer nada… Por más que intenté ayudarla, hasta que…{/i}"
+
+# ba_chp5:1293
+translate es badAppleChapter5_eed92422:
+
+    "Sé adónde va esto."
+
+# ba_chp5:1301
+translate es badAppleChapter5_ad449d31:
+
+    "Dejo al fantasma con sus pensamientos y camino hacia la puerta; esa estructura de madera me intimida mucho más de lo que debería. Bueno, aquí vamos…"
+
+# ba_chp5:1311
+translate es badAppleChapter5_cb1efa2e:
+
+    "Con la mano libre aprieto el botón al lado del marco de la puerta, y una melodía apagada resuena por la casa, seguida de un alboroto de ruidos que me toma desprevenido por un momento."
+
+# ba_chp5:1314
+translate es badAppleChapter5_85bbbd53:
+
+    StDog "¡¡¡WOOF!!! ¡WOOFWOOFWOOF! AwooRAuGHROWR"
+
+# ba_chp5:1316
+translate es badAppleChapter5_4c7fb69b:
+
+    "Entre el frenético repiqueteo de uñas sobre la madera, distingo una voz femenina que habla en un francés apagado y molesto, y que hace callar a la emocionada Ghibli. Debe de ser la mamá de Stella."
+
+# ba_chp5:1318
+translate es badAppleChapter5_b44cb459:
+
+    "Antes de que pueda darle más vueltas, la puerta se abre de par en par y confirma mis sospechas."
+
+# ba_chp5:1324
+translate es badAppleChapter5_350adb39:
+
+    StMom "¡Oh! Anon, ¿verdad? ¡Bonjour, pasa, por favor!"
+
+# ba_chp5:1326
+translate es badAppleChapter5_1e63f631:
+
+    "La matriarca de la familia Baudelaire me recibe con calidez y me invita a pasar, mientras la samoyedo sonriente da saltitos alrededor de su dueña, emocionada por tener visita."
+
+# ba_chp5:1328
+translate es badAppleChapter5_8e89bd5e:
+
+    A "G-gracias, señora."
+
+# ba_chp5:1332
+translate es badAppleChapter5_ad06329a:
+
+    "Digo con un hilo de voz mientras cruzo con cuidado el marco de la puerta, todavía descolocado por su hospitalidad."
+
+# ba_chp5:1346
+translate es badAppleChapter5_d307c4b9:
+
+    A "Quería pasar a ver si Stella estaba bien. Estos últimos días estuve preocupado por ella."
+
+# ba_chp5:1352
+translate es badAppleChapter5_fd5d385c:
+
+    "Su madre suelta un suspiro de derrota; supongo que sus intentos de hablar con Stella han ido igual de bien que los míos."
+
+# ba_chp5:1356
+translate es badAppleChapter5_b7473f07:
+
+    StMom "Me temo que Stella sigue bastante molesta con nosotros. Casi todos los días se niega a salir de su cuarto, y las pocas veces que sale, nos evita a su padre y a mí."
+
+# ba_chp5:1358
+translate es badAppleChapter5_a9d0354d:
+
+    StMom "Aun así, la oímos llorar desde su cuarto, y cada vez que intentamos consolarla, nos rechaza…"
+
+# ba_chp5:1360
+translate es badAppleChapter5_f466d6b5:
+
+    "Así que no soy el único… Me pregunto si por casualidad habló con Rosa."
+
+# ba_chp5:1362
+translate es badAppleChapter5_4c488af2:
+
+    StMom "Non, Rosa nos dijo que tampoco ha logrado hablar con ella."
+
+# ba_chp5:1364
+translate es badAppleChapter5_5008d6b2:
+
+    "A la mujer se le ilumina la cara de repente mientras murmura algo en francés."
+
+# ba_chp5:1366
+translate es badAppleChapter5_c095face:
+
+    StMom "Un momento… ¿tú has podido hablar con Stella por téléphone?"
+
+# ba_chp5:1368
+translate es badAppleChapter5_5562b336:
+
+    "Sí, por eso vine hasta aquí de la nada, sin avisar: porque hablé con ella."
+
+# ba_chp5:1372
+translate es badAppleChapter5_aa42da53:
+
+    A "No… Me temo que tampoco me ha contestado ningún mensaje. Por eso vine; me preocupaba que algo anduviera mal."
+
+# ba_chp5:1374
+translate es badAppleChapter5_155e78bd:
+
+    "Respondo con sinceridad, esperando que la madre de Stella me mire con desprecio en cualquier momento."
+
+# ba_chp5:1378
+translate es badAppleChapter5_39157ed7:
+
+    StMom "Qué amable de tu parte, mon cher."
+
+# ba_chp5:1380
+translate es badAppleChapter5_edf0ec05:
+
+    StMom "Por eso quería preguntarte, ¿podrías hablar con ella? Pareces ser el único con quien no está enojada."
+
+# ba_chp5:1382
+translate es badAppleChapter5_76fba8de:
+
+    "¿No está enojada conmigo? ¿Después de mis estúpidas decisiones? Me invade una mezcla de confusión y alivio."
+
+# ba_chp5:1384
+translate es badAppleChapter5_3e6188cc:
+
+    "¿Está en su cuarto ahora mismo?"
+
+# ba_chp5:1386
+translate es badAppleChapter5_0b6345af:
+
+    "¿Quizá, si estoy aquí, se anime más a salir para hablar con sus padres?"
+
+# ba_chp5:1388
+translate es badAppleChapter5_71c7b9fc:
+
+    StMom "¡Oui! ¿Por qué no subes con Ghibli y tocas a su puerta? Seguro que te deja entrar."
+
+# ba_chp5:1390
+translate es badAppleChapter5_0d433083:
+
+    "¿Quiere que yo… entre en el cuarto de su hija?"
+
+# ba_chp5:1392
+translate es badAppleChapter5_dcda7e05:
+
+    "La hija que me gusta… a solas."
+
+# ba_chp5:1394
+translate es badAppleChapter5_4cbe89e4:
+
+    "¿Eh?"
+
+# ba_chp5:1396
+translate es badAppleChapter5_f7e5f718:
+
+    "Deja de portarte como un retrasado, Anon. No es el momento."
+
+# ba_chp5:1400
+translate es badAppleChapter5_0b378231:
+
+    A "¡E-eh, sí, claro que puedo!"
+
+# ba_chp5:1402
+translate es badAppleChapter5_94762737:
+
+    StMom "Excelente. Sé que es mucho pedirte, así que te pido disculpas."
+
+# ba_chp5:1410
+translate es badAppleChapter5_d47809ed:
+
+    StMom "Su cuarto es la primera puerta a la derecha. No te vas a perder. Y otra vez, muchísimas gracias."
+
+# ba_chp5:1412
+translate es badAppleChapter5_4fcdf61f:
+
+    A "Soy yo quien debería darle las gracias, señora Baudelaire. Voy a intentar hablar con ella."
+
+# ba_chp5:1414
+translate es badAppleChapter5_42ea61e7:
+
+    "Suspiro aliviado, aunque todavía sorprendido de que no me haya echado."
+
+# ba_chp5:1416
+translate es badAppleChapter5_ae464923:
+
+    "La señora estego le dice algo en francés a la perrita peluda. Antes de que pueda reaccionar, Ghibli sube corriendo la escalera, toda entusiasmada, y se sienta arriba, jadeando hacia mí."
+
+# ba_chp5:1418
+translate es badAppleChapter5_035d461f:
+
+    "¿Cómo lograron enseñarle a un perro a seguir instrucciones tan precisas?"
+
+# ba_chp5:1420
+translate es badAppleChapter5_d1b869f2:
+
+    StMom "¡Merci! Estaré en el comedor si me necesitas."
+
+# ba_chp5:1422
+translate es badAppleChapter5_6b215477:
+
+    "Se despide con la mano y se va por el pasillo a la izquierda de la escalera."
+
+# ba_chp5:1432
+translate es badAppleChapter5_6abcfd10:
+
+    "Me agarro del pasamanos con una mano, sujeto las muletas bajo el brazo con la otra y empiezo a subir la escalera a saltitos."
+
+# ba_chp5:1434
+translate es badAppleChapter5_a08c00a1:
+
+    "Cuidado… cuidado… cuidado…"
+
+# ba_chp5:1436
+translate es badAppleChapter5_aee4981a:
+
+    "Tranquilo, Anon, es como jugar a la rayuela. Solo que, si pierdes, te jodes todavía más la pierna y te tocan otros seis meses de recuperación."
+
+# ba_chp5:1449
+translate es badAppleChapter5_64065e0f:
+
+    "A pesar de mis miedos, logro subir la escalera sin incidentes. La samoyedo sonriente se levanta y va hasta una puerta cerrada, guiándome al cuarto de Stella."
+
+# ba_chp5:1457
+translate es badAppleChapter5_2fb57662:
+
+    "Mientras cojeo hasta su puerta, el corazón se me hunde con cada paso. ¿Por qué me cuesta tanto? Me estuve preparando para esto durante todo el viaje."
+
+# ba_chp5:1459
+translate es badAppleChapter5_292b8ddb:
+
+    "Su madre sí dijo que no está enojada conmigo… Pero ¿y si eso cambió, o si solo supuso que no lo estaba cuando en realidad sí?"
+
+# ba_chp5:1461
+translate es badAppleChapter5_1977b5d1:
+
+    "Respira hondo, Anon. Cuenta hasta cuatro, inhala; cuenta hasta cuatro, exhala. Puedo hacerlo…"
+
+# ba_chp5:1463
+translate es badAppleChapter5_b40dd36d:
+
+    "Levanto la mano, que me pesa como si cargara un saco de piedras, y golpeo suavemente la puerta con los nudillos."
+
+# ba_chp5:1469
+translate es badAppleChapter5_5ca21fd6:
+
+    St "¡DÉJAME EN PAZ! ¡NO QUIERO HABLAR CONTIGO!"
+
+# ba_chp5:1473
+translate es badAppleChapter5_3b899b2c:
+
+    "Esa sensación de hundimiento en el pecho vuelve multiplicada por diez. Sabía que venir era un error."
+
+# ba_chp5:1475
+translate es badAppleChapter5_550e9c20:
+
+    A "Está bien, me voy… Lo sien-{nw}"
+
+# ba_chp5:1477
+translate es badAppleChapter5_544247e0:
+
+    St "ESPERA, ¿ANON?"
+
+# ba_chp5:1481
+translate es badAppleChapter5_1d408296:
+
+    "La voz apagada detrás de la puerta me interrumpe, seguida de un ruido de movimiento y pasos rápidos."
+
+# ba_chp5:1487
+translate es badAppleChapter5_e9f2d245:
+
+    "La puerta se abre de golpe y aparece una chica estegosaurio sorprendida, con solo una camiseta rosa enorme y unos shorts negros de pijama. Su pelo verde y abundante le cae suelto hasta los hombros, sin los moños de siempre. Bajo los ojos tiene unas ojeras oscuras, como un par de sombras."
+
+# ba_chp5:1501
+translate es badAppleChapter5_bd825fb2:
+
+    "Antes de que pueda fijarme más en su estado o en el cuarto detrás de ella, de repente me abraza y hunde la cabeza en mi pecho mientras empieza a murmurar."
+
+# ba_chp5:1507
+translate es badAppleChapter5_0ce9a8a5:
+
+    St "…Lo siento… Lo siento… Lo siento…"
+
+# ba_chp5:1509
+translate es badAppleChapter5_d452d212:
+
+    "Su voz apagada parece tener un tono de alivio, igual que lo que yo siento."
+
+# ba_chp5:1511
+translate es badAppleChapter5_becca031:
+
+    A "Oye… Oye, está bien… No tienes que disculparte por nada…"
+
+# ba_chp5:1513
+translate es badAppleChapter5_eb1b0de4:
+
+    "Le devuelvo el abrazo mientras su pecho se aprieta contra el mío; su cuerpo tiembla pegado al mío y me cuesta mantener el equilibrio."
+
+# ba_chp5:1515
+translate es badAppleChapter5_df1308e8:
+
+    "Aun así, su abrazo cálido y suave me calma la mente, como si todas las preocupaciones por ella que me atormentaron estos últimos días por fin se las llevaran unas olas suaves en la playa."
+
+# ba_chp5:1524
+translate es badAppleChapter5_e2f3f210:
+
+    "Después de un par de segundos, Stella se aparta y me mira con los ojos muy abiertos."
+
+# ba_chp5:1526
+translate es badAppleChapter5_d4bcf22e:
+
+    A "Me alegra tanto verte. Estaba muy preocupado después de nuestra… cita… Estabas tan angustiada y triste, y no contestabas ninguna de mis llamadas y yo-"
+
+# ba_chp5:1528
+translate es badAppleChapter5_7f0088fb:
+
+    "Me detengo al darme cuenta de que me estoy enredando con las palabras, y Stella empieza a mirarme como si fuera por {i}mí{/i} por quien tuviera que preocuparse."
+
+# ba_chp5:1530
+translate es badAppleChapter5_920f6b66:
+
+    A "P-perdón, lo que intento decir es que… quería venir a ver si estabas bien."
+
+# ba_chp5:1534
+translate es badAppleChapter5_eef707c8:
+
+    "Una sonrisa triste aparece en los labios de la estego verde lima mientras me toma la mano."
+
+# ba_chp5:1539
+translate es badAppleChapter5_84ec4941:
+
+    St "Eres demasiado dulce, Anon, yo…"
+
+# ba_chp5:1541
+translate es badAppleChapter5_6f7029fd:
+
+    St "Debí avisarte de lo que estaba pasando. Lo siento…"
+
+# ba_chp5:1543
+translate es badAppleChapter5_cf38deef:
+
+    "Se ve muy afectada por haberme dejado sin noticias. Se disculpa tanto que hasta a un canadiense le parecería excesivo. Pero antes de que pueda volver a asegurarle que no estoy enojado con ella, saca el tema."
+
+# ba_chp5:1545
+translate es badAppleChapter5_f33062a2:
+
+    St "¿Te… parece bien si hablamos de eso en mi cuarto? De todo lo que ha estado pasando, quiero decir…"
+
+# ba_chp5:1547
+translate es badAppleChapter5_bb43aa76:
+
+    "Siento que el corazón se me detiene un segundo y todo mi cuerpo se congela. Una chica me está pidiendo que entre en su cuarto."
+
+# ba_chp5:1549
+translate es badAppleChapter5_41487181:
+
+    "¡UNA CHICA QUE ME GUSTA ME ESTÁ PIDIENDO QUE ENTRE EN SU CUARTO!"
+
+# ba_chp5:1551
+translate es badAppleChapter5_fade0e4c:
+
+    "¡ACTIVAR TODAS LAS MEDIDAS DE CONTENCIÓN DE ESPAGUETI!"
+
+# ba_chp5:1553
+translate es badAppleChapter5_c0b0536d:
+
+    "PRIORIDAD NÚMERO UNO"
+
+# ba_chp5:1555
+translate es badAppleChapter5_60f7571e:
+
+    A "¡S-sí, c-claro!"
+
+# ba_chp5:1557
+translate es badAppleChapter5_f1ffe852:
+
+    "Lo digo con un hilo de voz, bastante patético, mientras Stella se da vuelta y vuelve a entrar en su cuarto."
+
+# ba_chp5:1561
+translate es badAppleChapter5_50dc4165:
+
+    "La sigo, cruzo el marco de la puerta y recorro su cuarto con la mirada."
+
+# ba_chp5:1567
+translate es badAppleChapter5_1061405d:
+
+    "Por un lado, no puedo decir que me sorprenda, pero por otro, estoy realmente impresionado."
+
+# ba_chp5:1585
+translate es badAppleChapter5_12dc2f4c:
+
+    "Stella y Ghibli van hacia la derecha del centro del cuarto, donde hay una cama enorme, tamaño queen, con mantas rosas."
+
+# ba_chp5:1595
+translate es badAppleChapter5_10ba8876:
+
+    "Stella se sienta a los pies de la cama, mientras Ghibli se camufla entre las almohadas blancas y esponjosas de la cabecera."
+
+# ba_chp5:1599
+translate es badAppleChapter5_2cec7c60:
+
+    "Su cuarto está sorprendentemente ordenado para alguien que parece tan deprimida. Desde luego, lo hace mejor que yo. Sus paredes celestes están decoradas con pósters de animes populares y cuadros de temática astrológica."
+
+# ba_chp5:1601
+translate es badAppleChapter5_2fe287eb:
+
+    "Enseguida distingo cuáles pintó ella misma. Hay figuras de anime y mangas desperdigados por su tocador y sus mesitas de noche."
+
+# ba_chp5:1603
+translate es badAppleChapter5_673e625b:
+
+    "Y frente a la cama hay una tele de buen tamaño, con una pila de cajas de juegos a la izquierda y una PachyStation 5 a la derecha."
+
+# ba_chp5:1605
+translate es badAppleChapter5_3d99b3b6:
+
+    "¿Cómo carajo consiguió Stella una? La última vez que me fijé estaban agotadas en todas partes, gracias, cómo no, a los rhinorex que las compran todas y las revenden por 300 dólares más."
+
+# ba_chp5:1609
+translate es badAppleChapter5_4e9bfdf5:
+
+    St "Y… ¿te gusta?"
+
+# ba_chp5:1611
+translate es badAppleChapter5_8c0f0022:
+
+    "La pregunta tímida de Stella me hace darme cuenta de que básicamente me he quedado mirando su cuarto un par de segundos."
+
+# ba_chp5:1613
+translate es badAppleChapter5_667eb9d4:
+
+    "Bien hecho, Anon. Ahora cree que eres un raro Y un retrasado."
+
+# ba_chp5:1615
+translate es badAppleChapter5_629fb4e0:
+
+    A "Sí… tu cuarto está bastante bien."
+
+# ba_chp5:1617
+translate es badAppleChapter5_5c412b6e:
+
+    "¡Vamos, puedes hacerlo mejor que eso, Anon!"
+
+# ba_chp5:1619
+translate es badAppleChapter5_b876ffd4:
+
+    A "Entonces, eh… ¿de qué querías hablar?"
+
+# ba_chp5:1621
+translate es badAppleChapter5_516f938d:
+
+    "Stella da unas palmaditas en la cama a su lado para que me siente con ella, mientras se prepara mentalmente para lo que va a decir."
+
+# ba_chp5:1631
+translate es badAppleChapter5_aa660b29:
+
+    "Obedezco y me siento, apoyando las muletas a un lado. La cama es absurdamente cómoda y casi me distrae, pero estoy demasiado pendiente de Stella como para fijarme."
+
+# ba_chp5:1639
+translate es badAppleChapter5_1350cc6e:
+
+    St "Entonces… ¿cuánto te contaron mis{i} padres {/i} el otro día?"
+
+# ba_chp5:1641
+translate es badAppleChapter5_ec3600e4:
+
+    "Suspira, y la 'palabra con P' le sale con un poco de veneno."
+
+# ba_chp5:1643
+translate es badAppleChapter5_8182c19d:
+
+    "¿Está bien que le conteste? ¿No va a empeorar las cosas?"
+
+# ba_chp5:1647
+translate es badAppleChapter5_c76ae41a:
+
+    A "¿Estás segura? No tenemos que hacerlo si-"
+
+# ba_chp5:1651
+translate es badAppleChapter5_6abae105:
+
+    St "Por favor, Anon. Necesito saberlo."
+
+# ba_chp5:1653
+translate es badAppleChapter5_b7bba975:
+
+    "A pesar de mis reticencias, ella insiste, decidida a saber todo lo que me contaron de ella."
+
+# ba_chp5:1655
+translate es badAppleChapter5_db233dc8:
+
+    "Merece saber la verdad, y necesita saber que no la culpo ni la juzgo por esto."
+
+# ba_chp5:1661
+translate es badAppleChapter5_29c7e839:
+
+    A "Me… me contaron lo difícil que fue para ti crecer con síndrome de Asperger, y que casi moriste durante el tiroteo."
+
+# ba_chp5:1663
+translate es badAppleChapter5_3542a26a:
+
+    "Respondo con tacto, con cuidado de no decir nada que pueda alterarla."
+
+# ba_chp5:1667
+translate es badAppleChapter5_75252158:
+
+    "Stella aparta la mirada y se queda callada un momento, analizando mis palabras."
+
+# ba_chp5:1673
+translate es badAppleChapter5_a5c90008:
+
+    St "¿Hubo algo más?"
+
+# ba_chp5:1675
+translate es badAppleChapter5_ea02d66b:
+
+    A "Tu mamá casi mencionó algo de una amiga tuya, pero se detuvo antes de decir nada más…"
+
+# ba_chp5:1677
+translate es badAppleChapter5_09b1179d:
+
+    "Lo que le cuento hace que la estego agache la cabeza, con el ceño triste, aunque no le sale ni una lágrima."
+
+# ba_chp5:1681
+translate es badAppleChapter5_3063fbc4:
+
+    St "{cps=*.25}Sage…{/cps}"
+
+# ba_chp5:1683
+translate es badAppleChapter5_09a15b4f:
+
+    A "¿Sage?"
+
+# ba_chp5:1685
+translate es badAppleChapter5_120326f7:
+
+    St "Hablaba de Sage."
+
+# ba_chp5:1687
+translate es badAppleChapter5_90803a97:
+
+    "Levanta la vista hacia mí con expresión afligida."
+
+# ba_chp5:1689
+translate es badAppleChapter5_2b8b35f2:
+
+    St "Sage fue una de mis mejores amigas de pequeña. Cuando tanta gente me molestaba, me insultaba o se burlaba de mí porque me gustaba el anime, Sage fue la única que me defendió y fue amable conmigo antes de que conociera a Rosa."
+
+# ba_chp5:1691
+translate es badAppleChapter5_ab61afc2:
+
+    "Su mano agarra el edredón y lo aprieta como una de esas pelotas antiestrés que venden en las tiendas de regalos."
+
+# ba_chp5:1693
+translate es badAppleChapter5_e22f5a52:
+
+    St "Era amable, aventurera y tenía un gran sentido del humor."
+
+# ba_chp5:1697
+translate es badAppleChapter5_5a052428:
+
+    St "Todos los fines de semana salíamos de noche o nos quedábamos juntas en casa viendo anime, o cualquier película. A ella siempre le encantaron las series más crudas, mientras que yo prefería cosas como Sailor Moon, Tokyo Mew Mew o PreCure."
+
+# ba_chp5:1699
+translate es badAppleChapter5_ce2702f1:
+
+    St "Pero nunca me importó qué viéramos. Solo me hacía feliz volver a pasar tiempo con ella. Era una verdadera amiga…"
+
+# ba_chp5:1703
+translate es badAppleChapter5_d20a5143:
+
+    St "Y entonces… hace un par de meses…"
+
+# ba_chp5:1705
+translate es badAppleChapter5_ef50bc53:
+
+    "Su tono se vuelve sombrío y me saca de golpe de sus recuerdos agradables."
+
+# ba_chp5:1707
+translate es badAppleChapter5_6a40c98b:
+
+    St "La clase acababa de empezar y parecía un día como cualquier otro. Naomi no paraba de hablar de sí misma porque ella y Naser habían sido rey y reina del baile. P-pero…"
+
+# ba_chp5:1711
+translate es badAppleChapter5_51c979af:
+
+    "Stella duda y vuelve a apretar el edredón mientras se prepara para desenterrar recuerdos dolorosos."
+
+# ba_chp5:1713
+translate es badAppleChapter5_d4a8b314:
+
+    St "La puerta se abrió de golpe y-y… Fang… mató a Naomi… justo delante de mí."
+
+# ba_chp5:1717
+translate es badAppleChapter5_3aedddd4:
+
+    "¿Ella estaba ahí? ¿Cuando empezó?"
+
+# ba_chp5:1719
+translate es badAppleChapter5_aa2f76e4:
+
+    "Siento un escalofrío extraño por todo el cuerpo y el corazón se me hunde cada vez más."
+
+# ba_chp5:1721
+translate es badAppleChapter5_1ce242d1:
+
+    St "Su hermano se acercó para intentar detenerla, pero… también le disparó… ¡A su propio hermano!"
+
+# ba_chp5:1725
+translate es badAppleChapter5_9161099b:
+
+    "El horror se dibuja en la cara de Stella, y le tiembla la voz como si la obligaran a revivir el pasado otra vez."
+
+# ba_chp5:1727
+translate es badAppleChapter5_a5c7564e:
+
+    St "Luego se volvió hacia mí y-y…"
+
+# ba_chp5:1729
+translate es badAppleChapter5_2a261f02:
+
+    "No… no… Por favor, no."
+
+# ba_chp5:1731
+translate es badAppleChapter5_25a811c6:
+
+    St "Me apuntó con el arma… a mí… ¡Casi me mata!"
+
+# ba_chp5:1733
+translate es badAppleChapter5_47cb58aa:
+
+    St "¡Yo nunca le hice nada! En el baile intenté que la gente dejara de reírse de ella, y siempre traté de ser amable con ella, pero intentó asesinarme… como si yo no fuera nada…"
+
+# ba_chp5:1735
+translate es badAppleChapter5_eb10c11d:
+
+    "Mi mente se llena de contradicciones; cada pregunta y cada miedo que tengo giran como un tornado."
+
+# ba_chp5:1737
+translate es badAppleChapter5_58dc10e2:
+
+    "¿Fang… casi mata a Stella?"
+
+# ba_chp5:1739
+translate es badAppleChapter5_49ef5175:
+
+    "¿Por qué? ¡¿POR QUÉ?!"
+
+# ba_chp5:1741
+translate es badAppleChapter5_c4623322:
+
+    "¡Ella no hizo nada malo!"
+
+# ba_chp5:1743
+translate es badAppleChapter5_362f18cc:
+
+    "¡Naomi se adueñó de su vida!"
+
+# ba_chp5:1745
+translate es badAppleChapter5_e0579eda:
+
+    "¡Yo le hice la vida un infierno!"
+
+# ba_chp5:1747
+translate es badAppleChapter5_4452ff9f:
+
+    "Yo merecía que me disparara, pero ¿Naser? ¿Stella? Ellos no hicieron nada malo."
+
+# ba_chp5:1749
+translate es badAppleChapter5_565e4e98:
+
+    "No sé qué sentir ahora mismo. Destrozado porque una chica tan buena como Stella estuvo a punto de sufrir un destino horrible. Furioso porque la chica que amaba hizo algo tan atroz."
+
+# ba_chp5:1751
+translate es badAppleChapter5_f7d8b9ee:
+
+    "¡MIERDA!"
+
+# ba_chp5:1753
+translate es badAppleChapter5_86e6197d:
+
+    St "Me… dejó ir. Todos empezaron a salir corriendo del salón, pero yo me quedé, escondida debajo del escritorio del profesor. Ni siquiera recuerdo cuánto tiempo estuve ahí, pero sí recuerdo que los de la ambulancia me sacaron a rastras…"
+
+# ba_chp5:1755
+translate es badAppleChapter5_df5ce68a:
+
+    "Mi mano encuentra la suya y ella la aprieta mientras sigue respirando hondo para recuperar la calma y dejar de temblar."
+
+# ba_chp5:1757
+translate es badAppleChapter5_27a67f1d:
+
+    St "I-intenté buscar a Sage después de lo que pasó. No contestaba ninguno de mis mensajes ni mis llamadas."
+
+# ba_chp5:1759
+translate es badAppleChapter5_5361547c:
+
+    St "M-me enteré… por sus padres… de que ella…"
+
+# ba_chp5:1761
+translate es badAppleChapter5_4fb9b9aa:
+
+    St "Estuvo en cuidados intensivos después del tiroteo; intentó escapar, pero se cayó y… los demás no dejaron de correr."
+
+# ba_chp5:1763
+translate es badAppleChapter5_82fc6c23:
+
+    "La estego afligida duda, intentando reunir fuerzas para seguir desenterrando el doloroso recuerdo del que trató de escapar."
+
+# ba_chp5:1765
+translate es badAppleChapter5_2a3955f7:
+
+    St "Fui a verla, pero estaba en coma…"
+
+# ba_chp5:1767
+translate es badAppleChapter5_7b4399fc:
+
+    St "La vi… conectada a unas máquinas, con tantos tubos. Tenía los pulmones colapsados y tantos huesos rotos… n-ni siquiera podía respirar sin estar conectada a un respirador."
+
+# ba_chp5:1769
+translate es badAppleChapter5_e8b25cb0:
+
+    St "Quería que despertara y supiera que yo estaba ahí, que iba a salir de esta y que iba a estar bien. Siempre fue muy fuerte, y yo sabía que podría superarlo…"
+
+# ba_chp5:1771
+translate es badAppleChapter5_05c1f1a2:
+
+    St "Pero unos días después… estaba a punto de irme a dormir y, mientras me lavaba los dientes, oí a mis padres llorando abajo."
+
+# ba_chp5:1773
+translate es badAppleChapter5_a9572366:
+
+    St "Ahí fue cuando me e-enteré…"
+
+# ba_chp5:1775
+translate es badAppleChapter5_b031b61b:
+
+    "La estego aprieta los párpados con fuerza; se le escapan las lágrimas y su voz suave empieza a temblar."
+
+# ba_chp5:1777
+translate es badAppleChapter5_99642279:
+
+    St "E-ella… no sobrevivió…"
+
+# ba_chp5:1782
+translate es badAppleChapter5_29eab2a2:
+
+    "La presa por fin se rompe y Stella llora en silencio tras contar una de las cosas más dolorosas que alguien puede vivir. Su fiel perrita se acurruca en la cama a su derecha, intentando consolarla. Las lágrimas le corren por la mejilla como lluvia de un cielo gris."
+
+# ba_chp5:1784
+translate es badAppleChapter5_ae2b5012:
+
+    "Se me rompe el corazón por ella."
+
+# ba_chp5:1786
+translate es badAppleChapter5_88c0d509:
+
+    "En este momento entiendo de verdad todo lo que Stella ha tenido que soportar."
+
+# ba_chp5:1788
+translate es badAppleChapter5_8daf1d41:
+
+    "Lo que tuvo que sufrir ese día, todo lo que perdió… se merece mucho más que esto."
+
+# ba_chp5:1790
+translate es badAppleChapter5_e076d4f1:
+
+    St "La extraño… La extraño muchísimo, Anon…"
+
+# ba_chp5:1795
+translate es badAppleChapter5_4f867557:
+
+    "Como si mi cuerpo se moviera solo, rodeo con los brazos a la estego afligida, que me devuelve el abrazo sin dudar."
+
+# ba_chp5:1797
+translate es badAppleChapter5_76f144e0:
+
+    A "Lo sé, Stella… Lo siento tanto… tanto, por todo lo que tuviste que pasar. Eres la última persona que merece pasar por un infierno así."
+
+# ba_chp5:1799
+translate es badAppleChapter5_8c7080a4:
+
+    "Contengo mis propias lágrimas mientras Stella apoya la barbilla en mi hombro."
+
+# ba_chp5:1803
+translate es badAppleChapter5_75d139c8:
+
+    St "Gracias, Anon. Eso significa para mí más de lo que imaginas…"
+
+# ba_chp5:1809
+translate es badAppleChapter5_628da125:
+
+    A "Debí ser mejor… Lo siento mucho, Stella…"
+
+# ba_chp5:1813
+translate es badAppleChapter5_8795a580:
+
+    St "¿Q-qué quieres decir?"
+
+# ba_chp5:1815
+translate es badAppleChapter5_a85e0929:
+
+    "Aparta la cabeza de mi hombro y me mira confundida con esos ojos brillantes."
+
+# ba_chp5:1817
+translate es badAppleChapter5_e265aea9:
+
+    "Tengo que ser honesto con ella: con lo que siento, con todo."
+
+# ba_chp5:1819
+translate es badAppleChapter5_09ee7fc0:
+
+    A "Lo siento mucho… por cómo te traté. No has sido más que amable conmigo desde el momento en que nos conocimos, y yo te lo pagué portándome como un imbécil egoísta."
+
+# ba_chp5:1821
+translate es badAppleChapter5_35b3b904:
+
+    "Anon…"
+
+# ba_chp5:1827
+translate es badAppleChapter5_bfdfd467:
+
+    St "Ya te dije que te perdono. No creo que el destino haya sido más amable contigo mientras crecías."
+
+# ba_chp5:1833
+translate es badAppleChapter5_2bf8a967:
+
+    "La sonrisa se le borra de los labios y baja la mirada, algo abatida."
+
+# ba_chp5:1835
+translate es badAppleChapter5_dbde17b4:
+
+    St "Ese día del proyector vi cuánto te dolió, y cómo te trataban los demás por eso. Así que quise animarte en los pasillos, para demostrarte que no estás solo…"
+
+# ba_chp5:1837
+translate es badAppleChapter5_e0f63561:
+
+    St "{i}{color=#d1d1d1}¡Tu waifu es genial y me encanta!{/color}{/i}"
+
+# ba_chp5:1841
+translate es badAppleChapter5_6d1ae203:
+
+    "Un comentario tonto que hizo en el peor momento posible, pero sin ninguna mala intención."
+
+# ba_chp5:1843
+translate es badAppleChapter5_b70b3f97:
+
+    "Antes le tenía envidia, por cómo podía presumir de lo que le apasiona sin miedo al desprecio ni al rechazo. No como yo, que desde que tengo memoria he tenido que esconderle al mundo quién soy. Solo ahora me doy cuenta de lo equivocado que estaba."
+
+# ba_chp5:1845
+translate es badAppleChapter5_8dea5c53:
+
+    "De lo cegado que estaba por la apatía y el miedo, que no me dejaban ver que había tantas personas que solo querían ser mis amigos."
+
+# ba_chp5:1847
+translate es badAppleChapter5_893bd26c:
+
+    "Igual que Fang, Stella encontró en mí un alma gemela. Y yo la traté como una mierda por eso…"
+
+# ba_chp5:1849
+translate es badAppleChapter5_cf482b8f:
+
+    "Pero se equivoca… Sí estoy solo, estoy solo desde el día en que nací… Todos estarían mucho mejor si yo estuviera muerto."
+
+# ba_chp5:1855
+translate es badAppleChapter5_c1bbb428:
+
+    St "¡¿Qué?!"
+
+# ba_chp5:1857
+translate es badAppleChapter5_9504f0b2:
+
+    St "¡Eso no es cierto para nada!"
+
+# ba_chp5:1859
+translate es badAppleChapter5_6842704e:
+
+    "Tardo un segundo en darme cuenta de lo que acabo de murmurar en voz alta. Lo que en el fondo he sentido por mí mismo estos últimos meses, aunque me faltaron huevos para hacerlo realidad."
+
+# ba_chp5:1863
+translate es badAppleChapter5_1ea5af5f:
+
+    A "Sí, Stella… sí lo es."
+
+# ba_chp5:1865
+translate es badAppleChapter5_e6d215ef:
+
+    "Me cuesta hablar; tengo un nudo en la garganta que no me deja."
+
+# ba_chp5:1871
+translate es badAppleChapter5_7b7d1895:
+
+    St "¿Por qué? ¿Por qué dirías eso de ti mismo?"
+
+# ba_chp5:1873
+translate es badAppleChapter5_ecb196d5:
+
+    "Me da miedo contárselo. Me preocupa asustarla o hacerla sentir peor solo con contarle lo jodida que ha sido mi vida. Cómo me convertí en un cascarón roto de hombre, hasta que... ella y Rosa volvieron a mi vida."
+
+# ba_chp5:1875
+translate es badAppleChapter5_8bdff15b:
+
+    "Ella sigue mirándome, expectante."
+
+# ba_chp5:1877
+translate es badAppleChapter5_86ee2c17:
+
+    "Al carajo… Ella me contó lo que ha sufrido. Lo justo es que yo haga lo mismo."
+
+# ba_chp5:1881
+translate es badAppleChapter5_f9670347:
+
+    A "Yo… no he sido el mismo desde que Fang abrió fuego en la escuela. Intenté detenerla y no pude…"
+
+# ba_chp5:1883
+translate es badAppleChapter5_e151c5b6:
+
+    "Me tiembla un poco la voz, y el nudo en la garganta pesa cada vez más."
+
+# ba_chp5:1885
+translate es badAppleChapter5_cb4e2ead:
+
+    A "Y vi morir a toda esa gente: a Naomi con los sesos desparramados contra la pared del salón, a todos esos alumnos muertos en el suelo, que intentaban escapar de ella, pero no pudieron…"
+
+# ba_chp5:1887
+translate es badAppleChapter5_5e59f133:
+
+    A "También vi a Naser, la mirada que me dio justo antes de morir… No me la puedo sacar de la cabeza."
+
+# ba_chp5:1889
+translate es badAppleChapter5_4512fcc3:
+
+    "Cierro los ojos por instinto e intento contener las lágrimas con cada fibra de mi ser, y cada segundo se vuelve más difícil."
+
+# ba_chp5:1891
+translate es badAppleChapter5_a8111964:
+
+    A "Y en la azotea… intenté detener a Fang. Le pedí que se quedara conmigo, que no me dejara solo, pero… saltó… Los mató a todos, y se mató ella, por mi culpa…"
+
+# ba_chp5:1893
+translate es badAppleChapter5_bd55ed2d:
+
+    "Se me empieza a quebrar la voz a medida que me hundo más…"
+
+# ba_chp5:1897
+translate es badAppleChapter5_7db88069:
+
+    A "Y todos los días desde que salí del hospital la sigo viendo, y a Naser y a Naomi también… Me persiguen, me atormentan por lo que hice, y por cómo f-fallé y-y-y-"
+
+# ba_chp5:1899
+translate es badAppleChapter5_4afeb911:
+
+    "Intento terminar, pero no me salen las palabras, por más que lo intento."
+
+# ba_chp5:1901
+translate es badAppleChapter5_1e120dfb:
+
+    "Stella me escucha con atención, y no me mira con desprecio ni incomodidad…"
+
+# ba_chp5:1903
+translate es badAppleChapter5_0f3d420d:
+
+    "Sino con auténtica compasión."
+
+# ba_chp5:1905
+translate es badAppleChapter5_34c1f3c4:
+
+    "Le cuento también cuánto me destroza la culpa de haber empujado a Fang a un camino oscuro, y adónde la llevó. Que lo único que me daba un poco de alivio de las pesadillas y las alucinaciones era un puñado de Adderall, un hábito que por suerte pude dejar cuando me quedé sin pastillas."
+
+# ba_chp5:1907
+translate es badAppleChapter5_6d1dd15b:
+
+    A "Justo cuando creía que las cosas podían ser distintas en el Instituto Volcano, encontré la manera de que mi simple existencia fuera un problema para todos."
+
+# ba_chp5:1909
+translate es badAppleChapter5_36de822b:
+
+    "A estas alturas, el que está al borde de las lágrimas soy {i}yo{/i}."
+
+# ba_chp5:1911
+translate es badAppleChapter5_44afef25:
+
+    A "Toda mi vida me sentí como basura. Como un parásito del mundo, y luego descubrí que tenía razó-"
+
+# ba_chp5:1926
+translate es badAppleChapter5_0cdc463a:
+
+    "Antes de que pueda terminar de lamentarme, Stella me abraza más fuerte; sus brazos y su cola me rodean el estómago con tanta fuerza que casi me asfixian."
+
+# ba_chp5:1928
+translate es badAppleChapter5_ff6a21eb:
+
+    St "Por favor, basta… No quiero volver a oírte decir nada malo de ti mismo."
+
+# ba_chp5:1930
+translate es badAppleChapter5_a00b784d:
+
+    "La tristeza le aprieta la voz, aunque habla con claridad y sin lágrimas."
+
+# ba_chp5:1932
+translate es badAppleChapter5_e8817caa:
+
+    St "El mundo sería un lugar más oscuro sin ti…"
+
+# ba_chp5:1934
+translate es badAppleChapter5_a154c73b:
+
+    "No podría estar más en desacuerdo, pero aun así sus palabras me toman por sorpresa."
+
+# ba_chp5:1936
+translate es badAppleChapter5_ff9f2810:
+
+    "Son exactamente las palabras que yo usaría para decir lo que siento por ella…"
+
+# ba_chp5:1945
+translate es badAppleChapter5_46439552:
+
+    St "Anon, necesito decirte algo…"
+
+# ba_chp5:1951
+translate es badAppleChapter5_b6497564:
+
+    "Stella levanta la mano derecha y me la apoya en un lado de la cabeza; la siento cálida contra mi piel."
+
+# ba_chp5:1953
+translate es badAppleChapter5_aea24bb8:
+
+    St "Volver a verte en esa farmacia me hizo más feliz que nada en mucho tiempo. Salí corriendo porque tenía miedo de no saber qué decir. Ni siquiera sabía si querías hablar conmigo, pero…"
+
+# ba_chp5:1955
+translate es badAppleChapter5_9cc97917:
+
+    "Stella me mira con los ojos muy abiertos mientras mi mejilla descansa en su palma."
+
+# ba_chp5:1960
+translate es badAppleChapter5_6f89a803:
+
+    St "Hace mucho que quería decírtelo, pero yo…"
+
+# ba_chp5:1962
+translate es badAppleChapter5_1511552c:
+
+    St "Yo… te amo, Anon…"
+
+# ba_chp5:1964
+translate es badAppleChapter5_45fd0aa9:
+
+    "{i}Cuatro palabras.{/i}"
+
+# ba_chp5:1966
+translate es badAppleChapter5_835333f9:
+
+    "Cuatro palabras son todo lo que hace falta para que todo el miedo que sentí hoy, cada remordimiento y cada pizca de dolor desaparezcan."
+
+# ba_chp5:1968
+translate es badAppleChapter5_c6c0ea20:
+
+    "Su abrazo cálido, su dulce sonrisa y sus ojos radiantes y hermosos son como un bálsamo para mi alma destrozada."
+
+# ba_chp5:1973
+translate es badAppleChapter5_0d55a4c1:
+
+    A "Por primera vez en este mundo, siento de verdad que no estoy solo…"
+
+# ba_chp5:1975
+translate es badAppleChapter5_0bf5bdd6:
+
+    "Sonrío y siento todo el cuerpo ligero de pura felicidad."
+
+# ba_chp5:1977
+translate es badAppleChapter5_65186f54:
+
+    A "…Yo también te amo, Stella…"
+
+# ba_chp5:1983
+translate es badAppleChapter5_15d3372c:
+
+    "Y sin decir nada más, Stella empieza a inclinarse apenas un poco hacia mí, y mi instinto me empuja a imitarla. Parece una eternidad mientras acortamos la distancia, hasta que por fin nuestros labios se entrelazan."
+
+# ba_chp5:1985
+translate es badAppleChapter5_2d2be9b9:
+
+    "Cuando empezamos a besarnos, siento que todo mi cuerpo flota de puro éxtasis: el sabor a vainilla de sus labios y el roce de su pelo suave como la seda contra mi cabeza."
+
+# ba_chp5:1991
+translate es badAppleChapter5_9995c74d:
+
+    "Nada más importa en este momento. Solo Stella."

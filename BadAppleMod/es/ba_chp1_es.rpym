@@ -1,0 +1,3230 @@
+# Bad Apple - traduccion al espanol latinoamericano (ba_chp1)
+# Version del parche: 1.0 (2026-11-22)
+# Para: Bad Apple (Team Starlight) sobre Snoot Game Patch 14 (Ren'Py 8.3.7.25031702)
+#
+# Capa de traduccion independiente: no modifica ningun archivo del mod ni del juego.
+# Archivo GENERADO por herramientas/construir.py. No lo edites a mano: la traduccion vive
+# en fuente/ y cada bloque de aqui abajo se refiere al guion original por archivo y linea.
+# Es un .rpym para que el cargador de mods del juego solo lo cargue con el mod activado.
+#
+# Bad Apple y Snoot Game pertenecen a sus autores. Esta es una traduccion de fans.
+
+# ba_chp1:13
+translate es badAppleChapter1_a20cefa7:
+
+    "..."
+
+# ba_chp1:14
+translate es badAppleChapter1_8307300e:
+
+    "{i}Nada de esto importa...{i}"
+
+# ba_chp1:15
+translate es badAppleChapter1_2d37cc34:
+
+    "O al menos eso quisiera creer."
+
+# ba_chp1:16
+translate es badAppleChapter1_614e19ec:
+
+    "Quiero creer que esto no es más que un tropiezo."
+
+# ba_chp1:17
+translate es badAppleChapter1_91b9d168:
+
+    "Un bache en el camino, una prueba de Jesús Raptor o de cualquier dios que ande por ahí, para hacerme más fuerte..."
+
+# ba_chp1:18
+translate es badAppleChapter1_a20cefa7_1:
+
+    "..."
+
+# ba_chp1:19
+translate es badAppleChapter1_871b0934:
+
+    "Eso es lo que me han dicho, por lo menos en varios foros y páginas de apoyo para el duelo."
+
+# ba_chp1:20
+translate es badAppleChapter1_5baa4f61:
+
+    "Diablos, hasta probé con foros islandeses de casitas para pájaros. LO QUE SEA con tal de encontrarle sentido a este infierno en el que terminé."
+
+# ba_chp1:21
+translate es badAppleChapter1_a20cefa7_2:
+
+    "..."
+
+# ba_chp1:22
+translate es badAppleChapter1_884284ee:
+
+    "Pero lo único que veo son más palabras huecas y vacías que no calman el dolor..."
+
+# ba_chp1:23
+translate es badAppleChapter1_0ae4e57c:
+
+    "{w=3}..."
+
+# ba_chp1:31
+translate es badAppleChapter1_979cba9a:
+
+    A "{i}Quédate conmigo aquí, por favor...{/i}"
+
+# ba_chp1:34
+translate es badAppleChapter1_edc1fb81:
+
+    A "{i}No me dejes solo...{/i}"
+
+# ba_chp1:36
+translate es badAppleChapter1_a20cefa7_3:
+
+    "..."
+
+# ba_chp1:37
+translate es badAppleChapter1_bb98f26f:
+
+    "Las últimas palabras que le dije."
+
+# ba_chp1:38
+translate es badAppleChapter1_d9e4b49d:
+
+    "Esas palabras están grabadas en mi mente y retumban en mi cabeza como una sinfonía de tormento."
+
+# ba_chp1:39
+translate es badAppleChapter1_bfc5be9f:
+
+    "De cómo le fallé, de cómo la dejé morir, de cómo dejé morir a todos, todo por ser un novio de mierda..."
+
+# ba_chp1:40
+translate es badAppleChapter1_9579babe:
+
+    "Yo debí haber muerto ese día."
+
+# ba_chp1:42
+translate es badAppleChapter1_72c7998d:
+
+    "Harto de la mierda hipócrita que llena mi pantalla, estiro la mano para apagar el monitor."
+
+# ba_chp1:44
+translate es badAppleChapter1_660bf27c:
+
+    "En la negrura de la pantalla, me veo a mí mismo."
+
+# ba_chp1:45
+translate es badAppleChapter1_0fda5a86:
+
+    "Tengo la cara sin una pizca de color de no salir en una semana de este apartamento de mierda."
+
+# ba_chp1:47
+translate es badAppleChapter1_809aab77:
+
+    "Tengo los ojos inyectados en sangre de llevar dos días seguidos despierto, y a mi derecha, una silueta me mira sin expresión desde el reflejo de la pantalla."
+
+# ba_chp1:48
+translate es badAppleChapter1_e9976a11:
+
+    A "...¿Fang...?"
+
+# ba_chp1:51
+translate es badAppleChapter1_b11bd193:
+
+    "Me levanto y me doy la vuelta, en shock, y lo único que me recibe es la puerta de entrada y la pila de bolsas de basura y botellas vacías que la rodea."
+
+# ba_chp1:52
+translate es badAppleChapter1_6457982b:
+
+    A "Maldita sea, otra vez no..."
+
+# ba_chp1:55
+translate es badAppleChapter1_56e50973:
+
+    "Desde que salí del hospital, me persiguen las apariciones de mis pecados pasados."
+
+# ba_chp1:56
+translate es badAppleChapter1_b72bd111:
+
+    "Recordatorios constantes de mis fracasos..."
+
+# ba_chp1:57
+translate es badAppleChapter1_c9215397:
+
+    "En un momento de silencio atónito, recorro la habitación con la mirada perdida hasta que vuelvo en mí."
+
+# ba_chp1:58
+translate es badAppleChapter1_22164fb0:
+
+    "Bueno, ya que estoy de pie, debería buscar otra cosa con qué distraerme..."
+
+# ba_chp1:62
+translate es badAppleChapter1_1a264eeb:
+
+    "Intento moverme por el apartamento, torpe, gracias a la férula de mi pierna izquierda."
+
+# ba_chp1:63
+translate es badAppleChapter1_482f3204:
+
+    "Hace un par de semanas por fin pude dejar la muleta, aunque quizá no fue tan buena idea, considerando que mi médico dijo que la pierna no sanó tan rápido como él esperaba."
+
+# ba_chp1:64
+translate es badAppleChapter1_eee97a3b:
+
+    "Igual, mi pierna jodida es el menor de mis problemas ahora mismo..."
+
+# ba_chp1:66
+translate es badAppleChapter1_992612a9:
+
+    "Voy a la cocina cojeando un poco y casi me tropiezo con la basura que deambula por el piso del apartamento como un rebaño de ovejas."
+
+# ba_chp1:67
+translate es badAppleChapter1_aec72905:
+
+    "No es que vaya a tener visitas pronto, así que ¿a quién le importa una mierda el desorden?"
+
+# ba_chp1:69
+translate es badAppleChapter1_f7566e9d:
+
+    "Al entrar en la cocina, agarro un frasco de café instantáneo y una taza de la barra."
+
+# ba_chp1:70
+translate es badAppleChapter1_1dd766e0:
+
+    "Es una porquería de tienda de todo a un dólar, pero cumple bastante bien."
+
+# ba_chp1:71
+translate es badAppleChapter1_9677af7e:
+
+    "Abro el frasco, echo el polvo en una taza, le agrego agua caliente del fregadero y revuelvo el brebaje infernal con el dedo."
+
+# ba_chp1:72
+translate es badAppleChapter1_283c40b9:
+
+    "Una de las ventajas de ser demasiado pobre para comprarte una tetera es no tener que preocuparte por quemarte con el café."
+
+# ba_chp1:73
+translate es badAppleChapter1_4adf88f7:
+
+    "Empiezo a sorber el brebaje tibio y me recibe un sabor que recuerda a tierra, a químicos de un dulzor antinatural y a un toque familiar de algo que podría llamarse café."
+
+# ba_chp1:74
+translate es badAppleChapter1_c233b619:
+
+    "Sí... es una porquería, pero tendrá que servir."
+
+# ba_chp1:75
+translate es badAppleChapter1_d085789a:
+
+    "Los cheques de discapacidad que me dan desde el incidente no alcanzan para mucho."
+
+# ba_chp1:76
+translate es badAppleChapter1_b5d1591a:
+
+    "Ese dinero es el único ingreso que tengo a estas alturas."
+
+# ba_chp1:77
+translate es badAppleChapter1_b6ea360f:
+
+    "Mis notas en el Instituto Volcano no alcanzaban para entrar a ninguna universidad. Y el ejército no quería a un 'lisiado traumatizado' bajo su bandera."
+
+# ba_chp1:78
+translate es badAppleChapter1_512a2a29:
+
+    "Eso solo me dejó la glamorosa opción de mendigarle migajas al gobierno. Sobre todo porque mis padres más o menos me tiraron a la basura."
+
+# ba_chp1:79
+translate es badAppleChapter1_5d4eb380:
+
+    "De pronto, las palabras de mi padre retumban en mi cabeza..."
+
+# ba_chp1:80
+translate es badAppleChapter1_dcf95c4e:
+
+    AD "{i}{color=#d1d1d1}Tuviste una segunda oportunidad, ¿y esto es lo que hiciste con ella? Qué desperdicio.{/i}{/color}"
+
+# ba_chp1:81
+translate es badAppleChapter1_a20cefa7_4:
+
+    "..."
+
+# ba_chp1:82
+translate es badAppleChapter1_16516c01:
+
+    "...Vaya padres amorosos que tengo."
+
+# ba_chp1:83
+translate es badAppleChapter1_74e62ee5:
+
+    "Ellos son los que me metieron en este basurero de apartamento, en el barrio más de mierda de la ciudad."
+
+# ba_chp1:84
+translate es badAppleChapter1_5f2180b1:
+
+    "Encima, tuvieron el DESCARO de casi no hablarme en todo el año escolar."
+
+# ba_chp1:85
+translate es badAppleChapter1_f2a60ae8:
+
+    "...Como si su negligencia no hubiera sido suficiente, ninguno de los dos fue a ver a su hijo cuando terminó en coma después de que le dispararan..."
+
+# ba_chp1:86
+translate es badAppleChapter1_c9dc1169:
+
+    "Terminé olvidado y abandonado por los que me rodeaban."
+
+# ba_chp1:87
+translate es badAppleChapter1_dddc2857:
+
+    "Un castigo apropiado para un perdedor que trató como basura a las pocas personas que se preocupaban por él. Un castigo justo para un imbécil que, por no ver el dolor de su novia, provocó una masacre."
+
+# ba_chp1:88
+translate es badAppleChapter1_1e469ece:
+
+    "Me merezco todo esto."
+
+# ba_chp1:89
+translate es badAppleChapter1_a20cefa7_5:
+
+    "..."
+
+# ba_chp1:90
+translate es badAppleChapter1_1ce17407:
+
+    "Necesito dejar de pensar en toda esta mierda."
+
+# ba_chp1:91
+translate es badAppleChapter1_b70bc11b:
+
+    "Dejo la taza, voy hacia una de las alacenas y agarro uno de los frascos de pastillas con la etiqueta 'adderall'."
+
+# ba_chp1:93
+translate es badAppleChapter1_3ca5a8be:
+
+    "Pero antes de poder abrirlo y entregarme a su dulce y reconfortante energía, noto que el frasco pesa demasiado poco."
+
+# ba_chp1:95
+translate es badAppleChapter1_316b952d:
+
+    "La mano se me desploma sobre la barra y dejo que el frasco ruede al suelo, a sumarse a la colección de basura que ocupa el piso."
+
+# ba_chp1:96
+translate es badAppleChapter1_a2455924:
+
+    "Jesús Raptor, ayúdame. Esperaba no tener que salir por lo menos en unos días más."
+
+# ba_chp1:97
+translate es badAppleChapter1_0e475c85:
+
+    "Sé que la farmacia no está tan lejos, pero siempre existe la posibilidad de que la pierna me vuelva a fallar, de que alguien me asalte o de quién sabe qué más."
+
+# ba_chp1:99
+translate es badAppleChapter1_90fe041c:
+
+    "Aun así, prefiero que me pase cualquiera de esas cosas antes que quedarme dormido."
+
+# ba_chp1:102
+translate es badAppleChapter1_047587f1:
+
+    "...No quiero volver a vivir ese día..."
+
+# ba_chp1:105
+translate es badAppleChapter1_a20cefa7_6:
+
+    "..."
+
+# ba_chp1:108
+translate es badAppleChapter1_c97d7f56:
+
+    "...No quiero volver a verlos morir a todos..."
+
+# ba_chp1:112
+translate es badAppleChapter1_a20cefa7_7:
+
+    "..."
+
+# ba_chp1:114
+translate es badAppleChapter1_6f632798:
+
+    "Ya decidido, agarro la billetera, una cajetilla de cigarros y las llaves, y salgo por la puerta con cuidado de no tropezar con más basura."
+
+# ba_chp1:115
+translate es badAppleChapter1_e0b8bfb2:
+
+    "Meto la llave en la cerradura de la puerta y, al girarla a la izquierda, suena un chasquido mecánico. Sin embargo, lo que veo al darme la vuelta me hace saltar hacia atrás contra la puerta..."
+
+# ba_chp1:125
+translate es badAppleChapter1_420ef2e6:
+
+    "Veo a Naomi mirándome de brazos cruzados, lanzándome una mirada venenosa, la misma que me echó justo antes del baile, en casa de Fang."
+
+# ba_chp1:126
+translate es badAppleChapter1_6d3b7b32:
+
+    A "No es real. Está muerta. No es más que una pesadilla."
+
+# ba_chp1:127
+translate es badAppleChapter1_515adb13:
+
+    ghostNaomi "Qué patético."
+
+# ba_chp1:128
+translate es badAppleChapter1_236de873:
+
+    ghostNaomi "Ya es bastante malo que arruinaras las cosas con Fang e hicieras que nos mataran a todos, ¿y encima esto es lo que eliges hacer con tu vida?"
+
+# ba_chp1:133
+translate es badAppleChapter1_074b041c:
+
+    "Le doy la espalda y camino hacia la salida."
+
+# ba_chp1:134
+translate es badAppleChapter1_b53f6d12:
+
+    A "Solo está en tu cabeza. Es pura mierda."
+
+# ba_chp1:135
+translate es badAppleChapter1_027743ba:
+
+    ghostNaomi "No. ¡Lo que es pura mierda es cómo lograste cagar una relación que prácticamente te sirvieron en bandeja de plata!"
+
+# ba_chp1:136
+translate es badAppleChapter1_6cdc071c:
+
+    ghostNaomi "¡¿Cómo puedes ser tan perdedor?!"
+
+# ba_chp1:137
+translate es badAppleChapter1_f7244bc6:
+
+    "Ya me harté de esta mierda."
+
+# ba_chp1:140
+translate es badAppleChapter1_148c53a9:
+
+    "Me doy la vuelta y la señalo con un dedo acusador."
+
+# ba_chp1:141
+translate es badAppleChapter1_dbf92833:
+
+    A "¿Y tú qué carajo sabes? ¡Estás muerta!"
+
+# ba_chp1:144
+translate es badAppleChapter1_3678ca41:
+
+    "La aparición se burla de mi respuesta furiosa y da unos pasos hacia adelante."
+
+# ba_chp1:145
+translate es badAppleChapter1_744d6842:
+
+    ghostNaomi "Sé que si te hubieras quedado en esa escuelita de porquería de la que saliste arrastrándote, quizá Naser y yo seguiríamos vivos."
+
+# ba_chp1:146
+translate es badAppleChapter1_f451723f:
+
+    ghostNaomi "Quizá... Fang también seguiría viva..."
+
+# ba_chp1:148
+translate es badAppleChapter1_a20cefa7_8:
+
+    "..."
+
+# ba_chp1:149
+translate es badAppleChapter1_22ef18d1:
+
+    "...Tiene razón..."
+
+# ba_chp1:150
+translate es badAppleChapter1_985bf751:
+
+    "...En el fondo... sé que tiene razón..."
+
+# ba_chp1:151
+translate es badAppleChapter1_a20cefa7_9:
+
+    "..."
+
+# ba_chp1:153
+translate es badAppleChapter1_962a68f9:
+
+    "Aun así, no puedo evitar apretar el puño ante la crueldad de la aparición mientras la rabia me hierve por dentro."
+
+# ba_chp1:156
+translate es badAppleChapter1_3dc87738:
+
+    A "Sal. {nw}"
+
+# ba_chp1:159
+translate es badAppleChapter1_af36dfd1:
+
+    extend "Ya. {nw}"
+
+# ba_chp1:162
+translate es badAppleChapter1_b49041cb:
+
+    extend "De. {nw}"
+
+# ba_chp1:165
+translate es badAppleChapter1_19f7ff8b:
+
+    extend "Mi. {nw}"
+
+# ba_chp1:168
+translate es badAppleChapter1_1102224f:
+
+    extend "Cabeza. ¡Perra color durazno!"
+
+# ba_chp1:169
+translate es badAppleChapter1_39c84d5d:
+
+    "La No-Naomi suelta una risita al oír eso y mete la mano en el bolsillo."
+
+# ba_chp1:170
+translate es badAppleChapter1_01726918:
+
+    "Por el contorno de su mano bajo la tela del pantalón, me doy cuenta de que está agarrando algo."
+
+# ba_chp1:171
+translate es badAppleChapter1_2f23b84c:
+
+    ghostNaomi "Te di donde duele, ¿verdad?"
+
+# ba_chp1:172
+translate es badAppleChapter1_f81e0790:
+
+    ghostNaomi "Esto me da una idea."
+
+# ba_chp1:173
+translate es badAppleChapter1_0dec269d:
+
+    "Saca el objeto del bolsillo..."
+
+# ba_chp1:174
+translate es badAppleChapter1_fd22e373:
+
+    "...Y resulta ser un..."
+
+# ba_chp1:176
+translate es badAppleChapter1_7ea47f16:
+
+    "...Dios, no..."
+
+# ba_chp1:177
+translate es badAppleChapter1_81919689:
+
+    ghostNaomi "Te lo voy a poner más fácil."
+
+# ba_chp1:178
+translate es badAppleChapter1_010f183e:
+
+    ghostNaomi "¿Crees que esta vez lo vas a impedir?"
+
+# ba_chp1:179
+translate es badAppleChapter1_653b1a7b:
+
+    "...Ya... no aguanto más..."
+
+# ba_chp1:188
+translate es badAppleChapter1_3c2a3dd6:
+
+    "Me doy la vuelta y sigo avanzando hacia el final del pasillo, ignorando las burlas de la No-Naomi."
+
+# ba_chp1:189
+translate es badAppleChapter1_b219bf2d:
+
+    ghostNaomi "¡Nunca lo olvides! Tú hiciste esto, ¡y te mereces todo lo que se te viene encima!"
+
+# ba_chp1:190
+translate es badAppleChapter1_03d06469:
+
+    "‘Naomi’ gruñe antes de—{nw}"
+
+# ba_chp1:195
+translate es badAppleChapter1_41ae16ca:
+
+    "Me doy la vuelta por instinto... pero Naomi ya no está."
+
+# ba_chp1:196
+translate es badAppleChapter1_ddc5d888:
+
+    "En lugar de los sesos de mi excompañera embarrados en la pared, como los vi aquel día horrible, me recibe el gris apagado de las paredes de mi edificio."
+
+# ba_chp1:197
+translate es badAppleChapter1_507e29a1:
+
+    "Solo estoy yo, de pie en el pasillo vacío de mi piso..."
+
+# ba_chp1:198
+translate es badAppleChapter1_85e3ceae:
+
+    A "Todo está en tu cabeza. Todo está en tu cabeza. Todo está en tu cabeza. Todo está en tu..."
+
+# ba_chp1:199
+translate es badAppleChapter1_0919e00c:
+
+    "Lo repito sin parar, como un mantra, mientras sigo caminando hacia la salida..."
+
+# ba_chp1:201
+translate es badAppleChapter1_0fd4d656:
+
+    "......"
+
+# ba_chp1:203
+translate es badAppleChapter1_65ff27b3:
+
+    "Después de unos buenos quince minutos caminando por las calles de Skin Row, apagadas por el crepúsculo, por fin llego a la farmacia."
+
+# ba_chp1:204
+translate es badAppleChapter1_0d5527f8:
+
+    "La caminata fue, sorprendentemente, menos dura de lo que pensaba."
+
+# ba_chp1:205
+translate es badAppleChapter1_2dc50891:
+
+    "Me preocupaba que la pierna se me fuera a la mierda del todo después de caminar tanto."
+
+# ba_chp1:206
+translate es badAppleChapter1_c3a5eea7:
+
+    "Como extra, las calles parecen bastante tranquilas comparadas con lo normal, así que me estresa menos haber olvidado la navaja en casa."
+
+# ba_chp1:207
+translate es badAppleChapter1_615f85f9:
+
+    "Le agradezco a mi buen instinto haber salido antes de que oscureciera del todo. Seguro sería el blanco perfecto para un asalto, considerando que soy un lisiado."
+
+# ba_chp1:208
+translate es badAppleChapter1_b853fc31:
+
+    "¿Valdría la pena siquiera asaltar a un lisiado?"
+
+# ba_chp1:209
+translate es badAppleChapter1_2a20b3af:
+
+    "...No sé... ¿quizá?"
+
+# ba_chp1:212
+translate es badAppleChapter1_fcb8d1ff:
+
+    "La farmacia se llama ‘Farmacia DVS’, aunque es un milagro que pueda leer el letrero, porque está todo abollado y algunas de sus luces están fundidas."
+
+# ba_chp1:213
+translate es badAppleChapter1_d2450610:
+
+    "Qué belleza."
+
+# ba_chp1:219
+translate es badAppleChapter1_3ea664a6:
+
+    "Al entrar, me reciben hileras de estantes repletos."
+
+# ba_chp1:220
+translate es badAppleChapter1_fda55cb7:
+
+    "Me taladra los oídos quién sabe qué basura zoomer de moda que suena en la radio de la tienda."
+
+# ba_chp1:221
+translate es badAppleChapter1_e2023ebb:
+
+    "Voy directo al mostrador a hablar con quien esté de turno, ignorando a todos los demás y a los enormes carteles de ‘oferta’ repartidos por la tienda."
+
+# ba_chp1:222
+translate es badAppleChapter1_513a506e:
+
+    "No necesito nada más que Adderall, así que todo lo demás me importa una mierda."
+
+# ba_chp1:223
+translate es badAppleChapter1_41c61841:
+
+    "Solo tengo que conseguir mis pastillas y volver a casa cuanto antes."
+
+# ba_chp1:225
+translate es badAppleChapter1_85894ba8:
+
+    "Al llegar al mostrador, veo a la ‘farmacéutica’ deslizando el dedo por su celular, muy tranquila, sentada en una silla con los pies encima del mostrador."
+
+# ba_chp1:228
+translate es badAppleChapter1_5de98a18:
+
+    "Es una tiarajuden amarillo chillón que parece unos años mayor que yo."
+
+# ba_chp1:230
+translate es badAppleChapter1_322f673a:
+
+    "Un momento. Ella no es mi contacto de siempre. ¿Dónde carajo se metió el tipo?"
+
+# ba_chp1:232
+translate es badAppleChapter1_2f982e55:
+
+    Phar "Mm, ¿alguien dijo algo?"
+
+# ba_chp1:233
+translate es badAppleChapter1_e2cb8ec4:
+
+    "Claro. Estaba murmurando, carajo."
+
+# ba_chp1:235
+translate es badAppleChapter1_82d0f1bb:
+
+    A "Vengo a recoger mi receta de Adderall."
+
+# ba_chp1:241
+translate es badAppleChapter1_385702ba:
+
+    Phar "¿Nombre?"
+
+# ba_chp1:242
+translate es badAppleChapter1_eb4c7af2:
+
+    A "Anon Mous."
+
+# ba_chp1:243
+translate es badAppleChapter1_8f096a2a:
+
+    Phar "¿Y para qué es su receta?"
+
+# ba_chp1:244
+translate es badAppleChapter1_0b5af22f:
+
+    "¿Qué carajo? El farmacéutico de antes no me preguntaba esas mierdas."
+
+# ba_chp1:245
+translate es badAppleChapter1_d4eb1097:
+
+    "¿Por qué de repente les interesa?"
+
+# ba_chp1:246
+translate es badAppleChapter1_63515510:
+
+    "Intento pensar en un motivo que darle a la farmacéutica."
+
+# ba_chp1:248
+translate es badAppleChapter1_b36c8007:
+
+    A "Yo, eh... la necesito para mi narcolepsia. No me deja estudiar."
+
+# ba_chp1:249
+translate es badAppleChapter1_ab3cc6c6:
+
+    "Derrame de espagueti evitado. O eso creía..."
+
+# ba_chp1:250
+translate es badAppleChapter1_592b1234:
+
+    "La ‘farmacéutica’ me lanza una mirada condescendiente al oír mi respuesta."
+
+# ba_chp1:252
+translate es badAppleChapter1_70928349:
+
+    Phar "Ajá, ¿y por eso aquí dice que es su cuarta visita del mes? ¿Y que su 'narcolepsia' no figura por ningún lado?"
+
+# ba_chp1:253
+translate es badAppleChapter1_82b1ca79:
+
+    "Mierda. No esperaba que fuera tan perspicaz, sobre todo considerando que hace un minuto estaba en su mundo viendo SnootTube o Rex Rox o en lo que sea que pierdan el tiempo los normies hoy en día."
+
+# ba_chp1:254
+translate es badAppleChapter1_572cede8:
+
+    "Ahora me mira con el ceño fruncido, esperando mi respuesta."
+
+# ba_chp1:255
+translate es badAppleChapter1_e48023ef:
+
+    A "Yo-eh... me dijeron que viniera hoy."
+
+# ba_chp1:256
+translate es badAppleChapter1_66bd1a85:
+
+    Phar "Mire, lo que yo creo que pasa aquí es que se está inventando cualquier mierda para asegurarse su dosis, viendo lo seguido que ha venido."
+
+# ba_chp1:257
+translate es badAppleChapter1_83b76f36:
+
+    Phar "Así que hagamos una cosa: ¿por qué no vuelve cuando tenga las cosas bajo control, sí?"
+
+# ba_chp1:258
+translate es badAppleChapter1_5261a1c3:
+
+    "¿Qué carajo le pasa a esta? Maldita esquivadora de meteoros color meado."
+
+# ba_chp1:259
+translate es badAppleChapter1_4e9805c7:
+
+    "La cara de la chica se pone roja como un tomate, y su expresión ya raya en la furia."
+
+# ba_chp1:260
+translate es badAppleChapter1_85d72ab7:
+
+    "...Claro, eso también lo murmuré, carajo..."
+
+# ba_chp1:262
+translate es badAppleChapter1_26b8380f:
+
+    Phar "Bueno, ¿hay algo más en lo que pueda ayudarle, o va a seguir haciéndome perder el tiempo?"
+
+# ba_chp1:263
+translate es badAppleChapter1_225f387c:
+
+    "No se siente tan bien estar del otro lado, ¿verdad?"
+
+# ba_chp1:265
+translate es badAppleChapter1_a20cefa7_10:
+
+    "..."
+
+# ba_chp1:266
+translate es badAppleChapter1_92af5a0e:
+
+    "Bueno... no estoy en condiciones de buscar pelea ahora mismo."
+
+# ba_chp1:267
+translate es badAppleChapter1_b8197c96:
+
+    "A la mierda. Este lugar es un caso perdido."
+
+# ba_chp1:268
+translate es badAppleChapter1_5c7e5d6e:
+
+    "Buscaré otro lugar donde conseguir mis pastillas."
+
+# ba_chp1:271
+translate es badAppleChapter1_8dcd2050:
+
+    "Me doy la vuelta y camino hacia la salida mientras le muestro el dedo medio."
+
+# ba_chp1:274
+translate es badAppleChapter1_a4eb8a76:
+
+    "Maldita per—{nw}"
+
+# ba_chp1:283
+translate es badAppleChapter1_a20cefa7_11:
+
+    "..."
+
+# ba_chp1:284
+translate es badAppleChapter1_89a6fc8a:
+
+    "...Mis pensamientos se ven interrumpidos cuando una fuerza desconocida me embiste por la derecha y me estampa contra la puerta de vidrio."
+
+# ba_chp1:285
+translate es badAppleChapter1_fd3c665d:
+
+    "A la mierda. Una lesión en el brazo también podría ser divertida..."
+
+# ba_chp1:286
+translate es badAppleChapter1_e95d18ce:
+
+    unknown "¡Ahh! ¡Perdón, perdón, perdón, perdón!"
+
+# ba_chp1:287
+translate es badAppleChapter1_f2e6f025:
+
+    "Una voz femenina, frenética pero dulce, me llama desde el vacío."
+
+# ba_chp1:288
+translate es badAppleChapter1_5161a0cc:
+
+    "...¿Por qué esa voz me suena tan conocida...?"
+
+# ba_chp1:296
+translate es badAppleChapter1_5542217a:
+
+    "Me levanto apoyándome en la puerta y cargando casi todo el peso en la pierna que no está lisiada."
+
+# ba_chp1:299
+translate es badAppleChapter1_2c220809:
+
+    "Mientras lo hago, me giro para examinar a mi misterioso 'atacante'."
+
+# ba_chp1:304
+translate es badAppleChapter1_c1e4441d:
+
+    St "¿A-Anon?"
+
+# ba_chp1:305
+translate es badAppleChapter1_e81efaa7:
+
+    "Espera..."
+
+# ba_chp1:307
+translate es badAppleChapter1_57019f0b:
+
+    A "¿Stella?"
+
+# ba_chp1:308
+translate es badAppleChapter1_caf9cbf8:
+
+    "Reconocería a esa estegosaurio en cualquier parte."
+
+# ba_chp1:311
+translate es badAppleChapter1_9f74bda0:
+
+    "Escamas verde lima, moños verdes en el pelo, una camiseta que parece de FMA y unos shorts bastante sencillos con tenis blancos y negros..."
+
+# ba_chp1:312
+translate es badAppleChapter1_55394a3a:
+
+    "...Qué bueno ver que al menos mejoró su gusto en anime..."
+
+# ba_chp1:313
+translate es badAppleChapter1_86bf621c:
+
+    "Es la primera vez que la veo desde el instituto."
+
+# ba_chp1:314
+translate es badAppleChapter1_35a2f29c:
+
+    "Puede que fuera un poco rara, pero era una de las pocas personas del Instituto Volcano que de verdad fue amable conmigo. A su manera."
+
+# ba_chp1:315
+translate es badAppleChapter1_a20cefa7_12:
+
+    "..."
+
+# ba_chp1:316
+translate es badAppleChapter1_e4d6e7c6:
+
+    "...Y yo le decía rara..."
+
+# ba_chp1:317
+translate es badAppleChapter1_352a6af9:
+
+    "¿Por qué fui tan imbécil con ella?"
+
+# ba_chp1:318
+translate es badAppleChapter1_faa4729d:
+
+    "Pero ahora, al mirarla, no veo a la estego torpe con la gente pero alegre que recuerdo."
+
+# ba_chp1:319
+translate es badAppleChapter1_6e119846:
+
+    "En cambio, veo a una chica que parece haber visto un fantasma. Un recordatorio de un pasado doloroso."
+
+# ba_chp1:320
+translate es badAppleChapter1_372d7c7f:
+
+    "En cuestión de segundos, su cara verde se pone pálida mientras retrocede despacio, con el cuerpo temblando de miedo."
+
+# ba_chp1:336
+translate es badAppleChapter1_5e166c0a:
+
+    St "Y-yo..."
+
+# ba_chp1:342
+translate es badAppleChapter1_b967c787:
+
+    "Antes de que pueda decir una palabra, se da la vuelta y prácticamente sale disparada calle abajo, tan rápido como le dan las piernas."
+
+# ba_chp1:344
+translate es badAppleChapter1_9f092e1a:
+
+    "¿Por qué causo este efecto en las mujeres?"
+
+# ba_chp1:345
+translate es badAppleChapter1_6ad9005e:
+
+    "Y lo más importante: ¿por qué se asustó TANTO al verme por primera vez en meses?"
+
+# ba_chp1:346
+translate es badAppleChapter1_45fa613f:
+
+    "Solo hablamos un puñado de veces."
+
+# ba_chp1:347
+translate es badAppleChapter1_f9faf3f6:
+
+    "Tampoco es que la conociera tanto como para causarle semejante impresión."
+
+# ba_chp1:348
+translate es badAppleChapter1_e0c36efb:
+
+    "Aun así, Stella era lo más parecido que me quedaba a una ‘vieja amiga’... y me habría gustado que nuestro reencuentro fuera menos deprimente."
+
+# ba_chp1:349
+translate es badAppleChapter1_60d349da:
+
+    "No es que me sorprenda..."
+
+# ba_chp1:358
+translate es badAppleChapter1_a006e1c0:
+
+    Phar "¡Ja, ja, ja, ja, ja, ja!"
+
+# ba_chp1:359
+translate es badAppleChapter1_1e0a4546:
+
+    "Una carcajada insoportable que sale del fondo de la farmacia me corta el monólogo interior."
+
+# ba_chp1:367
+translate es badAppleChapter1_d8654138:
+
+    A "..."
+
+# ba_chp1:368
+translate es badAppleChapter1_5cf6d570:
+
+    "Me giro y veo a la perra de la farmacéutica señalándome y riéndose de mí."
+
+# ba_chp1:369
+translate es badAppleChapter1_f852a2b8:
+
+    "¿De verdad llevo tanto rato aquí parado?"
+
+# ba_chp1:371
+translate es badAppleChapter1_e7ebff92:
+
+    "Bueno, de todas formas ya terminé aquí. Hasta nunca, carajo."
+
+# ba_chp1:373
+translate es badAppleChapter1_4ba4b777:
+
+    "Suelto la puerta y sigo el largo y peligroso viaje de vuelta a mi apartamento."
+
+# ba_chp1:374
+translate es badAppleChapter1_9bbbcc11:
+
+    "Mi apartamento... donde puedo relajarme sin nada de Adderall y arriesgarme a quedarme dormido otra vez..."
+
+# ba_chp1:375
+translate es badAppleChapter1_947f322a:
+
+    "Puta vida..."
+
+# ba_chp1:376
+translate es badAppleChapter1_0fd4d656_1:
+
+    "......"
+
+# ba_chp1:382
+translate es badAppleChapter1_f75ee90d:
+
+    "De camino a casa, me quedo a solas con mis pensamientos mientras paso junto a los edificios destartalados y los letreros pintarrajeados de grafiti que ya conozco de memoria."
+
+# ba_chp1:383
+translate es badAppleChapter1_9efb4340:
+
+    "Últimamente tengo muchas cosas nublándome la mente."
+
+# ba_chp1:384
+translate es badAppleChapter1_7d27b0fe:
+
+    "Mi lamentable situación económica."
+
+# ba_chp1:385
+translate es badAppleChapter1_4f2a5274:
+
+    "Encontrar de dónde sacar mis pastillas."
+
+# ba_chp1:386
+translate es badAppleChapter1_0e5bf027:
+
+    "Llegar a casa sin que me maten..."
+
+# ba_chp1:387
+translate es badAppleChapter1_620dc5ad:
+
+    "...¿Pero por qué toparme con alguien que apenas conocía del instituto me jode tanto la cabeza?"
+
+# ba_chp1:388
+translate es badAppleChapter1_fb3ca1f4:
+
+    "No he pensado mucho en la amistad desde que salí del instituto."
+
+# ba_chp1:389
+translate es badAppleChapter1_0a12f952:
+
+    "Siempre encuentro la manera de cagarla de una forma u otra, y después de lo que pasó—de lo que yo provoqué—no, nunca más."
+
+# ba_chp1:390
+translate es badAppleChapter1_a31c36aa:
+
+    "Al fin y al cabo, la reacción de Stella demuestra que volver a buscar a mis viejos 'amigos' era una idea terrible."
+
+# ba_chp1:391
+translate es badAppleChapter1_e8ae4794:
+
+    "Rosa seguramente siente lo mismo que Stella. Y seguramente Reed y Trish también."
+
+# ba_chp1:392
+translate es badAppleChapter1_d944bfe1:
+
+    "...Sobre todo ella..."
+
+# ba_chp1:393
+translate es badAppleChapter1_0d6e6b93:
+
+    ghostNaomi "{i}Nunca lo olvides... Tú hiciste esto. ¡Y te mereces todo lo que se te viene encima!{/i}"
+
+# ba_chp1:394
+translate es badAppleChapter1_a6e21521:
+
+    "Naomi tenía toda la razón."
+
+# ba_chp1:395
+translate es badAppleChapter1_e8bc3870:
+
+    "Tampoco es que a estas alturas me importe una mierda..."
+
+# ba_chp1:401
+translate es badAppleChapter1_d1dcfe11:
+
+    A "¡MIERDA!"
+
+# ba_chp1:402
+translate es badAppleChapter1_a5d52df6:
+
+    "Mi fiesta de autocompasión se termina de golpe, y con violencia, cuando siento la fuerza brutal de un objeto contundente estrellándose contra mi pierna."
+
+# ba_chp1:403
+translate es badAppleChapter1_92fdd977:
+
+    "Mi pierna LISIADA."
+
+# ba_chp1:409
+translate es badAppleChapter1_7251ede6:
+
+    "El objeto vuelve a caer sobre mi pierna, le da a la férula y llena el aire con el sonido de metal contra metal, mientras lo que queda de mi férula cae al suelo en pedazos."
+
+# ba_chp1:410
+translate es badAppleChapter1_2e254e6c:
+
+    "El dolor es tan intenso que siento la pierna en llamas."
+
+# ba_chp1:412
+translate es badAppleChapter1_0e41988a:
+
+    "Caigo de espaldas y alcanzo a ver un instante a mi atacante: una figura de triceratops amenazante pero bajita, con un abrigo gris enorme y la cara oculta tras una máscara de paintball."
+
+# ba_chp1:413
+translate es badAppleChapter1_c274353d:
+
+    "Solo puedo mirar en shock cómo se me acerca, con las manos enguantadas apretando el bate algo manchado de sangre."
+
+# ba_chp1:414
+translate es badAppleChapter1_59ae951c:
+
+    "Detrás de la figura oscura veo... ¡¿a Fang, de pie a sus espaldas?!"
+
+# ba_chp1:415
+translate es badAppleChapter1_fdd471b2:
+
+    "Me clava una mirada fría y malévola."
+
+# ba_chp1:416
+translate es badAppleChapter1_a429eba9:
+
+    A "E-espera-"
+
+# ba_chp1:417
+translate es badAppleChapter1_a501e55f:
+
+    unParam "¡CIERRA LA PUTA BOCA!" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp1:425
+translate es badAppleChapter1_51cb8bf5:
+
+    "La figura me escupe las palabras con voz ahogada y corta mis gritos con una patada rápida en la cara que me deja inconsciente."
+
+# ba_chp1:426
+translate es badAppleChapter1_a20cefa7_13:
+
+    "..."
+
+# ba_chp1:438
+translate es badAppleChapter1_70cffa4a:
+
+    unParam "—ete! ¡Skinnie pedazo de mierda—" (who_color="#B675E6", who_outline=[(gui.name_text_thickness,"#3A0C5D")])
+
+# ba_chp1:457
+translate es badAppleChapter1_a20cefa7_14:
+
+    "..."
+
+# ba_chp1:458
+translate es badAppleChapter1_a20cefa7_15:
+
+    "..."
+
+# ba_chp1:459
+translate es badAppleChapter1_e7fcaf47:
+
+    unParam "¡OYE! ¡ALÉJATE DE ÉL!" (who_color="#FE712B", who_outline=[(gui.name_text_thickness,"#54230F")])
+
+# ba_chp1:460
+translate es badAppleChapter1_a20cefa7_16:
+
+    "..."
+
+# ba_chp1:461
+translate es badAppleChapter1_51d84946:
+
+    unParam "¡No te quedes ahí parada! Ayúdame a subirlo a la camioneta. ¡Vamos! ¡¡Ahorita!!" (who_color="#FE712B", who_outline=[(gui.name_text_thickness,"#54230F")])
+
+# ba_chp1:462
+translate es badAppleChapter1_a20cefa7_17:
+
+    "..."
+
+# ba_chp1:463
+translate es badAppleChapter1_0fd4d656_2:
+
+    "......"
+
+# ba_chp1:466
+translate es badAppleChapter1_a27b5f29:
+
+    "Por fin vuelvo en mí después de entrar y salir de la inconsciencia durante quién sabe cuánto tiempo."
+
+# ba_chp1:467
+translate es badAppleChapter1_d8d82883:
+
+    "Lo primero que ven mis ojos es... ¿un asiento de carro a mi derecha?"
+
+# ba_chp1:479
+translate es badAppleChapter1_706ff2f0:
+
+    "Espera, ¿cuándo me subí a un carro...?"
+
+# ba_chp1:484
+translate es badAppleChapter1_29c6fd63:
+
+    "Me incorporo de golpe, pero una oleada de dolor me sale del abdomen y me arranca un quejido."
+
+# ba_chp1:485
+translate es badAppleChapter1_d0ca6a6a:
+
+    unParam "¡Oye! ¡Está bien, An-on!" (who_color="#FE712B", who_outline=[(gui.name_text_thickness,"#54230F")])
+
+# ba_chp1:488
+translate es badAppleChapter1_ead461ad:
+
+    "Miro hacia donde viene la voz y veo nada menos que a Rosa en el asiento del conductor, mirándome preocupada por el retrovisor."
+
+# ba_chp1:489
+translate es badAppleChapter1_b04fed15:
+
+    "Espera... ¿cuándo apareció ella?"
+
+# ba_chp1:490
+translate es badAppleChapter1_baf4612e:
+
+    A "¿Rosa? ¿Qué haces...?"
+
+# ba_chp1:491
+translate es badAppleChapter1_20315797:
+
+    A "¿Qué pasó...?"
+
+# ba_chp1:492
+translate es badAppleChapter1_33ec8d73:
+
+    "Carajo, me duele hablar."
+
+# ba_chp1:493
+translate es badAppleChapter1_0048a4e7:
+
+    "Antes de responder, Rosa detiene el carro a un lado del camino."
+
+# ba_chp1:497
+translate es badAppleChapter1_9993826c:
+
+    "Ya con el carro detenido, se asoma un poco por encima del asiento para mirarme; lleva una sudadera naranja oscuro con rosas estampadas a lo largo de las mangas."
+
+# ba_chp1:498
+translate es badAppleChapter1_f5e6c00f:
+
+    Ro "¡Gracias, Jesús Raptor, te encontramos!"
+
+# ba_chp1:499
+translate es badAppleChapter1_2de9d883:
+
+    Ro "¡Un matón te estaba dando una paliza en la calle, cerca de la farmacia donde te encontró Stella!"
+
+# ba_chp1:500
+translate es badAppleChapter1_d62202da:
+
+    A "Espera- ¿Stella?"
+
+# ba_chp1:501
+translate es badAppleChapter1_b58b94d8:
+
+    "Rosa responde señalando con la cabeza el asiento de al lado."
+
+# ba_chp1:507
+translate es badAppleChapter1_9901273c:
+
+    "El gesto me hace acomodarme para ver el asiento del copiloto."
+
+# ba_chp1:508
+translate es badAppleChapter1_c204818f:
+
+    "Ahí veo a Stella hecha un ovillo, abrazada a las rodillas y con la cara hundida en el regazo mientras solloza en silencio."
+
+# ba_chp1:512
+translate es badAppleChapter1_72cdf70c:
+
+    St "H-hola, Anon, yo—"
+
+# ba_chp1:513
+translate es badAppleChapter1_0ed1e429:
+
+    "Intenta decir Stella con voz temblorosa y ahogada, antes de romper a llorar otra vez."
+
+# ba_chp1:515
+translate es badAppleChapter1_6fa95cc2:
+
+    "Espera, ¿por qué está llorando? ¿De verdad la asusté tanto hace rato?"
+
+# ba_chp1:516
+translate es badAppleChapter1_4a3f9b2d:
+
+    A "¿Fui yo-"
+
+# ba_chp1:517
+translate es badAppleChapter1_7c5ae49e:
+
+    Ro "¡No te preocupes! No es por nada que hayas hecho. Stella ha estado..."
+
+# ba_chp1:518
+translate es badAppleChapter1_40154c51:
+
+    "La voz de Rosa se apaga, como si buscara la manera de decir lo que sigue con tacto."
+
+# ba_chp1:519
+translate es badAppleChapter1_db33df61:
+
+    "Mira a Stella con compasión antes de volver a mirarme."
+
+# ba_chp1:520
+translate es badAppleChapter1_8dc0a283:
+
+    Ro "Ha sufrido mucho desde... ese día..."
+
+# ba_chp1:521
+translate es badAppleChapter1_c0ec1c86:
+
+    "Sé al instante a qué ‘día’ se refiere Rosa."
+
+# ba_chp1:522
+translate es badAppleChapter1_c26181e0:
+
+    "Cómo un mal día y un novio de mierda hicieron morir a gente inocente y destrozaron quién sabe cuántas vidas..."
+
+# ba_chp1:523
+translate es badAppleChapter1_3ef87107:
+
+    Ro "..."
+
+# ba_chp1:525
+translate es badAppleChapter1_82251229:
+
+    Ro "Parece... que tú también has sufrido mucho..."
+
+# ba_chp1:526
+translate es badAppleChapter1_5a8f8d45:
+
+    "Las palabras de Rosa me sacan de mi breve reflexión."
+
+# ba_chp1:527
+translate es badAppleChapter1_47fcc813:
+
+    "Sigo su mirada hasta mi pierna. Solo entonces me doy cuenta de que está envuelta en una venda manchada de sangre y de que la férula no aparece por ningún lado."
+
+# ba_chp1:528
+translate es badAppleChapter1_e0389e89:
+
+    "Mi puta suerte. Esa férula costaba más de lo que recibo en un mes."
+
+# ba_chp1:529
+translate es badAppleChapter1_3bb41f71:
+
+    "Vuelvo a mirar la venda que me cubre la pierna y luego otra vez a Rosa."
+
+# ba_chp1:530
+translate es badAppleChapter1_b5606827:
+
+    Ro "Mi madre me dio un botiquín para tener en el carro, así que hice lo que pude para detener la hemorragia."
+
+# ba_chp1:532
+translate es badAppleChapter1_6acb9743:
+
+    Ro "¿Quién te hizo esto, An-on?"
+
+# ba_chp1:533
+translate es badAppleChapter1_1c836477:
+
+    Ro "¡¿Qué clase de persona ataca a un chico herido y lo deja morir en la calle?!"
+
+# ba_chp1:534
+translate es badAppleChapter1_1010555f:
+
+    "Las palabras de Rosa arden con una mezcla de preocupación y furia, y su reacción me descoloca."
+
+# ba_chp1:536
+translate es badAppleChapter1_a91b7f3f:
+
+    "¿Por qué a alguien le preocuparía tanto lo que me pasó?"
+
+# ba_chp1:537
+translate es badAppleChapter1_8f1278b1:
+
+    "Además, ella no fue a verme al hospital. ¿Por qué carajo le iba a importar yo ahora, de repente?"
+
+# ba_chp1:538
+translate es badAppleChapter1_701a1b17:
+
+    "Pero la mirada insistente de Rosa interrumpe mi lastimoso monólogo interior, como si esperara una respuesta sobre quién me atacó."
+
+# ba_chp1:539
+translate es badAppleChapter1_99b50aed:
+
+    A "Yo..."
+
+# ba_chp1:540
+translate es badAppleChapter1_3ca39653:
+
+    "Me cuesta responder mientras intento describir a quien me atacó."
+
+# ba_chp1:541
+translate es badAppleChapter1_8ba785bb:
+
+    "Solo alcancé a echar un vistazo antes de perder el conocimiento."
+
+# ba_chp1:542
+translate es badAppleChapter1_cb715e3d:
+
+    "Sí recuerdo que tenía voz de mujer, aunque sonara ahogada, y que parecía más bien bajita..."
+
+# ba_chp1:543
+translate es badAppleChapter1_a20cefa7_18:
+
+    "..."
+
+# ba_chp1:544
+translate es badAppleChapter1_b419662b:
+
+    "De pronto lo entiendo, y me cae encima como un camión."
+
+# ba_chp1:545
+translate es badAppleChapter1_41812bc5:
+
+    "Claro que fue ella... Dios, qué retrasado soy..."
+
+# ba_chp1:546
+translate es badAppleChapter1_5bf8fd69:
+
+    Ro "¡Ay, eso no importa ahora! ¡Tenemos que denunciarlo a la Policía!"
+
+# ba_chp1:547
+translate es badAppleChapter1_f3f24dc0:
+
+    "Lo que dice Rosa me saca de mis pensamientos."
+
+# ba_chp1:548
+translate es badAppleChapter1_a4cc1d53:
+
+    A "No tiene caso. La policía no va a hacer nada por alguien como yo, de todos modos."
+
+# ba_chp1:550
+translate es badAppleChapter1_af2c4311:
+
+    "Mi respuesta le agria la expresión a Rosa, pero vuelve a señalar mi pierna."
+
+# ba_chp1:551
+translate es badAppleChapter1_07fa9cba:
+
+    Ro "¡Pero igual tenemos que llevarte a un hospital! ¡Tu pierna todavía está en muy mal estado!"
+
+# ba_chp1:552
+translate es badAppleChapter1_bae93fcc:
+
+    "Qué bueno que la clase de español sea de las pocas cosas que recuerdo del instituto."
+
+# ba_chp1:553
+translate es badAppleChapter1_d37eda87:
+
+    A "Rosa, no tengo seguro. Con lo poco que tengo, seguramente no me alcanza ni para pagar el hospital..."
+
+# ba_chp1:554
+translate es badAppleChapter1_d8e1a283:
+
+    "La expresión de Rosa pasa de decidida a insegura."
+
+# ba_chp1:555
+translate es badAppleChapter1_6812e2b5:
+
+    "Al mismo tiempo, empieza a murmurar algo para sí en español."
+
+# ba_chp1:556
+translate es badAppleChapter1_bb64c0fd:
+
+    "Qué bueno ver que no soy el único que hace eso."
+
+# ba_chp1:558
+translate es badAppleChapter1_fdceeffe:
+
+    St "R-Rosa... ¿Tu mamá no es doctora?"
+
+# ba_chp1:559
+translate es badAppleChapter1_bca34bf6:
+
+    "Las suaves palabras de Stella sacan a Rosa de su murmullo."
+
+# ba_chp1:560
+translate es badAppleChapter1_d62fc6c6:
+
+    "Noto que Rosa empieza a considerar la sugerencia de Stella mientras se frota la muñeca."
+
+# ba_chp1:561
+translate es badAppleChapter1_b9936df8:
+
+    Ro "No es su especialidad... p-pero estoy segura de que mi Madre podrá ayudar con las heridas de An-on."
+
+# ba_chp1:565
+translate es badAppleChapter1_1865aabf:
+
+    "Antes de que pueda decir nada más, Rosa mira al parabrisas y gira la llave, y el motor de la camioneta vuelve a rugir."
+
+# ba_chp1:566
+translate es badAppleChapter1_5a55c62b:
+
+    Ro "¡No te muevas, An-on, ya casi llegamos!"
+
+# ba_chp1:567
+translate es badAppleChapter1_d8654138_1:
+
+    A "..."
+
+# ba_chp1:572
+translate es badAppleChapter1_a20cefa7_19:
+
+    "..."
+
+# ba_chp1:573
+translate es badAppleChapter1_9fc67026:
+
+    "¿Por qué no me dejaron desangrarme en la acera y ya...?"
+
+# ba_chp1:574
+translate es badAppleChapter1_a20cefa7_20:
+
+    "..."
+
+# ba_chp1:575
+translate es badAppleChapter1_0fd4d656_3:
+
+    "......"
+
+# ba_chp1:576
+translate es badAppleChapter1_616a01dd:
+
+    "Poco después de hablar con Rosa y Stella, el dolor me hizo entrar y salir de la lucidez."
+
+# ba_chp1:577
+translate es badAppleChapter1_637b0c91:
+
+    "Lo poco que recuerdo del viaje fue bastante tranquilo."
+
+# ba_chp1:578
+translate es badAppleChapter1_8d564eac:
+
+    "De vez en cuando, sorprendía a Rosa mirándome por el retrovisor."
+
+# ba_chp1:579
+translate es badAppleChapter1_8c3377b1:
+
+    "Debió de darse cuenta de lo mucho que me dolía hablar, así que se concentró casi todo el tiempo en el camino."
+
+# ba_chp1:580
+translate es badAppleChapter1_a991b738:
+
+    "Stella, en cambio, solo logró dejar de llorar cuando sacó unos audífonos de su bolso y se metió en su propio mundo."
+
+# ba_chp1:581
+translate es badAppleChapter1_a792a593:
+
+    "No dejo de preguntarme: ¿qué le pudo haber pasado para quedar tan 'traumatizada'?"
+
+# ba_chp1:582
+translate es badAppleChapter1_c6454a7e:
+
+    "Ella... no parece haber salido herida de la masacre de Fang."
+
+# ba_chp1:583
+translate es badAppleChapter1_0ad41aa0:
+
+    "Tampoco estaba entre los estudiantes que vi afuera ese día."
+
+# ba_chp1:584
+translate es badAppleChapter1_ee4b298c:
+
+    "¿Será que... conocía a alguien que murió?"
+
+# ba_chp1:585
+translate es badAppleChapter1_81d83fda:
+
+    "Solo la vi andar con Rosa y con aquella raptor morada—¿cómo se llamaba...? Sage, sí, esa—un par de veces."
+
+# ba_chp1:586
+translate es badAppleChapter1_db50b723:
+
+    "Stella sobrevivió... pero me pregunto a qué precio..."
+
+# ba_chp1:587
+translate es badAppleChapter1_1aab1e80:
+
+    Ro "¡Muy bien, ya llegamos!"
+
+# ba_chp1:589
+translate es badAppleChapter1_8973503f:
+
+    "El anuncio de Rosa me saca de mis pensamientos, y alcanzo a ver su casa y sus alrededores."
+
+# ba_chp1:590
+translate es badAppleChapter1_a67f6aa4:
+
+    "Enseguida me llama la atención una casa color beige revestida de piedra, en una de las zonas más ‘tranquilas’ de los suburbios de Volcaldera Bluffs."
+
+# ba_chp1:591
+translate es badAppleChapter1_bc5c2465:
+
+    "Es un lugar bien alejado de la ciudad, justo donde empieza el campo."
+
+# ba_chp1:592
+translate es badAppleChapter1_39d2a14c:
+
+    "El césped frente a la casa solo puede describirse como 'impecable', y lo acompaña un jardín pequeño pero precioso que se extiende bajo las ventanas, lleno de plantas de todos los colores."
+
+# ba_chp1:593
+translate es badAppleChapter1_6993895b:
+
+    "Considerando lo apasionada que era Rosa con la jardinería en el Instituto Volcano, tiene sentido que esa pasión se note en su casa."
+
+# ba_chp1:594
+translate es badAppleChapter1_d31361b8:
+
+    Ro "Stella, necesito que me ayudes a meter a An-on, ¿sí?"
+
+# ba_chp1:595
+translate es badAppleChapter1_5105a441:
+
+    "La petición de Rosa no tiene nada de la autoridad que le notaba antes."
+
+# ba_chp1:596
+translate es badAppleChapter1_d7569755:
+
+    "Stella asiente sin devolverle la mirada a Rosa, y las dos bajan del carro."
+
+# ba_chp1:598
+translate es badAppleChapter1_1e649284:
+
+    "La puerta de mi derecha se abre y la piadosa aquilops me recibe."
+
+# ba_chp1:599
+translate es badAppleChapter1_38c2a3a0:
+
+    Ro "Vamos, An-on."
+
+# ba_chp1:605
+translate es badAppleChapter1_313bf3d7:
+
+    "Todavía se me hace raro ver a Rosa con una sudadera naranja, unos jeans limpios y botas cafés de otoño."
+
+# ba_chp1:611
+translate es badAppleChapter1_1317c7f5:
+
+    "Esa ropa contrasta muchísimo con la falda y las sandalias que recuerdo que usaba en el instituto."
+
+# ba_chp1:612
+translate es badAppleChapter1_5219b959:
+
+    "Igual tiene sentido. Va haciendo más frío a medida que se acerca noviembre."
+
+# ba_chp1:614
+translate es badAppleChapter1_f0aaf0ee:
+
+    "Rosa empieza a ayudarme a salir, intentando no cargar peso sobre mi pierna izquierda (todavía más) lisiada."
+
+# ba_chp1:623
+translate es badAppleChapter1_adb08191:
+
+    Ro "¡Cuidado, An-on, ya te tengo!"
+
+# ba_chp1:628
+translate es badAppleChapter1_5f20060d:
+
+    A "G-gracias."
+
+# ba_chp1:630
+translate es badAppleChapter1_97ee7582:
+
+    "Paso los brazos por los hombros de las dos, y entre ambas me ayudan a hacer el viaje hasta la casa."
+
+# ba_chp1:638
+translate es badAppleChapter1_da10fa7c:
+
+    "A unos tres metros delante de nosotros, la puerta se abre y aparece una aquilops de mediana edad y estatura media."
+
+# ba_chp1:645
+translate es badAppleChapter1_463858a7:
+
+    "Sin duda, es la madre de Rosa."
+
+# ba_chp1:656
+translate es badAppleChapter1_49ff2ea9:
+
+    RM "Dios mío, ¡¿qué le pasó a tu amigo, niña?!"
+
+# ba_chp1:657
+translate es badAppleChapter1_bb95d8bd:
+
+    Ro "Lo atacaron en la calle y le deshicieron la pierna, ¡Mamá!"
+
+# ba_chp1:659
+translate es badAppleChapter1_8a00d408:
+
+    RM "¡Ay, no! Recuéstenlo en el sillón y le echamos un vistazo. ¡Enseguida vuelvo!"
+
+# ba_chp1:660
+translate es badAppleChapter1_e9e361bf:
+
+    "La madre de Rosa nos habla cuando por fin entramos; supongo que cambia al inglés para que Stella entienda sus indicaciones."
+
+# ba_chp1:668
+translate es badAppleChapter1_466fc715:
+
+    "Al entrar a la casa, doblamos a la derecha hacia la sala."
+
+# ba_chp1:670
+translate es badAppleChapter1_4acda337:
+
+    "El lugar tiene la típica decoración latina, con una cruz colgada encima del televisor."
+
+# ba_chp1:671
+translate es badAppleChapter1_effafadc:
+
+    "También veo un puñado de fotos enmarcadas de Rosa y su familia."
+
+# ba_chp1:672
+translate es badAppleChapter1_c807d7ab:
+
+    "A juzgar por los otros aquilops que salen en las fotos, Rosa tiene un hermano y una hermana."
+
+# ba_chp1:682
+translate es badAppleChapter1_d227e3d7:
+
+    Ro "Por aquí, Stella."
+
+# ba_chp1:697
+translate es badAppleChapter1_bec8a1c2:
+
+    Ro "Ahí estamos..."
+
+# ba_chp1:701
+translate es badAppleChapter1_a160b120:
+
+    RM "Todo va a estar bien... An-on, ¿verdad?"
+
+# ba_chp1:703
+translate es badAppleChapter1_b0bbd616:
+
+    A "S-sí. Gracias, doctora..."
+
+# ba_chp1:704
+translate es badAppleChapter1_922f1689:
+
+    "Me detengo a media frase."
+
+# ba_chp1:705
+translate es badAppleChapter1_855bc38f:
+
+    "Creo que en todo el tiempo que la conozco nunca le oí el apellido a Rosa."
+
+# ba_chp1:707
+translate es badAppleChapter1_897af104:
+
+    RM "Está bien, niño."
+
+# ba_chp1:708
+translate es badAppleChapter1_aedac907:
+
+    RM "Puedes llamarme señora Castillo."
+
+# ba_chp1:719
+translate es badAppleChapter1_7ea2370b:
+
+    "La Sra. Castillo vuelve a centrar su atención en el desastre que es mi pierna."
+
+# ba_chp1:722
+translate es badAppleChapter1_4bb513b1:
+
+    "Se fija en la venda que le puso su hija, ahora manchada de sangre, y en la pequeña rotura de mis jeans alrededor de la herida; ver la tela rasgada me recuerda lo que pasé no hace mucho."
+
+# ba_chp1:724
+translate es badAppleChapter1_c544eb5b:
+
+    RM "...Me temo que aquí no puedo hacer mucho, An-on."
+
+# ba_chp1:727
+translate es badAppleChapter1_cf0384dc:
+
+    RM "Lo más que puedo hacer es limpiar la herida, ponerte vendas nuevas y ayudarte con el dolor."
+
+# ba_chp1:728
+translate es badAppleChapter1_1defd794:
+
+    "La aquilops mayor se acerca al botiquín y saca un par de vendas, gasas y otros materiales médicos."
+
+# ba_chp1:729
+translate es badAppleChapter1_de2081cd:
+
+    "He visto un montón de botiquines en los boomer shooters con los que pierdo los días, pero ver lo que llevan dentro de verdad es una experiencia nueva para mí."
+
+# ba_chp1:734
+translate es badAppleChapter1_695c12cc:
+
+    RM "Niñas, ¿nos dan un momento, por favor? Creo que An-on agradecería un poco de privacidad para esto."
+
+# ba_chp1:735
+translate es badAppleChapter1_e94feb4b:
+
+    "La mamá de Rosa gira la cabeza para hablarles a Rosa y a Stella, que están paradas en el marco de la puerta, observándonos."
+
+# ba_chp1:736
+translate es badAppleChapter1_c6fb6453:
+
+    Ro "¡Sí, mamá!"
+
+# ba_chp1:737
+translate es badAppleChapter1_eee06b50:
+
+    St "B-bueno."
+
+# ba_chp1:741
+translate es badAppleChapter1_5b84a6f2:
+
+    "Rosa toma a Stella de la mano y me hace un gesto tranquilizador con la cabeza antes de irse con ella a otro cuarto; sus pasos se van apagando."
+
+# ba_chp1:743
+translate es badAppleChapter1_b92eb063:
+
+    RM "Bueno, mijo, solo tenemos que quitarte los pantalones para ver mejor el daño."
+
+# ba_chp1:744
+translate es badAppleChapter1_a20cefa7_21:
+
+    "..."
+
+# ba_chp1:745
+translate es badAppleChapter1_65a51513:
+
+    "No es así como me imaginaba mi primera vez con una señora de mediana edad..."
+
+# ba_chp1:746
+translate es badAppleChapter1_612d7bd4:
+
+    "Dios, ¡¿qué carajo tengo en la cabeza?!"
+
+# ba_chp1:747
+translate es badAppleChapter1_a20cefa7_22:
+
+    "..."
+
+# ba_chp1:748
+translate es badAppleChapter1_eee5e79c:
+
+    "De verdad espero no estar murmurando nada de esto..."
+
+# ba_chp1:755
+translate es badAppleChapter1_0fd4d656_4:
+
+    "......"
+
+# ba_chp1:756
+translate es badAppleChapter1_a20cefa7_23:
+
+    "..."
+
+# ba_chp1:757
+translate es badAppleChapter1_dbcb61bc:
+
+    "Pasa un rato bastante incómodo..."
+
+# ba_chp1:758
+translate es badAppleChapter1_08734c6b:
+
+    "Resulta que el tajo profundo de la pierna me lo hizo la férula al clavárseme en la piel cuando la hicieron pedazos."
+
+# ba_chp1:759
+translate es badAppleChapter1_49626d6f:
+
+    "Por suerte, la Sra. Castillo logró sacar los últimos restos y desinfectar la herida antes de ponerme vendas nuevas."
+
+# ba_chp1:760
+translate es badAppleChapter1_81dcd4b0:
+
+    "Ahí se acabaron las buenas noticias."
+
+# ba_chp1:761
+translate es badAppleChapter1_4d68707c:
+
+    "Por el ataque, la fractura, que todavía no había sanado del todo, empeoró."
+
+# ba_chp1:762
+translate es badAppleChapter1_290be22f:
+
+    "Volví a la casilla de salida—sin la bala metida en el hueso—, solo que ahora no tengo ni férula ni muletas."
+
+# ba_chp1:763
+translate es badAppleChapter1_e7ccef4a:
+
+    "...Mi puta suerte..."
+
+# ba_chp1:764
+translate es badAppleChapter1_d0006f30:
+
+    "A pesar de lo horrible de todo, me sorprende cómo me ha tratado la mamá de Rosa hasta ahora."
+
+# ba_chp1:765
+translate es badAppleChapter1_6f9036ac:
+
+    "No me trató como a un delincuente o una carga, sino como a un invitado."
+
+# ba_chp1:766
+translate es badAppleChapter1_bcb6e495:
+
+    "Me abrió las puertas de su casa y me mostró preocupación y amabilidad sinceras, cuando cualquier hospital me habría echado por no tener seguro."
+
+# ba_chp1:767
+translate es badAppleChapter1_ebdceee2:
+
+    "Es un milagro que haya podido pagar esa cuenta cuando me dispararon..."
+
+# ba_chp1:773
+translate es badAppleChapter1_a2a3cbfa:
+
+    "Mientras mis ojos vagan perezosos por la sala de los Castillo, oigo unos pasos lentos que salen del pasillo."
+
+# ba_chp1:774
+translate es badAppleChapter1_ed92deee:
+
+    Ro "Hola, An-on."
+
+# ba_chp1:778
+translate es badAppleChapter1_f646b7e5:
+
+    Ro "¿Cómo lo llevas?"
+
+# ba_chp1:782
+translate es badAppleChapter1_6d715842:
+
+    "Stella viene justo detrás de Rosa, sosteniendo su propia taza con las dos manos."
+
+# ba_chp1:783
+translate es badAppleChapter1_160e4813:
+
+    Ro "Te traje un té. Es de manzanilla."
+
+# ba_chp1:784
+translate es badAppleChapter1_297bca61:
+
+    "Nunca fui muy de té, pero me imagino que es muchísimo mejor que la tierra hervida que tomo en casa y que hace las veces de café."
+
+# ba_chp1:791
+translate es badAppleChapter1_f9bea0b4:
+
+    "Me llevo la taza caliente a los labios."
+
+# ba_chp1:792
+translate es badAppleChapter1_c18ff6f1:
+
+    "El sabor es bastante agradable."
+
+# ba_chp1:793
+translate es badAppleChapter1_c852b86f:
+
+    "Es suave como la seda, con notas delicadas de miel y manzana."
+
+# ba_chp1:794
+translate es badAppleChapter1_31cb240e:
+
+    "Tendré que comprarlo la próxima vez que salga y me sobre algo de dinero."
+
+# ba_chp1:799
+translate es badAppleChapter1_521422a4:
+
+    "Dejo la taza en la mesita de centro que tengo delante y me dirijo a mi anfitriona y a mis salvadoras."
+
+# ba_chp1:804
+translate es badAppleChapter1_50b33c81:
+
+    A "Gracias, Rosa."
+
+# ba_chp1:805
+translate es badAppleChapter1_b3eea5d7:
+
+    A "Tú... de verdad no tenías que hacer todo esto por mí..."
+
+# ba_chp1:806
+translate es badAppleChapter1_d8654138_2:
+
+    A "..."
+
+# ba_chp1:807
+translate es badAppleChapter1_86d10fa4:
+
+    A "¿Por qué?"
+
+# ba_chp1:808
+translate es badAppleChapter1_8ced70c7:
+
+    A "¿Por qué me salvaron las dos?"
+
+# ba_chp1:813
+translate es badAppleChapter1_d595f369:
+
+    "Mi pregunta parece descolocar bastante a Rosa. Incluso en la cara de Stella asoma un leve asombro."
+
+# ba_chp1:814
+translate es badAppleChapter1_db020b97:
+
+    Ro "¡¿Cómo que ‘por qué te salvamos’?!"
+
+# ba_chp1:815
+translate es badAppleChapter1_0bb4a511:
+
+    Ro "¡Te hicieron mucho daño! ¡No podíamos dejar morir a un amigo en la calle!"
+
+# ba_chp1:819
+translate es badAppleChapter1_a17b867d:
+
+    "Un amigo..."
+
+# ba_chp1:820
+translate es badAppleChapter1_6a1a68c9:
+
+    "Después de todo este tiempo, ¿todavía me consideran un amigo?"
+
+# ba_chp1:821
+translate es badAppleChapter1_375b93c5:
+
+    "Después de cómo arruiné y maltraté sus flores la primera vez que nos vimos, después de lo mierda que fui con Stella, que solo estaba feliz de conocer a alguien que compartía su amor por el anime y no hizo más que intentar ser mi amiga..."
+
+# ba_chp1:822
+translate es badAppleChapter1_a20cefa7_24:
+
+    "..."
+
+# ba_chp1:823
+translate es badAppleChapter1_ce5eef45:
+
+    "Después de lo que Fang les hizo a todos... por lo que yo no supe impedir..."
+
+# ba_chp1:824
+translate es badAppleChapter1_2f42cc04:
+
+    "...¿Por qué no me odian...?"
+
+# ba_chp1:829
+translate es badAppleChapter1_c62ff57a:
+
+    Ro "¡Claro que te consideramos un amigo! ¡Niño estúpido!"
+
+# ba_chp1:830
+translate es badAppleChapter1_fcef1c85:
+
+    "Ni sumido en la autocompasión puedo dejar de murmurar..."
+
+# ba_chp1:831
+translate es badAppleChapter1_d54930be:
+
+    Ro "¡Sé que nunca quisiste destrozar mis flores! Los accidentes pasan, ¡y yo veía que debajo de toda esa angustia no eras malo, solo estabas perdido!"
+
+# ba_chp1:832
+translate es badAppleChapter1_988541b5:
+
+    "Las palabras de Rosa resuenan en la sala con una mezcla de exasperación y compasión."
+
+# ba_chp1:833
+translate es badAppleChapter1_aaea3c69:
+
+    Ro "¡Y no te culpes, ni por un segundo, por lo que hizo esa puta satánica de mierda! ¡Eso no fue tu culpa! ¡Ni por un segundo, An-on!"
+
+# ba_chp1:836
+translate es badAppleChapter1_bbe139dc:
+
+    A "No. La cagué, Rosa. La cagué muy feo."
+
+# ba_chp1:837
+translate es badAppleChapter1_39bd5d2a:
+
+    A "Si hubiera sido mejor amigo con los que me rodeaban y no me hubiera puesto por delante de los demás, las cosas podrían haber sido distintas..."
+
+# ba_chp1:838
+translate es badAppleChapter1_9d060399:
+
+    "Se me tensa la voz y el pecho se me aprieta como en una prensa mientras lucho por no perder la compostura."
+
+# ba_chp1:839
+translate es badAppleChapter1_ac02b490:
+
+    "Los ojos de Rosa se encuentran con los míos y se quedan fijos en ellos durante lo que parece una eternidad."
+
+# ba_chp1:841
+translate es badAppleChapter1_ac542c04:
+
+    "Después de unos segundos, vuelve a bajar la mirada al suelo."
+
+# ba_chp1:842
+translate es badAppleChapter1_4083fc0a:
+
+    "Parece a punto de decir algo más, pero una voz a su lado la interrumpe."
+
+# ba_chp1:843
+translate es badAppleChapter1_fb2cb1a2:
+
+    St "Yo no te odio, Anon..."
+
+# ba_chp1:845
+translate es badAppleChapter1_948164cd:
+
+    "Las palabras, sombrías pero comprensivas, salen de Stella mientras mira con la vista perdida la taza que aprieta con las dos manos."
+
+# ba_chp1:846
+translate es badAppleChapter1_29d7fc8d:
+
+    St "Te... t-te perdono por cómo te portaste conmigo... Y-y perdón por haber huido de ti hace rato..."
+
+# ba_chp1:847
+translate es badAppleChapter1_44cce56d:
+
+    St "Es que... desde que yo... Es..."
+
+# ba_chp1:848
+translate es badAppleChapter1_919e6bbf:
+
+    "Por fin levanta la vista hacia mí."
+
+# ba_chp1:851
+translate es badAppleChapter1_7de47337:
+
+    "Sus ojos cuentan una historia de miedo, dolor y tristeza."
+
+# ba_chp1:852
+translate es badAppleChapter1_74d2374a:
+
+    "La lucha que se ve en la cara de la estego me lo dice todo."
+
+# ba_chp1:853
+translate es badAppleChapter1_32093818:
+
+    "Quiere explicarse mejor y contarme por qué se volvió tan retraída y apocada, comparada con la adivina alegre pero torpe con la gente que recuerdo del Instituto Volcano..."
+
+# ba_chp1:854
+translate es badAppleChapter1_41e7a504:
+
+    "...Pero el dolor es demasiado grande..."
+
+# ba_chp1:855
+translate es badAppleChapter1_ccb94923:
+
+    "Rosa mira a su amiga con compasión y aprovecha para retomar el control de la conversación mientras le toma la mano a Stella."
+
+# ba_chp1:856
+translate es badAppleChapter1_133389f2:
+
+    Ro "Lo que Stella intenta decir, An-on, es que ha estado..."
+
+# ba_chp1:858
+translate es badAppleChapter1_bde2306d:
+
+    Ro "...Sufriendo muchísimo desde el ‘Incidente’, como te dije antes."
+
+# ba_chp1:859
+translate es badAppleChapter1_7b18d8ba:
+
+    Ro "Le cuesta hablar con gente a la que no está acostumbrada."
+
+# ba_chp1:860
+translate es badAppleChapter1_cf87b5c1:
+
+    Ro "Cuando la llevé a la farmacia para—"
+
+# ba_chp1:862
+translate es badAppleChapter1_81f0e843:
+
+    "Rosa corta la frase de golpe, como si acabara de tocar un tema delicado."
+
+# ba_chp1:863
+translate es badAppleChapter1_0fbd05d9:
+
+    "Casi puedo ver los engranajes girando en su cabeza mientras piensa cómo explicar mejor la reacción de Stella."
+
+# ba_chp1:864
+translate es badAppleChapter1_9c42748c:
+
+    "Mientras tanto, Stella sigue con la vista clavada en su taza de té, con expresión triste."
+
+# ba_chp1:865
+translate es badAppleChapter1_92d7bb18:
+
+    Ro "Fue una sorpresa."
+
+# ba_chp1:866
+translate es badAppleChapter1_f7045c9a:
+
+    Ro "No esperábamos ver a un viejo amigo allí..."
+
+# ba_chp1:868
+translate es badAppleChapter1_eae4a7e9:
+
+    "Todo se va aclarando cuanto más lo pienso y cuanto más lo explica Rosa."
+
+# ba_chp1:869
+translate es badAppleChapter1_0f804a50:
+
+    "Seguramente el tiroteo le dejó a Stella algún tipo de trastorno de estrés postraumático."
+
+# ba_chp1:870
+translate es badAppleChapter1_316ae61b:
+
+    "Ver a sus compañeros muertos, su escuela sumida en el caos... eso podría traumatizar hasta a la persona más fuerte."
+
+# ba_chp1:871
+translate es badAppleChapter1_90bacb0f:
+
+    "Eso explica su enorme cambio de personalidad, comparado con la Stella que conocía hace medio año."
+
+# ba_chp1:872
+translate es badAppleChapter1_f462fd7e:
+
+    Sp "{cps=*.33}{i}Cada uno está luchando sus propias batallas...{/i}{/cps}"
+
+# ba_chp1:873
+translate es badAppleChapter1_26eb2307:
+
+    "Esas palabras conocidas vuelven a mí mientras siento una punzada de culpa que me sube desde las tripas."
+
+# ba_chp1:874
+translate es badAppleChapter1_01def688:
+
+    "No soy el único que salió de esa escuela con cicatrices. Otros también."
+
+# ba_chp1:875
+translate es badAppleChapter1_ec115c64:
+
+    "Y aquí estaba yo, creyendo que era el único afectado por el tiroteo y el suicidio de Fang."
+
+# ba_chp1:876
+translate es badAppleChapter1_eaa1ada2:
+
+    "...¿Por qué tengo que ser un pedazo de mierda tan egocéntrico...?"
+
+# ba_chp1:877
+translate es badAppleChapter1_a20cefa7_25:
+
+    "..."
+
+# ba_chp1:878
+translate es badAppleChapter1_d482932a:
+
+    "Poco después de mi epifanía, todo queda en silencio."
+
+# ba_chp1:879
+translate es badAppleChapter1_09bb9018:
+
+    "Mientras pienso en mi egoísmo, Rosa sostiene la mano de Stella y me mira, suponiendo que tendré algo que decir después de su explicación."
+
+# ba_chp1:880
+translate es badAppleChapter1_cff0be01:
+
+    "De verdad debería decir algo."
+
+# ba_chp1:882
+translate es badAppleChapter1_c6a29e1d:
+
+    A "Carajo... lo siento mucho, Stella."
+
+# ba_chp1:883
+translate es badAppleChapter1_d07b111f:
+
+    A "No me imagino lo horrible que debió ser para ti pasar por todo eso."
+
+# ba_chp1:884
+translate es badAppleChapter1_38a2e81e:
+
+    "Me pongo en el lugar de Stella y evito mencionar detalles del 'incidente', igual que Rosa, seguramente para que el trauma no vuelva a salir a flote."
+
+# ba_chp1:886
+translate es badAppleChapter1_3b9e9c3f:
+
+    St "G-gracias, Anon. Eso significa mucho..."
+
+# ba_chp1:887
+translate es badAppleChapter1_96e242f7:
+
+    "La voz de Stella sigue siendo tímida, pero espero que mi disculpa baste para aclarar algunas de las cosas que quedaron en el aire."
+
+# ba_chp1:888
+translate es badAppleChapter1_a20cefa7_26:
+
+    "..."
+
+# ba_chp1:889
+translate es badAppleChapter1_29475491:
+
+    "Los tres pasamos la hora y media siguiente hablando de lo que ha sido de nuestras vidas desde el tiroteo del Instituto Volcano."
+
+# ba_chp1:893
+translate es badAppleChapter1_2ec3409b:
+
+    "Sorprendentemente, Rosa decidió quedarse a hacer un quinto año en el Instituto Volcano, cosa que me confunde, porque nunca me pareció de las que necesitarían un año extra en el instituto."
+
+# ba_chp1:897
+translate es badAppleChapter1_5578b652:
+
+    "Siempre me pareció una chica inteligente y trabajadora."
+
+# ba_chp1:901
+translate es badAppleChapter1_3e505408:
+
+    "Rosa explicó que el incidente le 'abrió los ojos' y la hizo darse cuenta de que necesitaba más tiempo para pensar en su futuro."
+
+# ba_chp1:905
+translate es badAppleChapter1_69b41e83:
+
+    "Sin embargo, noté cierta duda e inseguridad cuando dio sus razones, y me dio la sensación de que detrás de su decisión hay más de lo que deja ver."
+
+# ba_chp1:909
+translate es badAppleChapter1_ec6e45f2:
+
+    "Además, Rosa contó que ocupó el puesto de presidenta del consejo estudiantil que dejó vacante Naomi y que dirige el club de jardinería."
+
+# ba_chp1:913
+translate es badAppleChapter1_ca8931f5:
+
+    "Esta mujer va a terminar en la tumba antes de tiempo de tanto trabajar..."
+
+# ba_chp1:915
+translate es badAppleChapter1_092fc675:
+
+    Ro "Quiero marcar la diferencia donde pueda y arreglar todo lo que destruyó esa puta."
+
+# ba_chp1:916
+translate es badAppleChapter1_09bece30:
+
+    "Definitivamente se refiere a Fang."
+
+# ba_chp1:917
+translate es badAppleChapter1_b0ab23d0:
+
+    "La situación de Stella, en cambio, se parece demasiado a la mía..."
+
+# ba_chp1:923
+translate es badAppleChapter1_516d9825:
+
+    St "Desde... l-lo que pasó... me volví una hikikomori..."
+
+# ba_chp1:924
+translate es badAppleChapter1_ca7289dd:
+
+    "Esa palabra yo también la conozco de sobra, carajo..."
+
+# ba_chp1:926
+translate es badAppleChapter1_c83fae23:
+
+    St "Todavía vivo con mis papás. La mayoría de los días no salgo de mi cuarto. Y además... ya no voy a la escuela..."
+
+# ba_chp1:928
+translate es badAppleChapter1_8a05636d:
+
+    "Por lo menos, Stella todavía tiene padres que la cuidan."
+
+# ba_chp1:929
+translate es badAppleChapter1_d5d7d4c7:
+
+    "Diablos, con solo dejarla vivir con ellos, los papás de Stella ya hacen muchísimo más de lo que mis padres hicieron jamás."
+
+# ba_chp1:930
+translate es badAppleChapter1_cac22740:
+
+    A "...Mis padres prácticamente me tiraron a la basura cuando no 'estuve a la altura de sus expectativas', fueran cuales fueran..."
+
+# ba_chp1:932
+translate es badAppleChapter1_9d2af0fe:
+
+    "En cuanto lo digo, Stella empieza a disculparse conmigo un poco de más."
+
+# ba_chp1:933
+translate es badAppleChapter1_db9a2236:
+
+    "¿Supongo que es su forma de mostrarme compasión?"
+
+# ba_chp1:934
+translate es badAppleChapter1_79dfba34:
+
+    A "Está... bien, Stella. No es tu culpa que mis viejos sean una mierda como padres..."
+
+# ba_chp1:937
+translate es badAppleChapter1_f0fc2626:
+
+    Ro "¿Qué pasó después de que saliste del hospital?"
+
+# ba_chp1:938
+translate es badAppleChapter1_d8654138_3:
+
+    A "..."
+
+# ba_chp1:939
+translate es badAppleChapter1_464008f0:
+
+    "Me deja un sabor amargo, pero les explico mi situación desde que dejé el Instituto Volcano."
+
+# ba_chp1:940
+translate es badAppleChapter1_7d005b7c:
+
+    "No lo endulzo. Les cuento a las dos que no tengo trabajo ni estudio nada, que me estoy pudriendo en un apartamento de Skin Row."
+
+# ba_chp1:941
+translate es badAppleChapter1_152375ba:
+
+    "A las dos les sorprende enterarse de que vivo en una parte tan turbia de la ciudad."
+
+# ba_chp1:943
+translate es badAppleChapter1_c6a223c2:
+
+    A "Pero si me encontraron en una farmacia EN Skin Row... por no hablar de que me salvaron de que me matara a golpes una enana enmascarada..."
+
+# ba_chp1:945
+translate es badAppleChapter1_3fbe7e2b:
+
+    "Por toda respuesta, Rosa y Stella intercambian miradas confundidas y preocupadas."
+
+# ba_chp1:946
+translate es badAppleChapter1_7bdb45be:
+
+    "Supongo que nunca les conté dónde vivo..."
+
+# ba_chp1:947
+translate es badAppleChapter1_8f2112d0:
+
+    "Aunque prácticamente les abro el corazón a Rosa y a Stella, me cuido de no mencionar los aspectos más sórdidos de mi ya sórdida vida, por ejemplo, que me trago las pastillas como si fueran dulces."
+
+# ba_chp1:948
+translate es badAppleChapter1_fbddd352:
+
+    "Por no hablar de las pesadillas y alucinaciones constantes que tengo desde que salí del hospital."
+
+# ba_chp1:949
+translate es badAppleChapter1_e46e5bab:
+
+    "Acabo de reencontrarme con ellas. No quiero que sepan lo jodido de la cabeza que estoy en realidad..."
+
+# ba_chp1:952
+translate es badAppleChapter1_a20cefa7_27:
+
+    "..."
+
+# ba_chp1:953
+translate es badAppleChapter1_b544043e:
+
+    "Miro el reloj y me doy cuenta, alarmado, de lo tarde que ya es."
+
+# ba_chp1:954
+translate es badAppleChapter1_8f774573:
+
+    "Con razón tengo tantas ganas de fumar y shitpostear a la vez. Es lo que suelo hacer a estas horas de la noche."
+
+# ba_chp1:955
+translate es badAppleChapter1_551d5ebd:
+
+    A "Mierda. ¿De verdad es tan tarde?"
+
+# ba_chp1:956
+translate es badAppleChapter1_ea0af2e6:
+
+    A "Maldición. A esta hora ya no hay forma de que agarre un autobús de vuelta a casa."
+
+# ba_chp1:957
+translate es badAppleChapter1_0e703ae1:
+
+    A "No sé cómo agradecerte, Rosa, ¡pero tengo que irme ya!"
+
+# ba_chp1:963
+translate es badAppleChapter1_b77cf9a7:
+
+    Ro "¡¿Estás loco, chico?!"
+
+# ba_chp1:964
+translate es badAppleChapter1_7ec33810:
+
+    Ro "¡Tú NO vas a ninguna parte con esa pierna herida, ni con todos esos moretones y raspones todavía frescos!"
+
+# ba_chp1:965
+translate es badAppleChapter1_e3552441:
+
+    A "P-pe—{nw}"
+
+# ba_chp1:967
+translate es badAppleChapter1_dfcb7f83:
+
+    Ro "¡Nada de peros!"
+
+# ba_chp1:969
+translate es badAppleChapter1_d8654138_4:
+
+    A "..."
+
+# ba_chp1:970
+translate es badAppleChapter1_b3f2dc79:
+
+    "Solo quería volver a casa a fumar y shitpostear hasta olvidar el dolor, pero Rosa tiene razón. No puedo ni ponerme de pie, mucho menos caminar los kilómetros que hagan falta hasta la parada de autobús más cercana."
+
+# ba_chp1:971
+translate es badAppleChapter1_1923ace7:
+
+    "Además, nadie ha sido tan amable y generoso conmigo en... bueno, en la vida."
+
+# ba_chp1:972
+translate es badAppleChapter1_b5aa6285:
+
+    "¿Quién soy yo para despreciar eso?"
+
+# ba_chp1:973
+translate es badAppleChapter1_a20cefa7_28:
+
+    "..."
+
+# ba_chp1:974
+translate es badAppleChapter1_8869c2fc:
+
+    "Aun así, necesito un cigarro. Aunque sea para calmar el dolor..."
+
+# ba_chp1:980
+translate es badAppleChapter1_a1261936:
+
+    Ro "Stella, necesito hablar contigo un momento."
+
+# ba_chp1:982
+translate es badAppleChapter1_f8e9e91b:
+
+    St "O-oh... Bueno..."
+
+# ba_chp1:991
+translate es badAppleChapter1_5bba8631:
+
+    "Casi como si intuyeran que quiero estar solo, Rosa y Stella suben por una escalera cercana para hablar en privado."
+
+# ba_chp1:992
+translate es badAppleChapter1_dc166b38:
+
+    "Aprovecho la oportunidad para darme el gusto."
+
+# ba_chp1:997
+translate es badAppleChapter1_1d0d6faf:
+
+    "Con la ayuda de una silla de escritorio que la Sra. Castillo me prestó para llegar al baño sin apoyar la pierna, me dirijo hacia la entrada de la casa y de ahí a la terraza trasera."
+
+# ba_chp1:1001
+translate es badAppleChapter1_d69868df:
+
+    "Al abrir sin hacer ruido la puerta corrediza, me recibe un mar de estrellas en el cielo nocturno."
+
+# ba_chp1:1005
+translate es badAppleChapter1_19ab13d3:
+
+    "Me bajo despacio hasta el suelo, con cuidado de no lastimarme más la pierna, que ya está bastante jodida. Luego me arrastro hasta el borde de la terraza, como un perro arrastrando el trasero."
+
+# ba_chp1:1009
+translate es badAppleChapter1_758b57dd:
+
+    "Cuando encuentro un lugar de la terraza lo bastante cómodo para sentarme, saco la cajetilla, la abro y tomo un cigarro, junto con el encendedor de mierda de la tienda de todo a un dólar que guardo dentro."
+
+# ba_chp1:1011
+translate es badAppleChapter1_7d38ef2e:
+
+    "Me llevo el cigarro a la boca y lo enciendo; le doy una bocanada profunda y me lleno los pulmones con la sensación acre pero relajante de la nicotina y el tabaco."
+
+# ba_chp1:1013
+translate es badAppleChapter1_f16ba4bb:
+
+    "La marca es una mierda, pero me calma los nervios y me ayuda a adormecer el dolor."
+
+# ba_chp1:1014
+translate es badAppleChapter1_8ced3dc3:
+
+    "Mientras el humo sale de mis pulmones, miro a mi alrededor y veo lo grande que es en realidad el patio de Rosa."
+
+# ba_chp1:1015
+translate es badAppleChapter1_373978d9:
+
+    "Tiene sentido: Rosa vive en una parte más rural de Volcaldera Bluffs, con solo dos casas vecinas, y la casa de los Castillo es básicamente un rancho."
+
+# ba_chp1:1016
+translate es badAppleChapter1_278caf95:
+
+    "Rosa y su familia deben de llevar una vida bastante tranquila aquí."
+
+# ba_chp1:1019
+translate es badAppleChapter1_a34f7506:
+
+    "Siento que me invade una extraña paz, sobre todo con las estrellas danzando sobre los campos de hierba como una cascada de brillo lunar."
+
+# ba_chp1:1020
+translate es badAppleChapter1_d21dbd42:
+
+    "Al mirar la luna, su luz pálida me recuerda tanto a Fang..."
+
+# ba_chp1:1030
+translate es badAppleChapter1_a20cefa7_29:
+
+    "..."
+
+# ba_chp1:1044
+translate es badAppleChapter1_a8128e2f:
+
+    "...Ojalá hubiera podido compartir momentos así con ella..."
+
+# ba_chp1:1045
+translate es badAppleChapter1_7a5051b1:
+
+    "Qué no daría por volver a tenerte en mis brazos y verte una última vez..."
+
+# ba_chp1:1046
+translate es badAppleChapter1_a10134c7:
+
+    unknown "¿C-cómo estás?"
+
+# ba_chp1:1048
+translate es badAppleChapter1_db22858e:
+
+    "Una voz suave me saca de mis pensamientos."
+
+# ba_chp1:1052
+translate es badAppleChapter1_c8dd24f5:
+
+    "Me doy la vuelta y veo a Stella, tímida pero atenta, con una camiseta rosa enorme, unos shorts negros y pantuflas de gatito."
+
+# ba_chp1:1053
+translate es badAppleChapter1_57c9cd59:
+
+    "Por si no fuera obvio, supongo que ella también se queda a dormir."
+
+# ba_chp1:1054
+translate es badAppleChapter1_c6f38bcd:
+
+    A "De mara—digo, ya estoy un poco mejor. Gracias."
+
+# ba_chp1:1056
+translate es badAppleChapter1_606dc47a:
+
+    "No seas imbécil, Anon. Vino a ver cómo estabas. Eso es muchísimo más de lo que ha hecho cualquiera en tu vida."
+
+# ba_chp1:1058
+translate es badAppleChapter1_238bbf1f:
+
+    St "No estás siendo grosero."
+
+# ba_chp1:1059
+translate es badAppleChapter1_1c2044e8:
+
+    St "Entiendo si no estás de muy buen humor, perdón..."
+
+# ba_chp1:1060
+translate es badAppleChapter1_02b8ef60:
+
+    "Stella aparta la mirada, abatida."
+
+# ba_chp1:1064
+translate es badAppleChapter1_ba490432:
+
+    A "¡Espera, Stella!"
+
+# ba_chp1:1067
+translate es badAppleChapter1_8fae7c66:
+
+    A "Lo... lo siento."
+
+# ba_chp1:1069
+translate es badAppleChapter1_db21780a:
+
+    A "Es que... no he hablado con nadie desde el instituto."
+
+# ba_chp1:1070
+translate es badAppleChapter1_1a81d5e8:
+
+    A "Estoy un poco oxidado para tratar con la gente, aunque tampoco es que antes fuera muy bueno."
+
+# ba_chp1:1071
+translate es badAppleChapter1_390cf42b:
+
+    "Mis ojos se encuentran con los de Stella. Aunque solo un momento, porque los suyos se van al cielo."
+
+# ba_chp1:1072
+translate es badAppleChapter1_1c432a65:
+
+    A "Después de lo que... pasó... dejé de intentar hablar con los demás..."
+
+# ba_chp1:1081
+translate es badAppleChapter1_8d914377:
+
+    "La estegosaurio lima se sienta en los escalones a mi derecha, pero sus ojos siguen hechizados por las estrellas, y no dice nada."
+
+# ba_chp1:1083
+translate es badAppleChapter1_2e9af8a5:
+
+    A "Ese día casi me muero... Aunque se siente como si eso fuera lo que pasó, o lo que debió pasar."
+
+# ba_chp1:1086
+translate es badAppleChapter1_03eb134f:
+
+    "Lo que digo logra captar la atención de Stella, que vuelve la mirada hacia mí mientras sigo con mi monólogo."
+
+# ba_chp1:1087
+translate es badAppleChapter1_61cc6afd:
+
+    A "Nadie fue a verme al hospital. Ni siquiera mis propios padres."
+
+# ba_chp1:1089
+translate es badAppleChapter1_7320b559:
+
+    A "Para ellos y para todos los demás, era como si me hubiera muerto."
+
+# ba_chp1:1090
+translate es badAppleChapter1_f926e25b:
+
+    A "Desde entonces, solo voy a la deriva por la vida, sin propósito ni sentido."
+
+# ba_chp1:1092
+translate es badAppleChapter1_d8654138_5:
+
+    A "..."
+
+# ba_chp1:1093
+translate es badAppleChapter1_78951825:
+
+    A "Y... quizá sea mejor así..."
+
+# ba_chp1:1094
+translate es badAppleChapter1_50d91311:
+
+    "Bajo la mirada al suelo y suelto un suspiro profundo, mirando mi mano con el cigarro todavía encendido, mirando cómo el papel sigue quemándose y se vuelve ceniza."
+
+# ba_chp1:1099
+translate es badAppleChapter1_95585bbc:
+
+    "Pasan un par de segundos y siento el leve roce de una mano en el hombro."
+
+# ba_chp1:1100
+translate es badAppleChapter1_b28aa936:
+
+    St "El destino tampoco ha sido amable conmigo."
+
+# ba_chp1:1102
+translate es badAppleChapter1_6ba5bc7a:
+
+    "La expresión de Stella se llena de una mezcla de tristeza y derrota."
+
+# ba_chp1:1103
+translate es badAppleChapter1_d01fad72:
+
+    St "Yo tampoco he hablado con nadie... Aparte de mis papás y Rosa, desde..."
+
+# ba_chp1:1104
+translate es badAppleChapter1_36eed879:
+
+    "A Stella le tiembla la voz al decirlo."
+
+# ba_chp1:1105
+translate es badAppleChapter1_8e7b6ea7:
+
+    A "Sé a lo que te refieres... No estás sola en eso. Ha sido difícil..."
+
+# ba_chp1:1107
+translate es badAppleChapter1_eb6f61e6:
+
+    St "Sí..."
+
+# ba_chp1:1108
+translate es badAppleChapter1_cca673ae:
+
+    "Maldita sea. ¿Por qué no puedo ser mejor para hablar y compartir un momento con alguien?"
+
+# ba_chp1:1109
+translate es badAppleChapter1_16dd54c0:
+
+    "¿De verdad mi exilio voluntario en la vida NEET me convirtió en un autista tan antisocial?"
+
+# ba_chp1:1110
+translate es badAppleChapter1_5b15df7c:
+
+    St "Entonces..."
+
+# ba_chp1:1118
+translate es badAppleChapter1_c1fdc8e9:
+
+    St "¿Cómo sientes la pierna ahora? ¿Todavía te duele?"
+
+# ba_chp1:1119
+translate es badAppleChapter1_dd9b99d4:
+
+    "Inflamada. Palpitante. Frágil."
+
+# ba_chp1:1120
+translate es badAppleChapter1_d78f755f:
+
+    "Esas son las palabras que se me vienen a la mente para describir cómo la siento."
+
+# ba_chp1:1121
+translate es badAppleChapter1_4bc9af89:
+
+    "Siento que la pierna se me va a deshacer en cualquier momento. Aunque eso no debería decirlo."
+
+# ba_chp1:1123
+translate es badAppleChapter1_54908daa:
+
+    A "No voy a mentir, todavía me duele bastante. Aunque no tanto como antes."
+
+# ba_chp1:1124
+translate es badAppleChapter1_a26f471d:
+
+    "La expresión de la tímida estego se vuelve de preocupación mientras examina mi pierna lisiada."
+
+# ba_chp1:1125
+translate es badAppleChapter1_f2ff81aa:
+
+    St "T-todavía no puedo creer que alguien te lastimara así como así."
+
+# ba_chp1:1127
+translate es badAppleChapter1_8b408f29:
+
+    St "Nadie merece que lo traten así..."
+
+# ba_chp1:1128
+translate es badAppleChapter1_a20cefa7_30:
+
+    "..."
+
+# ba_chp1:1129
+translate es badAppleChapter1_2c4c273f:
+
+    "Te equivocas, Stella."
+
+# ba_chp1:1131
+translate es badAppleChapter1_a561593a:
+
+    "Me merezco algo peor que esto..."
+
+# ba_chp1:1132
+translate es badAppleChapter1_3b94323a:
+
+    "Pasa otro silencio breve pero cómodo, que me tranquiliza: no estoy murmurando la mierda de autodesprecio que me retumba en la cabeza."
+
+# ba_chp1:1134
+translate es badAppleChapter1_156b0ac8:
+
+    A "E-entonces... ¿has visto algún anime nuevo últimamente?"
+
+# ba_chp1:1135
+translate es badAppleChapter1_ce193ce2:
+
+    "Es una pregunta medio estúpida, pero es lo único que se me ocurre para relajar el ambiente."
+
+# ba_chp1:1137
+translate es badAppleChapter1_f806757c:
+
+    St "¡O-oh, eh, sí! ¡De hecho, vi un par de series nuevas muy buenas!"
+
+# ba_chp1:1138
+translate es badAppleChapter1_809af398:
+
+    St "¡A ver, está Fullmetal Alchemist: Brotherhood, The Promised Neverland, Beastars, ah, y Demon Slayer!"
+
+# ba_chp1:1140
+translate es badAppleChapter1_b4ea4521:
+
+    "Me da un poco de vergüenza ajena por dentro recordar el gusto normie de Stella para el anime."
+
+# ba_chp1:1141
+translate es badAppleChapter1_058198f7:
+
+    "Aun así, la pregunta tan simple parece haberle levantado el ánimo. Me sostiene la mirada mientras se le forma una leve sonrisa en los labios."
+
+# ba_chp1:1143
+translate es badAppleChapter1_5bff2694:
+
+    St "¿Y tú, Anon? ¿Viste alguna serie buena últimamente?"
+
+# ba_chp1:1145
+translate es badAppleChapter1_747e46c4:
+
+    "Yo... la verdad no he visto ningún anime últimamente, por increíble que parezca."
+
+# ba_chp1:1146
+translate es badAppleChapter1_decef523:
+
+    "Estos últimos meses solo he estado pegado al monitor, recorriendo los distintos basureros de internet, con alguna partida de Rock Ring de vez en cuando."
+
+# ba_chp1:1147
+translate es badAppleChapter1_6e338eab:
+
+    "La niebla que me envuelve el cerebro me hace difícil recordar haber visto algo nuevo, salvo quizá..."
+
+# ba_chp1:1148
+translate es badAppleChapter1_66de52d7:
+
+    A "Creo que-"
+
+# ba_chp1:1151
+translate es badAppleChapter1_9369a582:
+
+    "Mi respuesta, nada pensada, se corta de golpe cuando siento un ardor punzante en los dedos de la mano izquierda."
+
+# ba_chp1:1152
+translate es badAppleChapter1_4e07534b:
+
+    "Ay, maldita sea. Me olvidé del cigarro."
+
+# ba_chp1:1153
+translate es badAppleChapter1_44a40ba4:
+
+    A "¡Ah, mierda!"
+
+# ba_chp1:1156
+translate es badAppleChapter1_c66a69d2:
+
+    "Grito mientras suelto el cigarro y apago los restos de un pisotón con el pie izquierdo."
+
+# ba_chp1:1158
+translate es badAppleChapter1_e81efaa7_1:
+
+    "Espera..."
+
+# ba_chp1:1165
+translate es badAppleChapter1_0d265695:
+
+    A "¡MIEEEEEEEEEEEEEERDAAAAAA!!!!" with hpunch
+
+# ba_chp1:1168
+translate es badAppleChapter1_64f0a06c:
+
+    "Se cometieron errores."
+
+# ba_chp1:1170
+translate es badAppleChapter1_0cf68bad:
+
+    "Putos instintos de cavernícola..."
+
+# ba_chp1:1172
+translate es badAppleChapter1_97027f41:
+
+    St "A-Anon, ¡¿estás bien?!"
+
+# ba_chp1:1176
+translate es badAppleChapter1_6a8cab43:
+
+    "Antes de que pueda responder entre jadeos de dolor, una retahíla en español sale de la casa."
+
+# ba_chp1:1181
+translate es badAppleChapter1_2afa5753:
+
+    Ro "¡¿QUÉ ESTÁ PASANDO AHÍ FUERA?! ¡¿ESTÁN TODOS BIEN?!"
+
+# ba_chp1:1182
+translate es badAppleChapter1_5e07dfc8:
+
+    "Los gritos que salen de la casa suenan cada vez más fuerte a medida que la autora de esa retahíla se acerca a la puerta corrediza."
+
+# ba_chp1:1183
+translate es badAppleChapter1_cef737e3:
+
+    Ro "¡An-on! ¿Qué pasó? ¡¿Estás bien?!"
+
+# ba_chp1:1191
+translate es badAppleChapter1_d4681986:
+
+    "Rosa grita mientras aparta de la puerta la silla de escritorio; sale descalza, con un pijama sencillo pero colorido, y corre hacia nosotros para ver por qué grito de dolor."
+
+# ba_chp1:1196
+translate es badAppleChapter1_16de85b0:
+
+    A "Estoy bien. Solo hice algo que no debía..."
+
+# ba_chp1:1197
+translate es badAppleChapter1_2c71f2b8:
+
+    Ro "¿Qué quieres decir? ¿Qué—"
+
+# ba_chp1:1198
+translate es badAppleChapter1_19f0b1f6:
+
+    "La pregunta de Rosa se corta en seco cuando ve los restos aplastados de un cigarro justo donde estaba mi pie hace un segundo."
+
+# ba_chp1:1200
+translate es badAppleChapter1_1d15440a:
+
+    "Como si apretaran un interruptor, la cara de preocupación de Rosa se convierte enseguida en una de fastidio."
+
+# ba_chp1:1201
+translate es badAppleChapter1_fe58083b:
+
+    "Antes de que pueda explicarme, la aquilops malhumorada me interrumpe con un manotazo en la cabeza."
+
+# ba_chp1:1212
+translate es badAppleChapter1_dde7210a:
+
+    A "¡Auch! ¿Qué carajo?"
+
+# ba_chp1:1213
+translate es badAppleChapter1_02a11d9f:
+
+    Ro "¡NO FUMAR! ¿QUIERES MATAR TUS PULMONES Y APESTAR LA CASA?"
+
+# ba_chp1:1217
+translate es badAppleChapter1_8bc8ab28:
+
+    Ro "Además, ¿qué hacen ustedes dos aquí afuera tan tarde? ¡Ya deberían irse a dormir!"
+
+# ba_chp1:1218
+translate es badAppleChapter1_93b2fab5:
+
+    "...Qué curioso, eso es justo lo que intento evitar ahora mismo..."
+
+# ba_chp1:1222
+translate es badAppleChapter1_50db1df7:
+
+    Ro "¿Pero por qué, An-on? Tú lo necesitas más que nadie. ¡Estás herido!"
+
+# ba_chp1:1223
+translate es badAppleChapter1_4dc83ef5:
+
+    "Su tono se suaviza un poco al responder a lo que murmuré."
+
+# ba_chp1:1224
+translate es badAppleChapter1_8c68a40f:
+
+    "No necesita saber el motivo. No necesita saberlo."
+
+# ba_chp1:1227
+translate es badAppleChapter1_5dfc4925:
+
+    A "No podría dormir aunque quisiera. Tengo insomnio."
+
+# ba_chp1:1228
+translate es badAppleChapter1_ec53bb27:
+
+    "La mirada que me echa Rosa lo dice todo: ‘Vamos, sabemos que eso es pura mierda’."
+
+# ba_chp1:1229
+translate es badAppleChapter1_dfb6a605:
+
+    "Su mirada penetrante me hace ceder, y suelto un suspiro."
+
+# ba_chp1:1230
+translate es badAppleChapter1_89e4b08c:
+
+    A "Está bien, no puedo dormir... No porque físicamente no pueda, sino porque no quiero."
+
+# ba_chp1:1232
+translate es badAppleChapter1_a57af944:
+
+    A "No tengo más que pesadillas en las que revivo ese día una y otra vez, cada una más espantosa y horrible que la anterior, y yo..."
+
+# ba_chp1:1233
+translate es badAppleChapter1_047cb8fa:
+
+    A "Simplemente no puedo... Ya no..."
+
+# ba_chp1:1238
+translate es badAppleChapter1_10f7d32b:
+
+    "Rosa se arrodilla a mi lado y levanta una mano, pero esta vez me la pone en el hombro en lugar de estampármela en la cabeza."
+
+# ba_chp1:1239
+translate es badAppleChapter1_3fdcd320:
+
+    Ro "Lo siento, An-on. Ni siquiera me imagino lo difícil que debe ser para ti."
+
+# ba_chp1:1241
+translate es badAppleChapter1_d51f1734:
+
+    Ro "Pero tienes que descansar."
+
+# ba_chp1:1242
+translate es badAppleChapter1_ebd2f520:
+
+    Ro "Si no duermes de verdad, a tu pierna le va a costar mucho más sanar."
+
+# ba_chp1:1245
+translate es badAppleChapter1_35cef92c:
+
+    "De verdad no quiero dormir. Pero viendo lo jodida que tengo la pierna y que no tengo nada que me ayude a mantenerme despierto, supongo que no me queda mucha opción."
+
+# ba_chp1:1246
+translate es badAppleChapter1_a0a6d76e:
+
+    "Sobre todo si se trata de razonar con Rosa."
+
+# ba_chp1:1248
+translate es badAppleChapter1_a5c08bf3:
+
+    A "Está bien..."
+
+# ba_chp1:1251
+translate es badAppleChapter1_8d999189:
+
+    Ro "¡Muy bien! ¡Ven, te ayudo a levantarte!"
+
+# ba_chp1:1259
+translate es badAppleChapter1_973955fa:
+
+    "Igual que antes, Rosa se pone a mi derecha y, antes de que tenga que pedirlo, Stella se pone a mi izquierda, lista para ayudarme."
+
+# ba_chp1:1266
+translate es badAppleChapter1_262f12ee:
+
+    Ro "¡Muy bien: uno, dos, tres!"
+
+# ba_chp1:1276
+translate es badAppleChapter1_d69e34cf:
+
+    "Volvemos adentro, donde las dos me ayudan a sentarme en la silla de escritorio que me prestaron."
+
+# ba_chp1:1277
+translate es badAppleChapter1_a5e185d1:
+
+    Ro "Ah, por cierto, An-on. Te dejamos unas almohadas y unas mantas en el sillón, y también una almohada para la pierna."
+
+# ba_chp1:1278
+translate es badAppleChapter1_3eff9102:
+
+    "Me avisa Rosa mientras me lleva rodando por la casa, por la cocina y el pasillo, camino a la sala."
+
+# ba_chp1:1279
+translate es badAppleChapter1_a15a35b8:
+
+    A "Gracias, Rosa, no sé qué decir."
+
+# ba_chp1:1280
+translate es badAppleChapter1_a6d435bc:
+
+    "Rosa solo responde con una sonrisa amable."
+
+# ba_chp1:1289
+translate es badAppleChapter1_cd57f2ac:
+
+    "Por fin entramos a la sala y veo el sillón con tres almohadas limpias y una manta blanca, enorme y igual de esponjosa."
+
+# ba_chp1:1290
+translate es badAppleChapter1_4b968f91:
+
+    A "Lo digo en serio, han hecho muchísimo por mí esta noche, de verdad se los agradezco."
+
+# ba_chp1:1294
+translate es badAppleChapter1_1c781464:
+
+    "Rosa y Stella me vuelven a sonreír, aunque la sonrisa de Stella es más tímida y discreta que la de Rosa, llena de seguridad."
+
+# ba_chp1:1295
+translate es badAppleChapter1_00a2b81c:
+
+    Ro "¡Claro! Al fin y al cabo, ¿para qué sirven los amigos?"
+
+# ba_chp1:1296
+translate es badAppleChapter1_b859e51c:
+
+    "Rosa asiente y se da la vuelta para retirarse por esta noche."
+
+# ba_chp1:1300
+translate es badAppleChapter1_11d2deef:
+
+    Ro "¡Buenas noches, An-on!"
+
+# ba_chp1:1302
+translate es badAppleChapter1_08030326:
+
+    "Solo Stella se queda conmigo en la sala, a medio metro de mí, inquieta y evitando otra vez mi mirada."
+
+# ba_chp1:1304
+translate es badAppleChapter1_4bfad7b4:
+
+    St "Me... me alegra que te hayamos vuelto a encontrar."
+
+# ba_chp1:1305
+translate es badAppleChapter1_eceafbfb:
+
+    A "Sí... A mí también..."
+
+# ba_chp1:1309
+translate es badAppleChapter1_ad1945df:
+
+    "Deja de moverse nerviosa y se gira para ir por donde se fue Rosa, aunque se detiene junto a la puerta."
+
+# ba_chp1:1313
+translate es badAppleChapter1_6c20bb5f:
+
+    "Gira un poco la cabeza hacia mí y le veo una leve sonrisa en el pico."
+
+# ba_chp1:1315
+translate es badAppleChapter1_12885b3a:
+
+    St "Que descanses. Espero que te sientas mejor mañana."
+
+# ba_chp1:1317
+translate es badAppleChapter1_b0a9f670:
+
+    A "Gracias, Stella. Tú también."
+
+# ba_chp1:1321
+translate es badAppleChapter1_4ba67fe6:
+
+    "Sin dejar de sonreír, hace una leve inclinación de cabeza antes de salir de la sala y dejarme solo en la casa de los Castillo."
+
+# ba_chp1:1323
+translate es badAppleChapter1_c73498b7:
+
+    "La sala se extiende ante mí, apenas iluminada por la lámpara que hay en una mesa junto a la cama improvisada. Solo este sillón ya se ve más cómodo que mi cama."
+
+# ba_chp1:1324
+translate es badAppleChapter1_5c0a63ae:
+
+    "Mañana me voy a odiar por aceptar esto, ¿verdad?"
+
+# ba_chp1:1325
+translate es badAppleChapter1_f4bc1bca:
+
+    "Me paso de la silla de escritorio al sillón con mucho cuidado de no lastimarme más la pierna."
+
+# ba_chp1:1326
+translate es badAppleChapter1_43e92e39:
+
+    "Éxito."
+
+# ba_chp1:1327
+translate es badAppleChapter1_2e2054c7:
+
+    "Me meto bajo la manta y apoyo la pierna en la almohada que debería darle comodidad y soporte. Suelo dormir de lado, pero esta noche no tengo ganas de despertar a toda la casa con mis gritos."
+
+# ba_chp1:1328
+translate es badAppleChapter1_969bb826:
+
+    "Carajo, esto es muy cómodo."
+
+# ba_chp1:1329
+translate es badAppleChapter1_d7c98361:
+
+    "Si quisiera dormir esta noche, lo disfrutaría muchísimo."
+
+# ba_chp1:1331
+translate es badAppleChapter1_e7e5ad38:
+
+    "Ya solo me queda una cosa por hacer: estiro la mano hacia la lámpara de la mesa, apago la luz y veo cómo la sala se funde en negro; me rodea una oscuridad acogedora que invita a mi cuerpo a hundirse en el sillón y me envuelve con su calidez."
+
+# ba_chp1:1332
+translate es badAppleChapter1_09a93b8a:
+
+    "Después de todo, todavía no puedo creer que esas dos me ayudaran y me dejaran quedarme a dormir. Mientras me voy quedando dormido, una simple frase resuena en mi mente."
+
+# ba_chp1:1333
+translate es badAppleChapter1_a3cfac78:
+
+    A "¿De verdad me merezco esto?"

@@ -1,0 +1,109 @@
+# Bad Apple - traduccion al espanol latinoamericano (menus, nombres y textos sueltos)
+# Version del parche: 1.0 (2026-11-22)
+# Para: Bad Apple (Team Starlight) sobre Snoot Game Patch 14 (Ren'Py 8.3.7.25031702)
+#
+# Capa de traduccion independiente: no modifica ningun archivo del mod ni del juego.
+# Archivo GENERADO por herramientas/construir.py. No lo edites a mano: la traduccion vive
+# en fuente/ y cada bloque de aqui abajo se refiere al guion original por archivo y linea.
+# Es un .rpym para que el cargador de mods del juego solo lo cargue con el mod activado.
+#
+# Bad Apple y Snoot Game pertenecen a sus autores. Esta es una traduccion de fans.
+
+init 900 python hide:
+
+    def ba_es_poner(pares):
+        try:
+            traductor = renpy.game.script.translator
+            cadenas = traductor.strings["es"]
+            traductor.languages.add("es")
+        except Exception:
+            return
+        for original, traduccion in pares:
+            if original not in cadenas.translations:
+                try:
+                    cadenas.add(original, traduccion, ("game/mods/BadAppleMod/es/ba_cadenas_es.rpym", 0))
+                except Exception:
+                    pass
+
+    ba_es_poner([
+        # ba_chapterselect:19 (menu)
+        ("Select an arc to start from:", "Elige desde qué arco empezar:"),
+        # ba_chapterselect:19 (menu)
+        ("Start from beginning", "Empezar desde el principio"),
+        # ba_chapterselect:19 (menu)
+        ("Arc 1: The Tower", "Arco 1: La Torre"),
+        # ba_chapterselect:19 (menu)
+        ("Arc 2: The Lovers", "Arco 2: Los Enamorados"),
+        # ba_chapterselect:24 (menu)
+        ("Select a chapter to start from:", "Elige desde qué capítulo empezar:"),
+        # ba_chapterselect:24 (menu)
+        ("Chapter 1", "Capítulo 1"),
+        # ba_chapterselect:24 (menu)
+        ("Chapter 2", "Capítulo 2"),
+        # ba_chapterselect:24 (menu)
+        ("Chapter 3", "Capítulo 3"),
+        # ba_chapterselect:35 (menu)
+        ("Chapter 4", "Capítulo 4"),
+        # ba_chapterselect:35 (menu)
+        ("Chapter 5", "Capítulo 5"),
+        # ba_chapterselect:35 (menu)
+        ("Chapter 6", "Capítulo 6"),
+        # ba_chp1:4 (valor_nombre)
+        ("Rosa's Mom", "Mamá de Rosa"),
+        # ba_chp1:709 (valor_nombre)
+        ("Mrs. Castillo", "Sra. Castillo"),
+        # ba_chp2:852 (texto)
+        ("One day earlier...", "Un día antes..."),
+        # ba_chp3:798 (flotante)
+        ("What’s wrong Anon? Can’t get your fix? Starting to get shaky?", "¿Qué pasa, Anon? ¿No consigues tu dosis? ¿Ya te están dando temblores?"),
+        # ba_chp3:801 (flotante)
+        ("Fucking junkie!", "¡Maldito drogadicto!"),
+        # ba_chp3:804 (flotante)
+        ("Imagine surviving both a gunshot and a beating only to die in a restaurant from fucking withdrawal.", "Imagínate sobrevivir a un balazo y a una paliza para acabar muriéndote en un restaurante por la puta abstinencia."),
+        # ba_chp3:813 (flotante)
+        ("They’re gonna ditch you too. It’s only a matter of time.", "Ellas también te van a dejar tirado. Es solo cuestión de tiempo."),
+        # ba_chp3:816 (flotante)
+        ("You’ll always be nothing but a loser! A waste of space!", "¡Nunca vas a ser más que un perdedor! ¡Un desperdicio de espacio!"),
+        # ba_chp3:819 (flotante)
+        ("Your parents didn’t want you. Your friends didn’t want you.", "Tus padres no te querían. Tus amigos no te querían."),
+        # ba_chp3:824 (flotante)
+        ("{size=*2}I didn’t want you.{/size}", "{size=*2}Yo no te quería.{/size}"),
+        # ba_chp3:1128 (flotante)
+        ("A couple of minutes earlier.", "Un par de minutos antes."),
+        # ba_chp3:1426 (flotante)
+        ("Forty minutes later in Skin Row", "Cuarenta minutos después, en Skin Row"),
+        # ba_chp5:289 (valor_nombre)
+        ("Dog", "Perro"),
+        # ba_chp5:333 (valor_nombre)
+        ("Stella's Dad", "Papá de Stella"),
+        # ba_chp5:481 (valor_nombre)
+        ("Stella's Mom", "Mamá de Stella"),
+        # ba_chp6:16 (texto)
+        ("Three Years Ago", "Hace tres años"),
+        # ba_chp6:545 (texto)
+        ("Present Day", "En la actualidad"),
+        # badapple:15 (nombre que sale de una variable)
+        ("[baRosaMomName]", "[baRosaMomName!t]"),
+        # badapple:16 (nombre)
+        ("Pharmacist", "Farmacéutica"),
+        # badapple:17 (nombre)
+        ("Dad", "Papá"),
+        # badapple:19 (nombre)
+        ("Cashier", "Cajera"),
+        # badapple:20 (nombre)
+        ("Clerk", "Dependiente"),
+        # badapple:21 (nombre)
+        ("Announcer", "Anunciador"),
+        # badapple:22 (nombre)
+        ("Security Guard", "Guardia de seguridad"),
+        # badapple:28 (nombre que sale de una variable)
+        ("[baStellaDadName]", "[baStellaDadName!t]"),
+        # badapple:30 (nombre que sale de una variable)
+        ("[baStellaMomName]", "[baStellaMomName!t]"),
+        # badapple:32 (nombre que sale de una variable)
+        ("[baStellaDogName]", "[baStellaDogName!t]"),
+        # badapple:33 (nombre)
+        ("Intercom", "Intercomunicador"),
+        # badapple:34 (nombre)
+        ("Ms. Prockling", "Srta. Prockling"),
+    ])
